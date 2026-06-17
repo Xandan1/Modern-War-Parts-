@@ -1,0 +1,202 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_2way_pipe.obj",
+            "margin" : 0.1250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Very Small Pipe Short LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/VerySmallPipeShort.rend",
+         "rotationSet" : "PropXmm",
+         "sticky" : "-X+X",
+         "uuid" : "13525db1-394a-4eca-954a-e97367782a4b"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_2way_pipe.obj",
+            "margin" : 0.1250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Very Small Pipe Short LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 2,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/VerySmallPipeShort.rend",
+         "rotationSet" : "PropXmm",
+         "sticky" : "-X+X",
+         "uuid" : "b21ed966-b461-4cb0-8359-343510f53312"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_2way_pipe.obj",
+            "margin" : 0.1250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Very Small Pipe Short LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 3,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/VerySmallPipeShort.rend",
+         "rotationSet" : "PropXmm",
+         "sticky" : "-X+X",
+         "uuid" : "3524881a-e37c-4b87-8b8a-b5bead81b34f"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_2way_pipe.obj",
+            "margin" : 0.1250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Very Small Pipe Short LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 4,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/VerySmallPipeShort.rend",
+         "rotationSet" : "PropXmm",
+         "sticky" : "-X+X",
+         "uuid" : "d49ad7f5-6062-49a4-9fa4-d99811fbe2b5"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_2way_pipe.obj",
+            "margin" : 0.1250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Very Small Pipe Short LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 5,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/VerySmallPipeShort.rend",
+         "rotationSet" : "PropXmm",
+         "sticky" : "-X+X",
+         "uuid" : "a0e46f75-92be-4c25-a967-179940be0dd9"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_2way_pipe.obj",
+            "margin" : 0.1250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Very Small Pipe Short LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 6,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/VerySmallPipeShort.rend",
+         "rotationSet" : "PropXmm",
+         "sticky" : "-X+X",
+         "uuid" : "eafdb29d-93c9-4d84-8d57-4eb88d6e67ff"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_2way_pipe.obj",
+            "margin" : 0.1250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Very Small Pipe Short LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 7,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/VerySmallPipeShort.rend",
+         "rotationSet" : "PropXmm",
+         "sticky" : "-X+X",
+         "uuid" : "33dd33e9-18f5-4f71-be79-2a89dda66705"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_2way_pipe.obj",
+            "margin" : 0.1250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Very Small Pipe Short LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 8,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/VerySmallPipeShort.rend",
+         "rotationSet" : "PropXmm",
+         "sticky" : "-X+X",
+         "uuid" : "5b6c2d26-8eb5-4283-86df-3c9df7e861e4"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_2way_pipe.obj",
+            "margin" : 0.1250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Very Small Pipe Short LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 9,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/VerySmallPipeShort.rend",
+         "rotationSet" : "PropXmm",
+         "sticky" : "-X+X",
+         "uuid" : "e50e8b65-d54d-474f-a2ad-2d0c698f5f3a"
+      }
+   ]
+}

@@ -1,0 +1,17 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$CONTENT_DATA/Objects/Mesh/MiddleNarrowWheel.fbx",
+         "subMeshList" : [
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$GAME_DATA/Objects/Textures/vehicle/obj_vehicle_smallwheel_dif.tga",
+                  "$GAME_DATA/Objects/Textures/vehicle/obj_vehicle_smallwheel_asg.tga",
+                  "$GAME_DATA/Objects/Textures/vehicle/obj_vehicle_smallwheel_nor.tga"
+               ]
+            }
+         ]
+      }
+   ]
+}

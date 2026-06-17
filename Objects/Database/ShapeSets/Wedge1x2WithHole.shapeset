@@ -1,0 +1,193 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_bigrampthinsmall.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 1x2 With Hole LVL 1 Author: AgaliX",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge1x2WithHole.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "0c886b41-cc28-4d1a-be38-91fad37a2f00"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_bigrampthinsmall.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 1x2 With Hole LVL 2 Author: AgaliX",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 2,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge1x2WithHole.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "5b1f507f-b51d-41eb-934f-e267d8db4df1"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_bigrampthinsmall.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 1x2 With Hole LVL 3 Author: AgaliX",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 3,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge1x2WithHole.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "ca4fa011-8106-4107-a806-455d0688907f"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_bigrampthinsmall.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 1x2 With Hole LVL 4 Author: AgaliX",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 4,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge1x2WithHole.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "6b4b5308-4e58-4509-8e9c-99855b0231b5"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_bigrampthinsmall.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 1x2 With Hole LVL 5 Author: AgaliX",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 5,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge1x2WithHole.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "e65eeb22-eec4-4994-a11b-46906e4dc6b1"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_bigrampthinsmall.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 1x2 With Hole LVL 6 Author: AgaliX",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 6,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge1x2WithHole.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "1486933e-cb95-41d5-b119-63cd02199fcf"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_bigrampthinsmall.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 1x2 With Hole LVL 7 Author: AgaliX",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 7,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge1x2WithHole.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "6b1b5ae9-6e53-4921-9936-78eba47e6cc0"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_bigrampthinsmall.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 1x2 With Hole LVL 8 Author: AgaliX",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 8,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge1x2WithHole.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "fdf5a1fd-b490-4f73-ac02-5afd02c1cdd1"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_bigrampthinsmall.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 1x2 With Hole LVL 9 Author: AgaliX",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 9,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge1x2WithHole.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "9d57fb42-b6b6-46c0-84dd-93c6750e7032"
+      }
+   ]
+}

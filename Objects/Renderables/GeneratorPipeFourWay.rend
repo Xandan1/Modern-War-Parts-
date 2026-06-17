@@ -1,0 +1,18 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$SURVIVAL_DATA/Objects/Mesh/fittings/obj_fittings_generatorpipemulti.fbx",
+         "subMeshList" : [
+            {
+               "material" : "DifAsgNorAo",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/Atlas_pipe_corner_dif.tga",
+                  "$CONTENT_DATA/Objects/Textures/Atlas_pipe_corner_asg.tga",
+                  "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_nor.tga",
+                  "$SURVIVAL_DATA/Objects/Textures/fittings/obj_fittings_generatorpipe_ao.tga"
+               ]
+            }
+         ]
+      }
+   ]
+}

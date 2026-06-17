@@ -1,0 +1,382 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_decor_screw01.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Screw LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 6
+         },
+         "renderable" : "$GAME_DATA/Objects/Renderable/decor/obj_decor_screw01.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y",
+         "uuid" : "fab932aa-a264-4c91-8f65-cec4832dad10"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_decor_screw01.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Screw LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 2,
+            "durability" : 2,
+            "friction" : 6
+         },
+         "renderable" : "$GAME_DATA/Objects/Renderable/decor/obj_decor_screw01.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y",
+         "uuid" : "1c8044ff-6714-4718-8e0e-17ed586b4e60"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_decor_screw01.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Screw LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 2,
+            "durability" : 3,
+            "friction" : 6
+         },
+         "renderable" : "$GAME_DATA/Objects/Renderable/decor/obj_decor_screw01.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y",
+         "uuid" : "cfeba66b-b8f8-4bca-9bff-45eee3afdae1"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_decor_screw01.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Screw LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 2,
+            "durability" : 4,
+            "friction" : 6
+         },
+         "renderable" : "$GAME_DATA/Objects/Renderable/decor/obj_decor_screw01.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y",
+         "uuid" : "3c6acc9c-e448-4102-b22b-6b53f74109c3"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_decor_screw01.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Screw LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 2,
+            "durability" : 5,
+            "friction" : 6
+         },
+         "renderable" : "$GAME_DATA/Objects/Renderable/decor/obj_decor_screw01.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y",
+         "uuid" : "7415616c-9856-4b51-abe6-37473b1ad37e"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_decor_screw01.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Screw LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 2,
+            "durability" : 6,
+            "friction" : 6
+         },
+         "renderable" : "$GAME_DATA/Objects/Renderable/decor/obj_decor_screw01.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y",
+         "uuid" : "fc7cd6e2-acd3-4228-9cc2-8b2ce3a44520"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_decor_screw01.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Screw LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 2,
+            "durability" : 7,
+            "friction" : 6
+         },
+         "renderable" : "$GAME_DATA/Objects/Renderable/decor/obj_decor_screw01.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y",
+         "uuid" : "95d66b62-8fb7-42e7-b09f-87d5f61e7360"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_decor_screw01.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Screw LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 2,
+            "durability" : 8,
+            "friction" : 6
+         },
+         "renderable" : "$GAME_DATA/Objects/Renderable/decor/obj_decor_screw01.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y",
+         "uuid" : "f726a033-2e90-48b4-bbfa-dc2e319e6778"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_decor_screw01.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Screw LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 2,
+            "durability" : 9,
+            "friction" : 6
+         },
+         "renderable" : "$GAME_DATA/Objects/Renderable/decor/obj_decor_screw01.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y",
+         "uuid" : "535a7db7-15a2-4dfb-82e3-f7c5c3232e60"
+      },
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_decor_screw02.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Nut LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 6
+         },
+         "renderable" : "$GAME_DATA/Objects/Renderable/decor/obj_decor_screw02.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y",
+         "uuid" : "26b26664-6340-4753-a0d2-44c2b1cc2230"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_decor_screw02.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Nut LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 2,
+            "durability" : 2,
+            "friction" : 6
+         },
+         "renderable" : "$GAME_DATA/Objects/Renderable/decor/obj_decor_screw02.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y",
+         "uuid" : "cea7283d-16d9-415c-ad9e-52e9bb03883e"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_decor_screw02.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Nut LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 2,
+            "durability" : 3,
+            "friction" : 6
+         },
+         "renderable" : "$GAME_DATA/Objects/Renderable/decor/obj_decor_screw02.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y",
+         "uuid" : "6a9ea9d0-a0b0-412a-9398-63bafa2f2717"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_decor_screw02.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Nut LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 2,
+            "durability" : 4,
+            "friction" : 6
+         },
+         "renderable" : "$GAME_DATA/Objects/Renderable/decor/obj_decor_screw02.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y",
+         "uuid" : "755149a3-1e32-4a94-9993-c680984710d8"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_decor_screw02.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Nut LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 2,
+            "durability" : 5,
+            "friction" : 6
+         },
+         "renderable" : "$GAME_DATA/Objects/Renderable/decor/obj_decor_screw02.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y",
+         "uuid" : "ffd717f9-320f-4a11-973e-211291326dc1"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_decor_screw02.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Nut LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 2,
+            "durability" : 6,
+            "friction" : 6
+         },
+         "renderable" : "$GAME_DATA/Objects/Renderable/decor/obj_decor_screw02.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y",
+         "uuid" : "ee56140e-a92a-4b8d-ab3e-307ddec445b3"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_decor_screw02.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Nut LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 2,
+            "durability" : 7,
+            "friction" : 6
+         },
+         "renderable" : "$GAME_DATA/Objects/Renderable/decor/obj_decor_screw02.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y",
+         "uuid" : "7c527386-c5b5-49a6-b788-36470a44e5f4"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_decor_screw02.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Nut LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 2,
+            "durability" : 8,
+            "friction" : 6
+         },
+         "renderable" : "$GAME_DATA/Objects/Renderable/decor/obj_decor_screw02.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y",
+         "uuid" : "46553c1f-02ec-4938-82a8-fb3a4bdc8ca8"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_decor_screw02.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Nut LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 2,
+            "durability" : 9,
+            "friction" : 6
+         },
+         "renderable" : "$GAME_DATA/Objects/Renderable/decor/obj_decor_screw02.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y",
+         "uuid" : "a158c9f0-087e-4962-8c78-3fe7525226f2"
+      }
+   ]
+}

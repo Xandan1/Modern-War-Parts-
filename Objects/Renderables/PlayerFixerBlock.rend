@@ -1,0 +1,13 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$CONTENT_DATA/Objects/Mesh/Box.fbx",
+         "subMeshList" : [
+            {
+               "material" : "Dif",
+               "textureList" : []
+            }
+         ]
+      }
+   ]
+}

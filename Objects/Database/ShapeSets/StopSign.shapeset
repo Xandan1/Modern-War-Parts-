@@ -1,0 +1,193 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/StopSignCol.obj",
+            "x" : 3,
+            "y" : 3,
+            "z" : 1
+         },
+         "name" : "Stop Sign LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/StopSign.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "d7ef82c6-97b7-4f5e-9c77-03f783fabef9"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/StopSignCol.obj",
+            "x" : 3,
+            "y" : 3,
+            "z" : 1
+         },
+         "name" : "Stop Sign LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/StopSign.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "6d1a6408-3845-43a9-ac6e-32af458a957a"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/StopSignCol.obj",
+            "x" : 3,
+            "y" : 3,
+            "z" : 1
+         },
+         "name" : "Stop Sign LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 3,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/StopSign.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "5ee20876-ea06-4d3c-a4b4-e19655cd0309"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/StopSignCol.obj",
+            "x" : 3,
+            "y" : 3,
+            "z" : 1
+         },
+         "name" : "Stop Sign LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 4,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/StopSign.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "b296f7fd-f31d-479f-90bf-a14d0632d61f"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/StopSignCol.obj",
+            "x" : 3,
+            "y" : 3,
+            "z" : 1
+         },
+         "name" : "Stop Sign LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 5,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/StopSign.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "82190647-8d13-4e87-9b8a-63bcb523838c"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/StopSignCol.obj",
+            "x" : 3,
+            "y" : 3,
+            "z" : 1
+         },
+         "name" : "Stop Sign LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 6,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/StopSign.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "7ee1227d-3eaf-411f-93d2-0beeb369662e"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/StopSignCol.obj",
+            "x" : 3,
+            "y" : 3,
+            "z" : 1
+         },
+         "name" : "Stop Sign LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 7,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/StopSign.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "df24f694-bbcf-45b3-96ad-6a9d90e34f30"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/StopSignCol.obj",
+            "x" : 3,
+            "y" : 3,
+            "z" : 1
+         },
+         "name" : "Stop Sign LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 8,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/StopSign.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "f7da91e3-06c5-4f12-87ed-c4cd235cd795"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/StopSignCol.obj",
+            "x" : 3,
+            "y" : 3,
+            "z" : 1
+         },
+         "name" : "Stop Sign LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 9,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/StopSign.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "e8971f97-7809-4a04-b4b4-8b1edd6f90b1"
+      }
+   ]
+}

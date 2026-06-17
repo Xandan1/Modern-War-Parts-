@@ -1,0 +1,25 @@
+<MyGUI type="Layout" version="3.2.0">
+	<Widget type="Widget" layer="Main" align="Center" skin="HudBackgroundLarge" position_real="0.3854166666666667 0.3212962962962963 0.2296875 0.3574074074074074">
+		<Property key="Alpha" value="0.9" />
+		<Widget type="Button" skin="StyledButtonLarge" name="BUTTON_APPLY" position_real="0.20408163265306123 0.8290155440414507 0.5895691609977324 0.14248704663212436">
+			<Property key="FontName" value="SM_LabelSmall" />
+			<Property key="TextAlign" value="Center" />
+			<Property key="TextColour" value="#000000" />
+		</Widget>
+		<Widget type="Widget" skin="HudBackgroundLarge" position_real="0.09070294784580499 0.038860103626943004 0.8163265306122449 0.12953367875647667">
+			<Widget type="TextBox" skin="SMTextBox_NoBackground" name="TEXT_LABEL" position_real="0.013888888888888888 0.1 0.9722222222222222 0.8">
+				<Property key="FontName" value="SM_LabelSmall" />
+				<Property key="TextAlign" value="Center" />
+			</Widget>
+		</Widget>
+		<Widget type="Widget" skin="HudBackgroundLarge" position_real="0.272108843537415 0.23316062176165803 0.45351473922902497 0.10362694300518134">
+			<Widget type="TextBox" skin="SMTextBox_NoBackground" name="NAME_SELECTED_ART" position_real="0.025 0.125 0.95 0.75">
+				<Property key="TextAlign" value="Center" />
+				<Property key="FontName" value="SM_HotbarBinding" />
+			</Widget>
+		</Widget>
+		<Widget type="ImageBox" skin="ImageBox" name="IMAGE_SELECTED_ART" position_real="0.3129251700680272 0.3756476683937824 0.3741496598639456 0.4274611398963731" />
+		<Widget type="Button" skin="DressbotArrowLeft" name="BUTTON_ART_BACK" position_real="0.1473922902494331 0.23316062176165803 0.09070294784580499 0.10362694300518134" />
+		<Widget type="Button" skin="DressbotArrowRight" name="BUTTON_ART_NEXT" position_real="0.7596371882086168 0.23316062176165803 0.09070294784580499 0.10362694300518134" />
+	</Widget>
+</MyGUI>

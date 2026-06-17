@@ -1,0 +1,18 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$CONTENT_DATA/Objects/Mesh/SmallPart.fbx",
+         "subMeshList" : [
+            {
+               "material" : "DifAsgNorAo",
+               "textureList" : [
+                  "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_dif.tga",
+                  "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_asg.tga",
+                  "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_nor.tga",
+                  "$GAME_DATA/Objects/Textures/industrial/obj_industrial_stairwedge_ao.tga"
+               ]
+            }
+         ]
+      }
+   ]
+}

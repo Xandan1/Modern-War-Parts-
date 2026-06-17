@@ -1,0 +1,17 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$CONTENT_DATA/Objects/Mesh/Abrams_model.fbx",
+         "subMeshList" : [
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/Abrams_metal_dif.tga",
+                  "$CONTENT_DATA/Objects/textures/Nothing_asg.tga",
+                  "$CONTENT_DATA/Objects/Textures/Nothing_nor.tga"
+               ]
+            }
+         ]
+      }
+   ]
+}

@@ -1,0 +1,193 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_fittings_generatorpipebend.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Generator Pipe Bend LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeBend.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y-Z",
+         "uuid" : "c235973e-76db-4318-9632-9347117a036c"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_fittings_generatorpipebend.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Generator Pipe Bend LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeBend.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y-Z",
+         "uuid" : "f3ebf5aa-97e7-439c-8c85-7f5e7a41f57f"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_fittings_generatorpipebend.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Generator Pipe Bend LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeBend.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y-Z",
+         "uuid" : "c7e5cb80-5e66-437a-9868-2608e4717fd8"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_fittings_generatorpipebend.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Generator Pipe Bend LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 4,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeBend.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y-Z",
+         "uuid" : "9c43529c-1def-4406-a961-127b9a766c85"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_fittings_generatorpipebend.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Generator Pipe Bend LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 5,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeBend.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y-Z",
+         "uuid" : "30afe50f-7378-46ef-8fdd-bd2a8b2cb660"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_fittings_generatorpipebend.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Generator Pipe Bend LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 6,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeBend.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y-Z",
+         "uuid" : "aef45ac1-79d8-4fed-83f5-35ff40ba495d"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_fittings_generatorpipebend.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Generator Pipe Bend LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 7,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeBend.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y-Z",
+         "uuid" : "9b885174-a601-439e-b377-3575c1427275"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_fittings_generatorpipebend.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Generator Pipe Bend LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 8,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeBend.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y-Z",
+         "uuid" : "55ecc4d0-d129-42fd-a825-6f998d3e7abd"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_fittings_generatorpipebend.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Generator Pipe Bend LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 9,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeBend.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y-Z",
+         "uuid" : "e66a802f-711e-4ad9-bccc-541866bc5287"
+      }
+   ]
+}

@@ -1,0 +1,202 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_vehicle_concavewedge.obj",
+            "margin" : 0.0,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Concave Wedge LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/ConcaveWedge.rend",
+         "rotationSet" : "PropYX",
+         "sticky" : "-Y+Y-X+X-Z+Z",
+         "uuid" : "1c83d701-8285-45ce-8b1b-574522b19481"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_vehicle_concavewedge.obj",
+            "margin" : 0.0,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Concave Wedge LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 5,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/ConcaveWedge.rend",
+         "rotationSet" : "PropYX",
+         "sticky" : "-Y+Y-X+X-Z+Z",
+         "uuid" : "75721bd9-f6c6-44a7-a21a-0fbbd6858777"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_vehicle_concavewedge.obj",
+            "margin" : 0.0,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Concave Wedge LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 5,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/ConcaveWedge.rend",
+         "rotationSet" : "PropYX",
+         "sticky" : "-Y+Y-X+X-Z+Z",
+         "uuid" : "2238f498-f8d6-4ba0-816d-379203460e5f"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_vehicle_concavewedge.obj",
+            "margin" : 0.0,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Concave Wedge LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 5,
+            "durability" : 4,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/ConcaveWedge.rend",
+         "rotationSet" : "PropYX",
+         "sticky" : "-Y+Y-X+X-Z+Z",
+         "uuid" : "aec16e64-9408-40f5-817b-d17e6c44a6ba"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_vehicle_concavewedge.obj",
+            "margin" : 0.0,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Concave Wedge LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 5,
+            "durability" : 5,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/ConcaveWedge.rend",
+         "rotationSet" : "PropYX",
+         "sticky" : "-Y+Y-X+X-Z+Z",
+         "uuid" : "04a7147a-dfad-49ec-8ed0-d83c55dd83b1"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_vehicle_concavewedge.obj",
+            "margin" : 0.0,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Concave Wedge LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 5,
+            "durability" : 6,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/ConcaveWedge.rend",
+         "rotationSet" : "PropYX",
+         "sticky" : "-Y+Y-X+X-Z+Z",
+         "uuid" : "a9f32141-aa56-4858-81ad-587a5d99c6d8"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_vehicle_concavewedge.obj",
+            "margin" : 0.0,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Concave Wedge LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 5,
+            "durability" : 7,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/ConcaveWedge.rend",
+         "rotationSet" : "PropYX",
+         "sticky" : "-Y+Y-X+X-Z+Z",
+         "uuid" : "79277561-788e-46eb-b53c-18f3a6b1d5cf"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_vehicle_concavewedge.obj",
+            "margin" : 0.0,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Concave Wedge LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 5,
+            "durability" : 8,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/ConcaveWedge.rend",
+         "rotationSet" : "PropYX",
+         "sticky" : "-Y+Y-X+X-Z+Z",
+         "uuid" : "45aab4f1-a37d-4d3a-9f45-ca4915d873aa"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_vehicle_concavewedge.obj",
+            "margin" : 0.0,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Concave Wedge LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 5,
+            "durability" : 9,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/ConcaveWedge.rend",
+         "rotationSet" : "PropYX",
+         "sticky" : "-Y+Y-X+X-Z+Z",
+         "uuid" : "1e0949bf-17e2-49a7-a67c-18c707a49d7b"
+      }
+   ]
+}

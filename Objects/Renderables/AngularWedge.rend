@@ -1,0 +1,18 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$CONTENT_DATA/Objects/Mesh/AngularWedge.fbx",
+         "subMeshList" : [
+            {
+               "material" : "DifAsgNorAo",
+               "textureList" : [
+                  "$MOD_DATA/Objects/Textures/blk_metal2_dif.tga",
+                  "$MOD_DATA/Objects/Textures/blk_metal2_asg.tga",
+                  "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_nor.tga",
+                  "$GAME_DATA/Objects/Textures/industrial/obj_industrial_stairwedge_ao.tga"
+               ]
+            }
+         ]
+      }
+   ]
+}

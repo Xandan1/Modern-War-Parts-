@@ -1,0 +1,202 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlate1x1Col.obj",
+            "margin" : 0.0,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 Glass LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlate1x1Glass.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "+Y-Y+Z-Z+X-X",
+         "uuid" : "1015a344-327c-4fc9-8fb2-6d533c703bfc"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlate1x1Col.obj",
+            "margin" : 0.0,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 Glass LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 2,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlate1x1Glass.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "+Y-Y+Z-Z+X-X",
+         "uuid" : "051ff901-000a-470f-9ec5-e7ee096224ae"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlate1x1Col.obj",
+            "margin" : 0.0,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 Glass LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 3,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlate1x1Glass.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "+Y-Y+Z-Z+X-X",
+         "uuid" : "1cbed7f3-a9dd-4907-82e3-5893d74ccfed"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlate1x1Col.obj",
+            "margin" : 0.0,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 Glass LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 4,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlate1x1Glass.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "+Y-Y+Z-Z+X-X",
+         "uuid" : "1940ff0c-cd3b-414c-ba74-ca178c9d4943"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlate1x1Col.obj",
+            "margin" : 0.0,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 Glass LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 5,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlate1x1Glass.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "+Y-Y+Z-Z+X-X",
+         "uuid" : "34c11aed-b791-4a9e-8b43-5e0e556a0634"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlate1x1Col.obj",
+            "margin" : 0.0,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 Glass LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 6,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlate1x1Glass.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "+Y-Y+Z-Z+X-X",
+         "uuid" : "80b76df3-b92b-4069-ac98-da22b79a8333"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlate1x1Col.obj",
+            "margin" : 0.0,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 Glass LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 7,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlate1x1Glass.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "+Y-Y+Z-Z+X-X",
+         "uuid" : "0341e506-a4d8-4f92-b9b0-65e563e8ccac"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlate1x1Col.obj",
+            "margin" : 0.0,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 Glass LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 8,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlate1x1Glass.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "+Y-Y+Z-Z+X-X",
+         "uuid" : "b04c7ce3-3e21-4e84-a878-e3be11c2b2e6"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlate1x1Col.obj",
+            "margin" : 0.0,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 Glass LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 9,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlate1x1Glass.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "+Y-Y+Z-Z+X-X",
+         "uuid" : "cb4ce3b6-7282-4015-9630-31955834cd62"
+      }
+   ]
+}

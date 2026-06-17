@@ -1,0 +1,18 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$CONTENT_DATA/Objects/Mesh/StopSign2x2.fbx",
+         "pose0" : "$CONTENT_DATA/Objects/Mesh/StopSign2x2.fbx",
+         "subMeshList" : [
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/SignDif.tga",
+                  "$CONTENT_DATA/Objects/Textures/SignAsg.tga",
+                  "$CONTENT_DATA/Objects/Textures/SignNor.tga"
+               ]
+            }
+         ]
+      }
+   ]
+}

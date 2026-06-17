@@ -1,0 +1,202 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlate1x1Col.obj",
+            "margin" : 0.0,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlate1x1.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "+Y-Y+Z-Z+X-X",
+         "uuid" : "de2c6d9f-2d7a-4790-8ea5-1b6012ed8fb2"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlate1x1Col.obj",
+            "margin" : 0.0,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 2,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlate1x1.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "+Y-Y+Z-Z+X-X",
+         "uuid" : "d2ac2de1-8236-40ae-acc0-e36fafbc0e7a"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlate1x1Col.obj",
+            "margin" : 0.0,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 3,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlate1x1.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "+Y-Y+Z-Z+X-X",
+         "uuid" : "2580cd07-c690-452b-8fd6-5ad1f82acc1c"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlate1x1Col.obj",
+            "margin" : 0.0,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 4,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlate1x1.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "+Y-Y+Z-Z+X-X",
+         "uuid" : "96d38f0e-20b4-4139-a91a-36991f642af0"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlate1x1Col.obj",
+            "margin" : 0.0,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 5,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlate1x1.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "+Y-Y+Z-Z+X-X",
+         "uuid" : "b5ea5d69-dc0f-40ae-b9a7-b51f191ac037"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlate1x1Col.obj",
+            "margin" : 0.0,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 6,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlate1x1.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "+Y-Y+Z-Z+X-X",
+         "uuid" : "e55e8574-413d-4c97-8f8b-1d9f6f783025"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlate1x1Col.obj",
+            "margin" : 0.0,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 7,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlate1x1.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "+Y-Y+Z-Z+X-X",
+         "uuid" : "aa0a39b4-99ce-42c4-872d-0245e6079664"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlate1x1Col.obj",
+            "margin" : 0.0,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 8,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlate1x1.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "+Y-Y+Z-Z+X-X",
+         "uuid" : "1472ecec-e526-4f27-b8a5-953de5a62637"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlate1x1Col.obj",
+            "margin" : 0.0,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 9,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlate1x1.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "+Y-Y+Z-Z+X-X",
+         "uuid" : "4a34f115-23f6-4575-95da-a4543a71207a"
+      }
+   ]
+}

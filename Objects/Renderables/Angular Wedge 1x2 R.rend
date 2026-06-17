@@ -1,0 +1,17 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$CONTENT_DATA/Objects/Mesh/Pol_XMtoPM_R_1X2.obj",
+         "subMeshList" : [
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$MOD_DATA/Objects/Textures/blk_metal2_dif.tga",
+                  "$MOD_DATA/Objects/Textures/blk_metal2_asg.tga",
+                  "$MOD_DATA/Objects/Textures/blk_metal2_nor.tga"
+               ]
+            }
+         ]
+      }
+   ]
+}

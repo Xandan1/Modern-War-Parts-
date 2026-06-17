@@ -1,0 +1,21 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$CONTENT_DATA/Objects/Mesh/SteelSupportBracketLeftOffset.fbx",
+         "subMeshList" : [
+            {
+               "material" : "Visualization",
+               "textureList" : []
+            },
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/SteelSupportBracketDif.tga",
+                  "$SURVIVAL_DATA/Objects/Textures/industrial/obj_industrial_generator7_asg.tga",
+                  "$SURVIVAL_DATA/Objects/Textures/industrial/obj_industrial_generator7_nor.tga"
+               ]
+            }
+         ]
+      }
+   ]
+}

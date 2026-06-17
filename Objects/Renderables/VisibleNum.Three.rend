@@ -1,0 +1,17 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$CONTENT_DATA/Objects/Mesh/NumberThree.fbx",
+         "subMeshList" : [
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/NothingDif.tga",
+                  "$CONTENT_DATA/Objects/Textures/NothingAsg.tga",
+                  "$CONTENT_DATA/Objects/Textures/NothingNor.tga"
+               ]
+            }
+         ]
+      }
+   ]
+}

@@ -1,0 +1,202 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/ConstructionSignCol.obj",
+            "x" : 5,
+            "y" : 2,
+            "z" : 1
+         },
+         "name" : "Construction Sign LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/ConstructionZoneSign.rend",
+         "rotationSet" : "PropZ",
+         "showInInventory" : false,
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "f0893ddb-0ccc-408c-92d1-f95038509e29"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/ConstructionSignCol.obj",
+            "x" : 5,
+            "y" : 2,
+            "z" : 1
+         },
+         "name" : "Construction Sign LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/ConstructionZoneSign.rend",
+         "rotationSet" : "PropZ",
+         "showInInventory" : false,
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "4a3b5465-f1e6-4fb7-bf79-15d0ba3b8324"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/ConstructionSignCol.obj",
+            "x" : 5,
+            "y" : 2,
+            "z" : 1
+         },
+         "name" : "Construction Sign LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 3,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/ConstructionZoneSign.rend",
+         "rotationSet" : "PropZ",
+         "showInInventory" : false,
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "9de873d3-2b46-40f0-821f-7df7e8e6779f"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/ConstructionSignCol.obj",
+            "x" : 5,
+            "y" : 2,
+            "z" : 1
+         },
+         "name" : "Construction Sign LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 4,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/ConstructionZoneSign.rend",
+         "rotationSet" : "PropZ",
+         "showInInventory" : false,
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "31e5051f-c0e2-4956-9f3a-07f29691a92f"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/ConstructionSignCol.obj",
+            "x" : 5,
+            "y" : 2,
+            "z" : 1
+         },
+         "name" : "Construction Sign LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 5,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/ConstructionZoneSign.rend",
+         "rotationSet" : "PropZ",
+         "showInInventory" : false,
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "ba048a87-5ce1-47f0-98bc-2fd5bf88a740"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/ConstructionSignCol.obj",
+            "x" : 5,
+            "y" : 2,
+            "z" : 1
+         },
+         "name" : "Construction Sign LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 6,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/ConstructionZoneSign.rend",
+         "rotationSet" : "PropZ",
+         "showInInventory" : false,
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "d262ac13-0977-4fbd-9740-161a15b490af"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/ConstructionSignCol.obj",
+            "x" : 5,
+            "y" : 2,
+            "z" : 1
+         },
+         "name" : "Construction Sign LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 7,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/ConstructionZoneSign.rend",
+         "rotationSet" : "PropZ",
+         "showInInventory" : false,
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "4113ee57-0e56-4f9e-b978-e1c1c1ceaaf4"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/ConstructionSignCol.obj",
+            "x" : 5,
+            "y" : 2,
+            "z" : 1
+         },
+         "name" : "Construction Sign LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 8,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/ConstructionZoneSign.rend",
+         "rotationSet" : "PropZ",
+         "showInInventory" : false,
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "94d54100-9e61-406d-a0e1-76bc373198bd"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/ConstructionSignCol.obj",
+            "x" : 5,
+            "y" : 2,
+            "z" : 1
+         },
+         "name" : "Construction Sign LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 9,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/ConstructionZoneSign.rend",
+         "rotationSet" : "PropZ",
+         "showInInventory" : false,
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "6fd695aa-bc0b-4070-a0ac-9372af802ecb"
+      }
+   ]
+}

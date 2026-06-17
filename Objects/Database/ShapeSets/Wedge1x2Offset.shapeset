@@ -1,0 +1,400 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/Wedge1x2LeftOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 1x2 Left Col LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 1,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge1x2.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "223cdbb4-3538-4d8c-9f34-a041c5b84d58"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/Wedge1x2LeftOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 1x2 Left Col LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 2,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge1x2.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "dfbf253c-db27-4148-80ae-1b481e9359bc"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/Wedge1x2LeftOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 1x2 Left Col LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 3,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge1x2.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "86a2dd6b-78c9-4ba2-ad6b-73abedf2d95f"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/Wedge1x2LeftOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 1x2 Left Col LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 4,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge1x2.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "43193e90-f89a-4acb-a4de-117525c4b149"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/Wedge1x2LeftOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 1x2 Left Col LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 5,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge1x2.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "55ded9aa-4517-44d1-af6c-f72f156b3e8a"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/Wedge1x2LeftOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 1x2 Left Col LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 6,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge1x2.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "bec4214a-cfd9-4fd1-9846-261cbd6e7e67"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/Wedge1x2LeftOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 1x2 Left Col LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 7,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge1x2.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "d0b6aace-06e6-4788-b798-5aa80830cd3e"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/Wedge1x2LeftOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 1x2 Left Col LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 8,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge1x2.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "d20b3d1a-c975-411f-b289-e4266852acc8"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/Wedge1x2LeftOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 1x2 Left Col LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 9,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge1x2.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "04910ff9-058e-4451-b847-7e4d21782824"
+      },
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/Wedge1x2RightOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 1x2 Right Col LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge1x2.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "71ca44ea-d071-4a0e-9296-d31a389eef86"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/Wedge1x2RightOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 1x2 Right Col LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 2,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge1x2.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "80af1e3a-60b9-4be7-9818-dd7897e789e4"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/Wedge1x2RightOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 1x2 Right Col LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 3,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge1x2.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "386e5461-3a81-40ad-b30e-fb5b9b06cb2b"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/Wedge1x2RightOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 1x2 Right Col LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 4,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge1x2.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "d0fb6bb6-5258-471d-80cc-d87e2d370c81"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/Wedge1x2RightOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 1x2 Right Col LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 5,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge1x2.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "eac98cfb-b20c-4945-af01-0f5ef5892ca4"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/Wedge1x2RightOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 1x2 Right Col LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 6,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge1x2.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "cbe2f641-1f58-499d-b531-3350d31ea085"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/Wedge1x2RightOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 1x2 Right Col LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 7,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge1x2.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "a988c0cd-9614-401b-aa03-f52218b50eca"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/Wedge1x2RightOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 1x2 Right Col LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 8,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge1x2.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "928c5f83-f902-4026-a516-2aa19cb04d9b"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/Wedge1x2RightOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 1x2 Right Col LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 9,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge1x2.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "6314d3c6-51e1-4240-ad9d-641af5efbadd"
+      }
+   ]
+}

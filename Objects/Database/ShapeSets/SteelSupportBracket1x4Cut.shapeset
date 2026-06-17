@@ -1,0 +1,193 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/SteelSupportBracket1x2CutCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Steel Support Bracket 1x4 Cut LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x4Cut.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "fefdb08a-2f1d-4a43-bf7d-85b540be141a"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/SteelSupportBracket1x2CutCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Steel Support Bracket 1x4 Cut LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x4Cut.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "3d99f9b2-2071-48b7-adf3-8b4cf1d7ed27"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/SteelSupportBracket1x2CutCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Steel Support Bracket 1x4 Cut LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x4Cut.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "7c0fc2ef-9a28-4b45-97f4-d8fecfa36766"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/SteelSupportBracket1x2CutCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Steel Support Bracket 1x4 Cut LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 4,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x4Cut.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "38d7365b-8779-4ca5-8f6a-1c7336671c24"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/SteelSupportBracket1x2CutCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Steel Support Bracket 1x4 Cut LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 5,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x4Cut.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "8acaa4f0-4919-4319-b07c-3cf3137cb366"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/SteelSupportBracket1x2CutCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Steel Support Bracket 1x4 Cut LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 6,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x4Cut.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "1c99d877-b252-4a26-9349-ffcf1605e0e5"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/SteelSupportBracket1x2CutCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Steel Support Bracket 1x4 Cut LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 7,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x4Cut.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "3f4680f6-0d19-47d7-9ffd-6a09150b68f1"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/SteelSupportBracket1x2CutCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Steel Support Bracket 1x4 Cut LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 8,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x4Cut.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "d207a6c9-c3b4-4b88-afd3-2a1bb377a85e"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/SteelSupportBracket1x2CutCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Steel Support Bracket 1x4 Cut LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 9,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x4Cut.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "950c8cb1-10d1-4e8b-bc28-a47966b1ab8e"
+      }
+   ]
+}

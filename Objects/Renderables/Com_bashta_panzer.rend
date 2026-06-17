@@ -1,0 +1,97 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$CONTENT_DATA/Objects/Mesh/Com_panzer.obj",
+         "subMeshList" : [
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/Abrams_metal_dif.tga",
+                  "$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
+                  "$CONTENT_DATA/Objects/Textures/Nothing_nor.tga"
+               ]
+            },
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/Abrams_metal_dif.tga",
+                  "$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
+                  "$CONTENT_DATA/Objects/Textures/Nothing_nor.tga"
+               ]
+            },
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/Abrams_metal_dif.tga",
+                  "$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
+                  "$CONTENT_DATA/Objects/Textures/Nothing_nor.tga"
+               ]
+            },
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/Abrams_metal_dif.tga",
+                  "$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
+                  "$CONTENT_DATA/Objects/Textures/Nothing_nor.tga"
+               ]
+            },
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/Brown_dif.tga",
+                  "$SURVIVAL_DATA/Objects/Textures/blocks/blk_carpet_asg.tga",
+                  "$SURVIVAL_DATA/Objects/Textures/blocks/blk_carpet_nor.tga"
+               ]
+            },
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/Black_dif.tga",
+                  "$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
+                  "$CONTENT_DATA/Objects/Textures/Nothing_nor.tga"
+               ]
+            },
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/Brown_dif.tga",
+                  "$SURVIVAL_DATA/Objects/Textures/blocks/blk_carpet_asg.tga",
+                  "$SURVIVAL_DATA/Objects/Textures/blocks/blk_carpet_nor.tga"
+               ]
+            },
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/Wood_dif.tga",
+                  "$GAME_DATA/Objects/Textures/Blocks/blk_woodplanks01_asg.tga",
+                  "$CONTENT_DATA/Objects/Textures/Nothing_nor.tga"
+               ]
+            },
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/Black_dif.tga",
+                  "$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
+                  "$CONTENT_DATA/Objects/Textures/Nothing_nor.tga"
+               ]
+            },
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/Black_dif.tga",
+                  "$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
+                  "$CONTENT_DATA/Objects/Textures/Nothing_nor.tga"
+               ]
+            },
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/Abrams_metal_dif.tga",
+                  "$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
+                  "$CONTENT_DATA/Objects/Textures/Nothing_nor.tga"
+               ]
+            }
+         ]
+      }
+   ]
+}

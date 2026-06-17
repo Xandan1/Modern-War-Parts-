@@ -1,0 +1,193 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_fittings_generatorpipesplit.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Generator Pipe Tee LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeTee.rend",
+         "rotationSet" : "PropYZm",
+         "sticky" : "-Y+Y-Z",
+         "uuid" : "1f39bed7-d743-40b7-b3db-589973ee58dc"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_fittings_generatorpipesplit.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Generator Pipe Tee LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeTee.rend",
+         "rotationSet" : "PropYZm",
+         "sticky" : "-Y+Y-Z",
+         "uuid" : "87fd831b-e9e9-488c-9ff4-cd6cdab90347"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_fittings_generatorpipesplit.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Generator Pipe Tee LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeTee.rend",
+         "rotationSet" : "PropYZm",
+         "sticky" : "-Y+Y-Z",
+         "uuid" : "d0b22f7d-8fd2-4c09-8f22-f58856458555"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_fittings_generatorpipesplit.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Generator Pipe Tee LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 4,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeTee.rend",
+         "rotationSet" : "PropYZm",
+         "sticky" : "-Y+Y-Z",
+         "uuid" : "71a993cc-dc6d-41d4-bfcb-3041a8d622d6"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_fittings_generatorpipesplit.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Generator Pipe Tee LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 5,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeTee.rend",
+         "rotationSet" : "PropYZm",
+         "sticky" : "-Y+Y-Z",
+         "uuid" : "dddedc6d-7b12-4d5c-9773-4f7ae5a806c1"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_fittings_generatorpipesplit.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Generator Pipe Tee LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 6,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeTee.rend",
+         "rotationSet" : "PropYZm",
+         "sticky" : "-Y+Y-Z",
+         "uuid" : "8662efc3-db49-4bac-ae87-831e45137fa4"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_fittings_generatorpipesplit.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Generator Pipe Tee LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 7,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeTee.rend",
+         "rotationSet" : "PropYZm",
+         "sticky" : "-Y+Y-Z",
+         "uuid" : "54471c59-03b2-414a-82e1-277ded616c41"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_fittings_generatorpipesplit.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Generator Pipe Tee LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 8,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeTee.rend",
+         "rotationSet" : "PropYZm",
+         "sticky" : "-Y+Y-Z",
+         "uuid" : "e2ab55d4-9247-4f5f-b749-123db8fd5ed7"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_fittings_generatorpipesplit.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Generator Pipe Tee LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 9,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeTee.rend",
+         "rotationSet" : "PropYZm",
+         "sticky" : "-Y+Y-Z",
+         "uuid" : "51a74724-bc2c-4fe3-8c45-9d31749a4435"
+      }
+   ]
+}

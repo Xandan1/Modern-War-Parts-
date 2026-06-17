@@ -1,0 +1,1956 @@
+{
+   "partList" : [
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "8c9c3f",
+         "name" : "Office Chair 1x1 Collision",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 3,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/OfficeChair.rend",
+         "rotationSet" : "PropY",
+         "steering" : {
+            "bones" : [
+               {
+                  "name" : "Hips",
+                  "offset" : {
+                     "x" : 0.0,
+                     "y" : 0.80,
+                     "z" : 0.50
+                  }
+               },
+               {
+                  "freeRotation" : true,
+                  "name" : "LeftForeArm",
+                  "offset" : {
+                     "x" : 1.0,
+                     "y" : 1.50,
+                     "z" : 1.50
+                  }
+               },
+               {
+                  "freeRotation" : true,
+                  "name" : "RightForeArm",
+                  "offset" : {
+                     "x" : -1.0,
+                     "y" : 1.50,
+                     "z" : 1.50
+                  }
+               }
+            ],
+            "enterAudio" : "Seat seated",
+            "exitAudio" : "Seat unseated",
+            "ragdollFile" : "$CONTENT_DATA/Character/SeatRagdoll.json"
+         },
+         "sticky" : "-Y-Z",
+         "uuid" : "caba0056-baa7-4ced-abb8-9917b161bf7c"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/StopSign2x2Col.obj",
+            "x" : 2,
+            "y" : 2,
+            "z" : 1
+         },
+         "lever" : {},
+         "name" : "Stop Sign 2x2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/StopSign2x2.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "a3a1d4a8-bc7f-40f7-84e9-03ccdf474553"
+      },
+      {
+         "color" : "c36512",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_decor_screw01.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Screw Spotlight",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 2,
+            "durability" : 3,
+            "friction" : 4
+         },
+         "renderable" : "$GAME_DATA/Objects/Renderable/decor/obj_decor_screw01.rend",
+         "rotationSet" : "PropY",
+         "spotlight" : {
+            "defaultLuminance" : 40,
+            "direction" : {
+               "x" : 0.0,
+               "y" : 0.0,
+               "z" : 1.0
+            },
+            "effect" : "FloodLight"
+         },
+         "sticky" : "-X+X-Y-Z+Z",
+         "uuid" : "04571b64-4517-47d7-8a3a-1fc5deadc7b0"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "df7f01",
+         "name" : "Storage Block",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 3,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/VisibleCube.rend",
+         "rotationSet" : "PropYZX",
+         "scripted" : {
+            "classname" : "GunAmmo",
+            "data" : {
+               "MaxAmmo" : 10
+            },
+            "filename" : "$CONTENT_DATA/Scripts/Parts/GunAmmo.lua"
+         },
+         "sticky" : "+Y-Y+Z-Z+X-X",
+         "uuid" : "0069c976-0dc0-48ca-ab48-54b84a8d05ef"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "DF7F01",
+         "name" : "Bearing Block",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "mesh" : "$CONTENT_DATA/Objects/Mesh/BearingBlock.fbx",
+                  "subMeshList" : [
+                     {
+                        "idx" : 1,
+                        "material" : "DifAsgNor",
+                        "textureList" : [
+                           "$GAME_DATA/Textures/Tiled/Metal/t_tiled_building_cautionmetal_dif.tga",
+                           "$GAME_DATA/Textures/Tiled/Metal/t_tiled_building_cautionmetal_asg.tga",
+                           "$GAME_DATA/Textures/Materialtextures/normal_nor.tga"
+                        ]
+                     },
+                     {
+                        "idx" : 0,
+                        "material" : "DifAsgNor",
+                        "textureList" : [
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_dif.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_asg.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_nor.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropYmmNegYmm",
+         "scripted" : {
+            "classname" : "BearingBlock",
+            "data" : {},
+            "filename" : "$CONTENT_DATA/Scripts/Parts/BearingBlock.lua"
+         },
+         "uuid" : "b94cf8c1-8ffc-4584-83e7-2c8343e60526"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "fcba03",
+         "name" : "Player Fixer Block",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 2,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PlayerFixerBlock.rend",
+         "rotationSet" : "Default",
+         "scripted" : {
+            "classname" : "PlayerFixer",
+            "data" : {
+               "distance" : 0.50
+            },
+            "filename" : "$CONTENT_DATA/Scripts/Parts/PlayerFixer.lua"
+         },
+         "uuid" : "2f7f9060-b697-4ba2-8016-135f7aafda56"
+      },
+      {
+         "color" : "fcba03",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlate1x1Col.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Player Fixer Plate",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 2,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlate1x1.rend",
+         "rotationSet" : "Default",
+         "scripted" : {
+            "classname" : "PlayerFixer",
+            "data" : {
+               "distance" : 0.50
+            },
+            "filename" : "$CONTENT_DATA/Scripts/Parts/PlayerFixer.lua"
+         },
+         "uuid" : "d981f828-de07-4843-adea-d0b6ba8df673"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "DF7F01",
+         "name" : "Piston",
+         "physicsMaterial" : "Mechanical",
+         "piston" : {
+            "defaultRange" : 3,
+            "defaultSpeedLevel" : 2,
+            "effect" : "Piston - Default",
+            "force" : 100000.0,
+            "length" : 16,
+            "speedLevels" : [
+               {
+                  "speed" : 2.0
+               },
+               {
+                  "speed" : 4.0
+               },
+               {
+                  "speed" : 6.0
+               },
+               {
+                  "speed" : 8.0
+               },
+               {
+                  "speed" : 10.0
+               },
+               {
+                  "speed" : 12.0
+               },
+               {
+                  "speed" : 14.0
+               },
+               {
+                  "speed" : 16.0
+               },
+               {
+                  "speed" : 18.0
+               },
+               {
+                  "speed" : 20.0
+               }
+            ]
+         },
+         "previewRotation" : [ 1, 0, 0, 0, 1, 0, 0, 0, 1 ],
+         "qualityLevel" : 2,
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 1
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/obj_interactiveupgradeable_piston01.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z",
+         "uuid" : "6ed8237d-7543-49dd-9028-3841c93f0f38"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "0f2e91",
+         "name" : "Taran Author: AgaliX",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 2,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/InvisibleLogicgate.rend",
+         "rotationSet" : "PropYZ",
+         "scripted" : {
+            "classname" : "Taran",
+            "filename" : "$CONTENT_DATA/Scripts/Parts/Taran.lua"
+         },
+         "uuid" : "574f7f2e-1811-404b-bfec-b809031facee"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "0f2e91",
+         "name" : "Invisible Piston",
+         "physicsMaterial" : "Metal",
+         "piston" : {
+            "defaultRange" : 3,
+            "defaultSpeedLevel" : 2,
+            "effect" : "Piston - Default",
+            "force" : 100000.0,
+            "length" : 16,
+            "speedLevels" : [
+               {
+                  "speed" : 2.0
+               },
+               {
+                  "speed" : 4.0
+               },
+               {
+                  "speed" : 6.0
+               },
+               {
+                  "speed" : 8.0
+               },
+               {
+                  "speed" : 10.0
+               },
+               {
+                  "speed" : 12.0
+               },
+               {
+                  "speed" : 14.0
+               },
+               {
+                  "speed" : 16.0
+               },
+               {
+                  "speed" : 18.0
+               },
+               {
+                  "speed" : 20.0
+               }
+            ]
+         },
+         "ratings" : {
+            "buoyancy" : 0,
+            "density" : 0,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/InvisiblePiston.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z",
+         "uuid" : "dd0383ec-cacc-4426-917e-b37ca4f51a0d"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "0f2e91",
+         "name" : "Invisible Sensor",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 3,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/InvisibleSensor.rend",
+         "rotationSet" : "PropZY",
+         "sensor" : {},
+         "sticky" : "+Y-Y-Z+X-X",
+         "uuid" : "53173f93-569a-420a-9528-26b2ed630bc1"
+      },
+      {
+         "bearing" : {},
+         "color" : "0f2e91",
+         "cylinder" : {
+            "axis" : "Z",
+            "depth" : 1,
+            "diameter" : 1
+         },
+         "name" : "Invisible Bearing",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 0,
+            "density" : 4,
+            "durability" : 3,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/InvisibleBearing.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z",
+         "uuid" : "73fbbacf-0c6f-48ae-918e-31e2d3dbbc53"
+      },
+      {
+         "color" : "0f2e91",
+         "cylinder" : {
+            "axis" : "Z",
+            "depth" : 3,
+            "diameter" : 1
+         },
+         "name" : "Invisible Off-Road Suspension",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 0,
+            "density" : 0,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/InvisibleOffRoadSuspension.rend",
+         "rotationSet" : "PropZ",
+         "spring" : {
+            "defaultStiffnessLevel" : 2,
+            "effect" : "Suspension",
+            "length" : 3,
+            "stiffnessLevels" : [
+               {
+                  "stiffness" : 0
+               },
+               {
+                  "stiffness" : 7500
+               },
+               {
+                  "stiffness" : 20000
+               },
+               {
+                  "stiffness" : 37500
+               },
+               {
+                  "stiffness" : 60000
+               },
+               {
+                  "stiffness" : 87500
+               },
+               {
+                  "stiffness" : 120000
+               },
+               {
+                  "stiffness" : 157500
+               },
+               {
+                  "stiffness" : 200000
+               },
+               {
+                  "stiffness" : 247500
+               },
+               {
+                  "stiffness" : 300000
+               },
+               {
+                  "stiffness" : 357500
+               },
+               {
+                  "stiffness" : 420000
+               },
+               {
+                  "stiffness" : 487500
+               },
+               {
+                  "stiffness" : 560000
+               },
+               {
+                  "stiffness" : 637500
+               },
+               {
+                  "stiffness" : 720000
+               },
+               {
+                  "stiffness" : 807500
+               },
+               {
+                  "stiffness" : 900000
+               },
+               {
+                  "stiffness" : 997500
+               }
+            ]
+         },
+         "sticky" : "-Z",
+         "uuid" : "4b41d752-884d-442a-bf9f-606d42e01cf3"
+      },
+      {
+         "color" : "0f2e91",
+         "cylinder" : {
+            "axis" : "Z",
+            "depth" : 2,
+            "diameter" : 1
+         },
+         "name" : "Invisible Sport Suspension",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 0,
+            "density" : 0,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/InvisibleSportSuspension.rend",
+         "rotationSet" : "PropZ",
+         "spring" : {
+            "defaultStiffnessLevel" : 2,
+            "effect" : "Suspension",
+            "length" : 2,
+            "stiffnessLevels" : [
+               {
+                  "stiffness" : 0
+               },
+               {
+                  "stiffness" : 7500
+               },
+               {
+                  "stiffness" : 20000
+               },
+               {
+                  "stiffness" : 37500
+               },
+               {
+                  "stiffness" : 60000
+               },
+               {
+                  "stiffness" : 87500
+               },
+               {
+                  "stiffness" : 120000
+               },
+               {
+                  "stiffness" : 157500
+               },
+               {
+                  "stiffness" : 200000
+               },
+               {
+                  "stiffness" : 247500
+               },
+               {
+                  "stiffness" : 300000
+               },
+               {
+                  "stiffness" : 357500
+               },
+               {
+                  "stiffness" : 420000
+               },
+               {
+                  "stiffness" : 487500
+               },
+               {
+                  "stiffness" : 560000
+               },
+               {
+                  "stiffness" : 637500
+               },
+               {
+                  "stiffness" : 720000
+               },
+               {
+                  "stiffness" : 807500
+               },
+               {
+                  "stiffness" : 900000
+               },
+               {
+                  "stiffness" : 997500
+               }
+            ]
+         },
+         "sticky" : "-Z",
+         "uuid" : "3b311431-eb55-4401-ad20-87825ab1df18"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "c36512",
+         "name" : "Track For Wheel 2x2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 2,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "mesh" : "$CONTENT_DATA/Objects/Mesh/Track_for_wheel_2x2.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsg",
+                        "textureList" : [
+                           "$CONTENT_DATA/Objects/Textures/Black_dif.tga",
+                           "$CONTENT_DATA/Objects/Textures/Asg.tga",
+                           ""
+                        ]
+                     },
+                     {
+                        "material" : "Visualization",
+                        "textureList" : [
+                           "$CONTENT_DATA/Objects/Textures/Black_dif.tga",
+                           "$CONTENT_DATA/Objects/Textures/Asg.tga",
+                           ""
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropZNegZ",
+         "sticky" : "-X+X+Y-Y+Z-Z+Y-Y+Z-Z",
+         "uuid" : "85d9706f-a2d2-4c2e-84a0-c24800dbd3eb"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "c36512",
+         "name" : "Track For Wheel 3x3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 2,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "mesh" : "$CONTENT_DATA/Objects/Mesh/Track_for_wheel_3x3.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsg",
+                        "textureList" : [
+                           "$CONTENT_DATA/Objects/Textures/Black_dif.tga",
+                           "$CONTENT_DATA/Objects/Textures/Asg.tga",
+                           ""
+                        ]
+                     },
+                     {
+                        "material" : "Visualization",
+                        "textureList" : [
+                           "$CONTENT_DATA/Objects/Textures/Black_dif.tga",
+                           "$CONTENT_DATA/Objects/Textures/Asg.tga",
+                           ""
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropZNegZ",
+         "sticky" : "-X+X+Y-Y+Z-Z+Y-Y+Z-Z",
+         "uuid" : "441777a4-8552-41ac-b98f-e7adab183a0e"
+      },
+      {
+         "color" : "B77F35",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/Com_town.obj",
+            "x" : 3,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Commander's Tower Abrams Author: Zcoder",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 4,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/ComTower.rend",
+         "rotationSet" : "PropY",
+         "uuid" : "e8b0cbcb-6456-4560-ac66-ac45e5ec8bb3"
+      },
+      {
+         "color" : "B77F35",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 1,
+            "diameter" : 3
+         },
+         "name" : "Commander's Tower Panzer Author: Alesha90",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 4,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Com_bashta_panzer.rend",
+         "rotationSet" : "PropY",
+         "uuid" : "91a70455-f7d2-46f4-88b2-4e5e0bfa2307"
+      },
+      {
+         "color" : "c36512",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/Down_col.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Tutel Model",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 3,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "mesh" : "$CONTENT_DATA/Objects/Mesh/Tutel_model.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNor",
+                        "textureList" : [
+                           "$CONTENT_DATA/Objects/Textures/Abrams_metal_dif.tga",
+                           "$CONTENT_DATA/Objects/textures/Nothing_asg.tga",
+                           "$CONTENT_DATA/Objects/Textures/Nothing_nor.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropY",
+         "sticky" : "-Y",
+         "uuid" : "b858257e-36f6-4dcf-aac3-f09148ae3bf9"
+      },
+      {
+         "box" : {
+            "x" : 4,
+            "y" : 2,
+            "z" : 8
+         },
+         "color" : "c36512",
+         "name" : "Abrams_model Author: Zcoder",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 2,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Abrams.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y-Z+X-X",
+         "uuid" : "ec9cff36-74bc-43bf-96fd-99cded599ec8"
+      },
+      {
+         "box" : {
+            "x" : 4,
+            "y" : 2,
+            "z" : 6
+         },
+         "color" : "c36512",
+         "name" : "L3/33CC_model",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 2,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/L3_33CC.rend",
+         "rotationSet" : "PropY",
+         "showInInventory" : false,
+         "sticky" : "-Y-Z+X-X",
+         "uuid" : "17e678d9-da63-4560-8979-26a581294dcc"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "DF7F01",
+         "name" : "Balkenkreuz from the WW2 Symbols mod",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 1
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "mesh" : "$MOD_DATA/Objects/Mesh/Wing_Luftwaffe_1_1x1.obj",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsg",
+                        "textureList" : [
+                           "$MOD_DATA/Objects/Textures/WW2 Symbols/Symbols_texture.png",
+                           "$MOD_DATA/Objects/Textures/WW2 Symbols/ASG_WING.png",
+                           "$MOD_DATA/Objects/Textures/WW2 Symbols/NOR.png"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropYZX",
+         "uuid" : "a5d732ed-9f88-4a70-b014-50f35ba0f215"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "eeeeee",
+         "name" : "Za Rodiny! Author: Alesha90",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 1
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Za_Rodiny.rend",
+         "rotationSet" : "PropFull",
+         "sticky" : "+X-X+Z-Z+Y-Y",
+         "uuid" : "c7512aaf-9c6b-4822-8c7d-2fc4081734ef"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/SmallPartCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Part LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 1,
+            "durability" : 3,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SmallPart.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "+X-Z",
+         "uuid" : "dd7467ff-454e-46ef-8dc7-695b6ac1f054"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/SmallPartCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Part LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 1,
+            "durability" : 9,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SmallPart.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "+X-Z",
+         "uuid" : "352d3c0a-62a7-40c6-9afc-4b7cfd41d073"
+      },
+      {
+         "color" : "9b683a",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_vehicle_license_plate.obj",
+            "x" : 4,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate Wood",
+         "physicsMaterial" : "Wood",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "mesh" : "$SURVIVAL_DATA/Objects/Mesh/vehicle/obj_vehicle_license_plate.mesh",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNor",
+                        "textureList" : [
+                           "$SURVIVAL_DATA/Objects/Textures/Blocks/blk_scrapwood_dif.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/Blocks/blk_scrapwood_asg.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/Blocks/blk_scrapwood_nor.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropYZX",
+         "sticky" : "+Y-Y-Z+X-X",
+         "uuid" : "aef4ea21-c447-424c-9ea9-d76b62227d59"
+      },
+      {
+         "color" : "9b683a",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_packingtablesupport.obj",
+            "x" : 1,
+            "y" : 5,
+            "z" : 1
+         },
+         "name" : "Packing Table Holder Wood",
+         "physicsMaterial" : "Wood",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 2,
+            "friction" : 6
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "mesh" : "$SURVIVAL_DATA/Objects/Mesh/warehouse/obj_warehouse_packingtablesupport.mesh",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNor",
+                        "textureList" : [
+                           "$SURVIVAL_DATA/Objects/Textures/Blocks/blk_scrapwood_dif.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/Blocks/blk_scrapwood_asg.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/Blocks/blk_scrapwood_nor.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropYZX",
+         "sticky" : "+Y-Y-Z+X-X",
+         "uuid" : "e6806293-5af3-4599-ac8f-b8c352a548c9"
+      },
+      {
+         "color" : "412600",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/BallCol.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "NLM Steering Wheel 2x2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 7,
+            "density" : 2,
+            "durability" : 1,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/NLMSteeringWheel.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z",
+         "uuid" : "b7d82285-b0a7-458a-9786-a1a6609cd743"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "DF7F01",
+         "name" : "Drone_blade",
+         "physicsMaterial" : "Mechanical",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 1,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Drone_blade.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "+Y-Y+Z-Z+X-X",
+         "uuid" : "ba2458f4-5168-4e21-8ca9-621d0afbcb22"
+      },
+      {
+         "color" : "DF7F01",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 1,
+            "diameter" : 1,
+            "margin" : 0.20
+         },
+         "name" : "Antenna LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 3,
+            "durability" : 1,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Antenna.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y",
+         "uuid" : "d9c75aa8-9520-4c57-a0b3-268fb4064353"
+      },
+      {
+         "color" : "808080",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/BallCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Ball 1 LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 5,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Ball2.rend",
+         "rotationSet" : "PropZ",
+         "uuid" : "f418d067-4666-4e93-b4dc-a9be0dc03f98"
+      },
+      {
+         "color" : "808080",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/BallCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Ball 2 LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 5,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Ball.rend",
+         "rotationSet" : "PropZ",
+         "uuid" : "80f25f41-84ce-48f3-b2b7-5973bb6795d4"
+      },
+      {
+         "color" : "808080",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_vehicle_mediumpipebent.obj",
+            "margin" : 0.0250,
+            "x" : 1,
+            "y" : 2,
+            "z" : 2
+         },
+         "name" : "2x2 tube LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 5,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "mesh" : "$SURVIVAL_DATA/Objects/Mesh/vehicle/obj_vehicle_mediumpipebent.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNor",
+                        "textureList" : [
+                           "$SURVIVAL_DATA/Objects/Textures/vehicle/obj_vehicle_atlas_dif.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/vehicle/obj_vehicle_atlas_asg.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/vehicle/obj_vehicle_atlas_nor.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropY",
+         "sticky" : "-Y-Z",
+         "uuid" : "86e93397-460b-4227-a03f-9d158233ce7e"
+      },
+      {
+         "color" : "808080",
+         "hull" : {
+            "col" : "$MOD_DATA/Objects/Collision/mini_trubka_ugol.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Holder Support Bend LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 3,
+            "friction" : 4
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "mesh" : "$SURVIVAL_DATA/Objects/Mesh/fittings/obj_fittings_pipebigholderbarbend.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNor",
+                        "textureList" : [
+                           "$SURVIVAL_DATA/Objects/Textures/fittings/obj_fittings_pipesbig2_dif.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/fittings/obj_fittings_pipesbig2_asg.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/fittings/obj_fittings_pipesbig2_nor.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropY",
+         "sticky" : "-Y-Z",
+         "uuid" : "a5e44c85-9f48-4969-ac63-19fa306d6f34"
+      },
+      {
+         "color" : "808080",
+         "hull" : {
+            "col" : "$MOD_DATA/Objects/Collision/mini_trubka.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Holder Support Leg LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 5,
+            "durability" : 3,
+            "friction" : 4
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "mesh" : "$SURVIVAL_DATA/Objects/Mesh/fittings/obj_fittings_pipebigholderbar.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNor",
+                        "textureList" : [
+                           "$SURVIVAL_DATA/Objects/Textures/fittings/obj_fittings_pipesbig2_dif.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/fittings/obj_fittings_pipesbig2_asg.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/fittings/obj_fittings_pipesbig2_nor.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropY",
+         "sticky" : "-Y+Y",
+         "uuid" : "71301396-7ce3-49a8-b302-a2471a8bd282"
+      },
+      {
+         "color" : "808080",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 1,
+            "diameter" : 1,
+            "margin" : 0.040
+         },
+         "name" : "Paint Ammo LVL 2",
+         "physicsMaterial" : "Plastic",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 2,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "mesh" : "$GAME_DATA/Objects/Mesh/consumable/obj_consumable_inkammo.mesh",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNor",
+                        "textureList" : [
+                           "$MOD_DATA/Objects/Textures/blk_metal2_dif.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/blocks/blk_plastic_asg.tga",
+                           "$MOD_DATA/Objects/Textures/blk_metal2_nor.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropY",
+         "sticky" : "-Y+Y",
+         "uuid" : "7ba941e3-a55b-40b2-9ad0-53eb4c6c33a5"
+      },
+      {
+         "color" : "808080",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 1,
+            "diameter" : 1,
+            "margin" : 0.20
+         },
+         "name" : "Enscryptor Holder LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 5,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "mesh" : "$SURVIVAL_DATA/Objects/Mesh/industrial/obj_industrial_encryptstandpipe.mesh",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNor",
+                        "textureList" : [
+                           "$SURVIVAL_DATA/Objects/Textures/industrial/obj_industrial_broholder_dif.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/industrial/obj_industrial_broholder_asg.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/industrial/obj_industrial_broholder_nor.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropYmmNegYmm",
+         "sticky" : "-Y+Y",
+         "uuid" : "47573f8b-2c10-4b31-b806-cb7107fed499"
+      },
+      {
+         "color" : "808080",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_fancube.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Fan Blade Cap LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "mesh" : "$SURVIVAL_DATA/Objects/Mesh/warehouse/obj_warehouse_fancube.mesh",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNor",
+                        "textureList" : [
+                           "$SURVIVAL_DATA/Objects/Textures/warehouse/obj_warehouse_fan_dif.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/warehouse/obj_warehouse_fan_asg.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/warehouse/obj_warehouse_fan_nor.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropYmmNegYmmZ",
+         "uuid" : "8666a044-d4ec-40a3-b0ff-627f313cc629"
+      },
+      {
+         "color" : "808080",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/OfficeTableCol.obj",
+            "x" : 3,
+            "y" : 1,
+            "z" : 3
+         },
+         "name" : "Office Table Up LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 3,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/OfficeTableUp.rend",
+         "rotationSet" : "PropYNegY",
+         "sticky" : "+Y-Y",
+         "uuid" : "c978b3a5-8aad-4b7c-aa58-38eb27988d58"
+      },
+      {
+         "color" : "808080",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/OfficeTableCol.obj",
+            "x" : 3,
+            "y" : 1,
+            "z" : 3
+         },
+         "name" : "Office Table Down LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 3,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/OfficeTableDown.rend",
+         "rotationSet" : "PropYNegY",
+         "sticky" : "+Y-Y",
+         "uuid" : "155b333e-9773-4538-b73f-d9aa0be602de"
+      },
+      {
+         "color" : "808080",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 1,
+            "diameter" : 3,
+            "margin" : 0.040
+         },
+         "name" : "Large Pipe Cap LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "mesh" : "$SURVIVAL_DATA/Objects/Mesh/fittings/obj_fittings_pipebiglid.mesh",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNor",
+                        "textureList" : [
+                           "$SURVIVAL_DATA/Objects/Textures/fittings/obj_fittings_pipesbig2_dif.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/fittings/obj_fittings_pipesbig2_asg.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/fittings/obj_fittings_pipesbig2_nor.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropY",
+         "sticky" : "-Y",
+         "uuid" : "7ebd714c-fe7b-4c78-87a1-854589bdb08a"
+      },
+      {
+         "color" : "808080",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_industrial_encryptstandhinge.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Steel Bracket LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "mesh" : "$SURVIVAL_DATA/Objects/Mesh/industrial/obj_industrial_encryptstandhinge.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNor",
+                        "textureList" : [
+                           "$SURVIVAL_DATA/Objects/Textures/industrial/obj_industrial_broholder_dif.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/industrial/obj_industrial_broholder_asg.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/industrial/obj_industrial_broholder_nor.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y-Z",
+         "uuid" : "9e86a896-9156-431d-80ad-29b768e4ac2b"
+      },
+      {
+         "color" : "808080",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_office_cubiclefastener.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Corner Brace LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 5,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "includes" : [ "POSITION", "UV0", "UV1", "NORMAL", "TANGENTS" ],
+                  "mesh" : "$SURVIVAL_DATA/Objects/Mesh/building/obj_office_cubiclefastener.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNorAo",
+                        "textureList" : [
+                           "$CONTENT_DATA/Objects/Textures/Corner_brace.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/building/obj_atlas_office_asg.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/building/obj_atlas_office_nor.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/building/obj_office_cubiclefastener_ao.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropZ",
+         "sticky" : "-Y+X-X-Z",
+         "uuid" : "986a6bfb-1abe-47d7-a030-65a594e00745"
+      },
+      {
+         "color" : "808080",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_spaceship_exitsign.obj",
+            "x" : 3,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Exit Sign LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 5,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "mesh" : "$GAME_DATA/Objects/Mesh/spaceship/obj_spaceship_exitsign.mesh",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNor",
+                        "textureList" : [
+                           "$MOD_DATA/Objects/Textures/blk_metal2_dif.tga",
+                           "$MOD_DATA/Objects/Textures/blk_metal2_asg.tga",
+                           "$MOD_DATA/Objects/Textures/blk_metal2_nor.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z-Y+Y",
+         "uuid" : "276ec635-bec2-4792-8c6d-e0cbad3e3e79"
+      },
+      {
+         "color" : "808080",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/Bung.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Fake Piston LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/obj_interactiveupgradeable_piston01.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z",
+         "uuid" : "eed76eed-8e17-4826-8dd8-b701817ba247"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "808080",
+         "name" : "Short I-Beam LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "includes" : [ "POSITION", "UV0", "UV1", "NORMAL", "TANGENTS" ],
+                  "mesh" : "$GAME_DATA/Objects/Mesh/industrial/obj_industrial_beam.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgAo",
+                        "textureList" : [
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_dif.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_asg.tga",
+                           "",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_industrial_beams_ao.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "StaticYmZmXm",
+         "uuid" : "93b6e881-25f9-4a2b-983a-e78d55eabde6"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "808080",
+         "name" : "I-Beam End LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "includes" : [ "POSITION", "UV0", "UV1", "NORMAL", "TANGENTS" ],
+                  "mesh" : "$GAME_DATA/Objects/Mesh/industrial/obj_industrial_beamend.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgAo",
+                        "textureList" : [
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_dif.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_asg.tga",
+                           "",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_industrial_beams_ao.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "StaticYZmNegZmX",
+         "uuid" : "4f61e5ca-e4a3-4629-bba3-6e5f3ad847db"
+      },
+      {
+         "color" : "808080",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_industrial_beambend.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "I-Beam Corner LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "includes" : [ "POSITION", "UV0", "UV1", "NORMAL", "TANGENTS" ],
+                  "mesh" : "$GAME_DATA/Objects/Mesh/industrial/obj_industrial_beambend.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgAo",
+                        "textureList" : [
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_dif.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_asg.tga",
+                           "",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_industrial_beams_ao.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropYZ",
+         "sticky" : "+X-Z+Y-Y",
+         "uuid" : "680df85f-c803-4a99-a69e-49ce48b5225b"
+      },
+      {
+         "color" : "808080",
+         "name" : "Frame Beam Corner LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 5,
+            "durability" : 3,
+            "friction" : 4
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "mesh" : "$SURVIVAL_DATA/Objects/Mesh/warehouse/obj_warehouse_beamframeturn.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsg",
+                        "textureList" : [
+                           "$SURVIVAL_DATA/Objects/Textures/warehouse/obj_warehouse_beamslarge_dif.tga",
+                           "$MOD_DATA/Objects/Textures/blk_metal2_asg.tga",
+                           "$MOD_DATA/Objects/Textures/blk_metal2_nor.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropYX",
+         "sticky" : "-Y-X+X+Z",
+         "uuid" : "e8d6ffd5-cc9d-4328-8e48-dff86aa5d7c9",
+         "wedge" : {
+            "back" : "Z",
+            "bottom" : "-Y",
+            "x" : 1,
+            "y" : 2,
+            "z" : 2
+         }
+      },
+      {
+         "color" : "0f2e91",
+         "cylinder" : {
+            "axis" : "Z",
+            "depth" : 1,
+            "diameter" : 3,
+            "margin" : 0.50
+         },
+         "name" : "Invisible Wheel 1x3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 10,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/InvisibleSmallWheel.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Z",
+         "uuid" : "f5c98bf0-ab8c-49a7-8aed-db2bd4bc9690"
+      },
+      {
+         "color" : "0f2e91",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_2way_pipe.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Invisible Small Pipe Short",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 2,
+            "friction" : 1
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/InvisibleSmallPipeShort.rend",
+         "rotationSet" : "PropXmm",
+         "sticky" : "All",
+         "uuid" : "0d2066a6-d1f2-48c4-b820-1ad839e57448"
+      },
+      {
+         "color" : "0f2e91",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_2wayb_pipe.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Invisible Small Pipe Bend",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 2,
+            "friction" : 1
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/InvisibleSmallPipeBend.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "All",
+         "uuid" : "62d27bfe-eced-4909-9361-685f34c84cbd"
+      },
+      {
+         "color" : "0f2e91",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_decor_screw01.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Invisible Screw",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 2,
+            "durability" : 2,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/InvisibleScrew.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y+X-X+Z-Z",
+         "uuid" : "ed01bad1-b6a5-488c-b2c7-915a1c479132"
+      },
+      {
+         "color" : "0f2e91",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/PlateCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Invisible Plate",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 2,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/InvisiblePlate.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "All",
+         "uuid" : "8348d974-46f1-4e02-ab8e-036205a35b22"
+      },
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/PlateCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Invisible Plate LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 1,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/InvisiblePlate.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "All",
+         "uuid" : "2c657891-d68d-443c-a24c-3a79f189bab2"
+      },
+      {
+         "color" : "323000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/Contact1Col.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Contact 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 8,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Contact1.rend",
+         "rotationSet" : "PropY",
+         "scripted" : {
+            "classname" : "Machin_Gun_Ammo",
+            "data" : {
+               "Health" : 300.0,
+               "ProjDamage" : 3.0
+            },
+            "filename" : "$CONTENT_DATA/Scripts/Parts/Machin_Gun_Ammo.lua"
+         },
+         "sticky" : "-Y",
+         "uuid" : "c574cd76-0e7b-4d59-a5d7-d73a54c6a9e7"
+      },
+      {
+         "button" : {},
+         "color" : "808080",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_interactive_button.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Button UP",
+         "physicsMaterial" : "Mechanical",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "renderable" : "$GAME_DATA/Objects/Renderable/Interactive/obj_interactive_button.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y",
+         "uuid" : "75cdbb33-520e-434f-9cf1-21cc36a9ced8"
+      },
+      {
+         "button" : {},
+         "color" : "808080",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_interactive_button.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Button DOWN",
+         "physicsMaterial" : "Mechanical",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "renderable" : "$GAME_DATA/Objects/Renderable/Interactive/obj_interactive_button.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y",
+         "uuid" : "3532818b-15b2-4965-9e6a-2f5178b4cbb8"
+      },
+      {
+         "button" : {},
+         "color" : "808080",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_interactive_button.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Button LEFT",
+         "physicsMaterial" : "Mechanical",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "renderable" : "$GAME_DATA/Objects/Renderable/Interactive/obj_interactive_button.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y",
+         "uuid" : "3b68098f-b357-407d-8a96-c1473939f39e"
+      },
+      {
+         "button" : {},
+         "color" : "808080",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_interactive_button.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Button RIGHT",
+         "physicsMaterial" : "Mechanical",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "renderable" : "$GAME_DATA/Objects/Renderable/Interactive/obj_interactive_button.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y",
+         "uuid" : "6140b929-5478-48e8-b480-64b2fa4d41d1"
+      },
+      {
+         "color" : "808080",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_interactive_button.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "legacyId" : 109,
+         "lever" : {},
+         "name" : "Button Ammo",
+         "physicsMaterial" : "Mechanical",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "renderable" : "$GAME_DATA/Objects/Renderable/Interactive/obj_interactive_button.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y",
+         "uuid" : "79202514-c329-4711-9775-63dc67a57d3e"
+      },
+      {
+         "color" : "808080",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_interactive_button.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "lever" : {},
+         "name" : "Button Engine",
+         "physicsMaterial" : "Mechanical",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "renderable" : "$GAME_DATA/Objects/Renderable/Interactive/obj_interactive_button.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y",
+         "uuid" : "7fb19213-373b-44ad-b1a4-794f6472029f"
+      }
+   ]
+}

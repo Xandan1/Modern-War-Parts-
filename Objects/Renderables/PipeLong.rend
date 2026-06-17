@@ -1,0 +1,17 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$GAME_DATA/Objects/Mesh/fittings/obj_fittings_pipelong.mesh",
+         "subMeshList" : [
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/PipeDif.tga",
+                  "$GAME_DATA/Objects/Textures/fittings/obj_fittings_pipes_asg.tga",
+                  "$GAME_DATA/Objects/Textures/fittings/obj_fittings_pipes_nor.tga"
+               ]
+            }
+         ]
+      }
+   ]
+}

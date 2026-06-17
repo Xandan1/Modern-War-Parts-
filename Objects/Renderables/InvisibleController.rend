@@ -1,0 +1,17 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$GAME_DATA/Objects/Mesh/interactive/obj_interactive_controller.mesh",
+         "subMeshList" : [
+            {
+               "material" : "Visualization",
+               "textureList" : [
+                  "$GAME_DATA/Textures/white.png",
+                  "$GAME_DATA/Textures/black.png",
+                  "$GAME_DATA/Objects/Textures/interactive/obj_interactive_controller_nor.tga"
+               ]
+            }
+         ]
+      }
+   ]
+}

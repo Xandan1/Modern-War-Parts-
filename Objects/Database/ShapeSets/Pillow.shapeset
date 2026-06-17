@@ -1,0 +1,193 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_decor_pillow.obj",
+            "x" : 3,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Pillow LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Pillow.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "+Z-Z+X-X-Y",
+         "uuid" : "ddd3c4de-b1f7-4432-ad61-6043f5700b0c"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_decor_pillow.obj",
+            "x" : 3,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Pillow LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Pillow.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "+Z-Z+X-X-Y",
+         "uuid" : "57734c7e-9f38-48d8-9f13-64779820f1bd"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_decor_pillow.obj",
+            "x" : 3,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Pillow LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 3,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Pillow.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "+Z-Z+X-X-Y",
+         "uuid" : "40814f64-6ef7-4e37-a00e-596ffd1b89a8"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_decor_pillow.obj",
+            "x" : 3,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Pillow LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 4,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Pillow.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "+Z-Z+X-X-Y",
+         "uuid" : "a3bdeceb-8ece-459e-bf00-ba63957de797"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_decor_pillow.obj",
+            "x" : 3,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Pillow LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 5,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Pillow.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "+Z-Z+X-X-Y",
+         "uuid" : "f8c735e2-8302-46e9-9c49-20809b57e1c8"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_decor_pillow.obj",
+            "x" : 3,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Pillow LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 6,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Pillow.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "+Z-Z+X-X-Y",
+         "uuid" : "0b2acefe-0abf-4c13-ae7b-0a503e35ead7"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_decor_pillow.obj",
+            "x" : 3,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Pillow LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 7,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Pillow.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "+Z-Z+X-X-Y",
+         "uuid" : "4f5df6e3-f76e-4014-aad0-2a1f5787e1d1"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_decor_pillow.obj",
+            "x" : 3,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Pillow LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 8,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Pillow.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "+Z-Z+X-X-Y",
+         "uuid" : "dc327aa7-7ef4-4e5e-8741-bac811bfe238"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_decor_pillow.obj",
+            "x" : 3,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Pillow LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 9,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Pillow.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "+Z-Z+X-X-Y",
+         "uuid" : "ac971d2c-8d2d-4c6a-8ff8-661e0427e46c"
+      }
+   ]
+}

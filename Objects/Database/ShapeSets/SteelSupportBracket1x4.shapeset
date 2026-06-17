@@ -1,0 +1,202 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "name" : "Steel Support Bracket 1x4 LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x4.rend",
+         "rotationSet" : "PropYZ",
+         "slant" : {
+            "back" : "-Z",
+            "bottom" : "-Y",
+            "x" : 1,
+            "y" : 4,
+            "z" : 1
+         },
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "59dc0de0-e2e4-4799-87ff-6fa420acf9ef"
+      },
+      {
+         "color" : "0E8031",
+         "name" : "Steel Support Bracket 1x4 LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x4.rend",
+         "rotationSet" : "PropYZ",
+         "slant" : {
+            "back" : "-Z",
+            "bottom" : "-Y",
+            "x" : 1,
+            "y" : 4,
+            "z" : 1
+         },
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "4c0121aa-5243-4ce9-8eb7-e89bb29945f3"
+      },
+      {
+         "color" : "577D07",
+         "name" : "Steel Support Bracket 1x4 LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x4.rend",
+         "rotationSet" : "PropYZ",
+         "slant" : {
+            "back" : "-Z",
+            "bottom" : "-Y",
+            "x" : 1,
+            "y" : 4,
+            "z" : 1
+         },
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "1bd57ce9-391c-4d49-a83e-511144b6593f"
+      },
+      {
+         "color" : "375000",
+         "name" : "Steel Support Bracket 1x4 LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 4,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x4.rend",
+         "rotationSet" : "PropYZ",
+         "slant" : {
+            "back" : "-Z",
+            "bottom" : "-Y",
+            "x" : 1,
+            "y" : 4,
+            "z" : 1
+         },
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "e8353646-4a28-4566-a695-b167694527ad"
+      },
+      {
+         "color" : "817C00",
+         "name" : "Steel Support Bracket 1x4 LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 5,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x4.rend",
+         "rotationSet" : "PropYZ",
+         "slant" : {
+            "back" : "-Z",
+            "bottom" : "-Y",
+            "x" : 1,
+            "y" : 4,
+            "z" : 1
+         },
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "9801ba98-565b-420a-b54b-27922f8857a3"
+      },
+      {
+         "color" : "E2DB13",
+         "name" : "Steel Support Bracket 1x4 LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 6,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x4.rend",
+         "rotationSet" : "PropYZ",
+         "slant" : {
+            "back" : "-Z",
+            "bottom" : "-Y",
+            "x" : 1,
+            "y" : 4,
+            "z" : 1
+         },
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "281177b5-a8ed-4f7a-8ee7-ca74360febe7"
+      },
+      {
+         "color" : "DF7F00",
+         "name" : "Steel Support Bracket 1x4 LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 7,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x4.rend",
+         "rotationSet" : "PropYZ",
+         "slant" : {
+            "back" : "-Z",
+            "bottom" : "-Y",
+            "x" : 1,
+            "y" : 4,
+            "z" : 1
+         },
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "669e792c-438a-4123-8d04-3bedab7ac791"
+      },
+      {
+         "color" : "D02525",
+         "name" : "Steel Support Bracket 1x4 LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 8,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x4.rend",
+         "rotationSet" : "PropYZ",
+         "slant" : {
+            "back" : "-Z",
+            "bottom" : "-Y",
+            "x" : 1,
+            "y" : 4,
+            "z" : 1
+         },
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "b6b8e5f7-4679-49eb-ba34-6c293ad5a386"
+      },
+      {
+         "color" : "7C0000",
+         "name" : "Steel Support Bracket 1x4 LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 9,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x4.rend",
+         "rotationSet" : "PropYZ",
+         "slant" : {
+            "back" : "-Z",
+            "bottom" : "-Y",
+            "x" : 1,
+            "y" : 4,
+            "z" : 1
+         },
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "12f69a21-0c95-4357-a02f-dcf4f62a9226"
+      }
+   ]
+}

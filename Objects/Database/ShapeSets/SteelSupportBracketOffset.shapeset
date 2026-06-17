@@ -1,0 +1,400 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/SteelSupportBracketLeftOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 4,
+            "z" : 1
+         },
+         "name" : "Steel Support Bracket Left Offset LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracketLeftOffset.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "df040a5f-0473-4858-b895-939cdc29ecc4"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/SteelSupportBracketLeftOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 4,
+            "z" : 1
+         },
+         "name" : "Steel Support Bracket Left Offset LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracketLeftOffset.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "fe3ba2c1-8951-4693-a825-9e8436a9fe60"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/SteelSupportBracketLeftOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 4,
+            "z" : 1
+         },
+         "name" : "Steel Support Bracket Left Offset LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracketLeftOffset.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "99e7a0d4-1521-49bb-9a36-1a39b5a415cf"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/SteelSupportBracketLeftOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 4,
+            "z" : 1
+         },
+         "name" : "Steel Support Bracket Left Offset LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 4,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracketLeftOffset.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "26cca404-1a34-4f2b-9d9d-41c2a2177d2c"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/SteelSupportBracketLeftOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 4,
+            "z" : 1
+         },
+         "name" : "Steel Support Bracket Left Offset LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 5,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracketLeftOffset.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "21837e3b-5621-408f-8b51-9abbee5254ce"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/SteelSupportBracketLeftOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 4,
+            "z" : 1
+         },
+         "name" : "Steel Support Bracket Left Offset LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 6,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracketLeftOffset.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "2acac475-0302-4d9f-9060-4749ab800bf0"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/SteelSupportBracketLeftOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 4,
+            "z" : 1
+         },
+         "name" : "Steel Support Bracket Left Offset LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 7,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracketLeftOffset.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "92275835-0887-4d41-afe6-1a2e0500b5d4"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/SteelSupportBracketLeftOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 4,
+            "z" : 1
+         },
+         "name" : "Steel Support Bracket Left Offset LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 8,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracketLeftOffset.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "529270a6-9bb5-448b-9081-2731d86d4c12"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/SteelSupportBracketLeftOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 4,
+            "z" : 1
+         },
+         "name" : "Steel Support Bracket Left Offset LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 9,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracketLeftOffset.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "63834ac0-d464-47b2-8f9d-1bbe3721809b"
+      },
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/SteelSupportBracketRightOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 4,
+            "z" : 1
+         },
+         "name" : "Steel Support Bracket Right Offset LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracketRightOffset.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "e807942a-e8ef-4acf-bcb5-f29fb74356e3"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/SteelSupportBracketRightOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 4,
+            "z" : 1
+         },
+         "name" : "Steel Support Bracket Right Offset LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracketRightOffset.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "425a915e-f4c9-4fcf-a6f8-22b01e43fd47"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/SteelSupportBracketRightOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 4,
+            "z" : 1
+         },
+         "name" : "Steel Support Bracket Right Offset LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracketRightOffset.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "8cbb5b44-3cc0-40f8-8c62-24112efbfcab"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/SteelSupportBracketRightOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 4,
+            "z" : 1
+         },
+         "name" : "Steel Support Bracket Right Offset LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 4,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracketRightOffset.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "90625356-f9d9-4b89-ad08-ee973318ef9d"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/SteelSupportBracketRightOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 4,
+            "z" : 1
+         },
+         "name" : "Steel Support Bracket Right Offset LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 5,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracketRightOffset.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "bf82f79d-c0dd-4e7c-8bb7-5c16a9cf41fd"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/SteelSupportBracketRightOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 4,
+            "z" : 1
+         },
+         "name" : "Steel Support Bracket Right Offset LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 6,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracketRightOffset.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "5e576f35-8dce-438d-ad36-7da8130f7e80"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/SteelSupportBracketRightOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 4,
+            "z" : 1
+         },
+         "name" : "Steel Support Bracket Right Offset LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 7,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracketRightOffset.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "0615697e-d7ae-4383-9b91-8243d7fc0d43"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/SteelSupportBracketRightOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 4,
+            "z" : 1
+         },
+         "name" : "Steel Support Bracket Right Offset LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 8,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracketRightOffset.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "e0b4add9-c420-4328-bf28-a983405adac1"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/SteelSupportBracketRightOffsetCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 4,
+            "z" : 1
+         },
+         "name" : "Steel Support Bracket Right Offset LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 9,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracketRightOffset.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "aa3712ec-c5c3-47d1-80d3-b2ebec67fa85"
+      }
+   ]
+}

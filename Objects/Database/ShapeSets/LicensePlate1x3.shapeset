@@ -1,0 +1,194 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlate1x3Col.obj",
+            "margin" : 0.0,
+            "x" : 3,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x3 LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlate1x3.rend",
+         "rotationSet" : "PropYZX",
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "24b837e2-294e-476e-bf61-38191c27a960"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlate1x3Col.obj",
+            "x" : 3,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x3 LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 4,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlate1x3.rend",
+         "rotationSet" : "PropYZX",
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "06a5e3bd-523c-4439-abb2-5d4fa4b6378e"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlate1x3Col.obj",
+            "x" : 3,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x3 LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 4,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlate1x3.rend",
+         "rotationSet" : "PropYZX",
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "df7158a1-4490-4baf-ba64-0abb962042fa"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlate1x3Col.obj",
+            "x" : 3,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x3 LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 4,
+            "durability" : 4,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlate1x3.rend",
+         "rotationSet" : "PropYZX",
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "6a63ddd6-bbfb-4391-98d5-69ed4fd24fcf"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlate1x3Col.obj",
+            "x" : 3,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x3 LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 4,
+            "durability" : 5,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlate1x3.rend",
+         "rotationSet" : "PropYZX",
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "273684bf-aac3-4fa2-a3f3-ac68d700eba4"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlate1x3Col.obj",
+            "x" : 3,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x3 LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 4,
+            "durability" : 6,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlate1x3.rend",
+         "rotationSet" : "PropYZX",
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "8bb4d36a-d8d4-4412-ac1f-d1d292680897"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlate1x3Col.obj",
+            "x" : 3,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x3 LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 4,
+            "durability" : 7,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlate1x3.rend",
+         "rotationSet" : "PropYZX",
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "26c5c0c7-41c6-4433-8ae7-db0e4953084a"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlate1x3Col.obj",
+            "x" : 3,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x3 LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 4,
+            "durability" : 8,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlate1x3.rend",
+         "rotationSet" : "PropYZX",
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "9e2af53e-dc59-4b2d-84ce-8179e26faf29"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlate1x3Col.obj",
+            "x" : 3,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x3 LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 4,
+            "durability" : 9,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlate1x3.rend",
+         "rotationSet" : "PropYZX",
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "50c42328-e5ad-41d0-8749-2b66fd3f3576"
+      }
+   ]
+}

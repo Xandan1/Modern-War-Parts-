@@ -1,0 +1,17 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$CONTENT_DATA/Objects/Mesh/WedgeLicensePlate1x3Right.fbx",
+         "subMeshList" : [
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/SignDif.tga",
+                  "$CONTENT_DATA/Objects/Textures/SignAsg.tga",
+                  "$CONTENT_DATA/Objects/Textures/SignNor.tga"
+               ]
+            }
+         ]
+      }
+   ]
+}

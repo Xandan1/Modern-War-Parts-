@@ -1,0 +1,193 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlateRotated45Col.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "License Plate Rotated 45 LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlateRotated45.rend",
+         "rotationSet" : "PropYXmNegXm",
+         "uuid" : "297505b5-f9c0-478a-a8bf-33a274399aa0"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlateRotated45Col.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "License Plate Rotated 45 LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 2,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlateRotated45.rend",
+         "rotationSet" : "PropYXmNegXm",
+         "uuid" : "fdf3a3a8-2eba-4bc6-9d06-3d98549a1de7"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlateRotated45Col.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "License Plate Rotated 45 LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 3,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlateRotated45.rend",
+         "rotationSet" : "PropYXmNegXm",
+         "uuid" : "02803abe-2a5f-4f63-9444-76c26e90651c"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlateRotated45Col.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "License Plate Rotated 45 LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 4,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlateRotated45.rend",
+         "rotationSet" : "PropYXmNegXm",
+         "uuid" : "8dc50742-36ca-4bdc-8615-8f757425a3d0"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlateRotated45Col.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "License Plate Rotated 45 LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 5,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlateRotated45.rend",
+         "rotationSet" : "PropYXmNegXm",
+         "uuid" : "fa854133-4603-42bd-bcc9-282b331e9f5c"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlateRotated45Col.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "License Plate Rotated 45 LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 6,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlateRotated45.rend",
+         "rotationSet" : "PropYXmNegXm",
+         "uuid" : "c7779c32-e874-4837-8d59-b03d0cd80c62"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlateRotated45Col.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "License Plate Rotated 45 LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 7,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlateRotated45.rend",
+         "rotationSet" : "PropYXmNegXm",
+         "uuid" : "c6415e18-8838-48ec-9314-f8f79b5eac81"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlateRotated45Col.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "License Plate Rotated 45 LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 8,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlateRotated45.rend",
+         "rotationSet" : "PropYXmNegXm",
+         "uuid" : "4a3fa866-d581-4bcd-8dd4-d1dbcccf7ebc"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicensePlateRotated45Col.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "License Plate Rotated 45 LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 9,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlateRotated45.rend",
+         "rotationSet" : "PropYXmNegXm",
+         "uuid" : "5dbaf96b-186c-413c-af59-b250f3aad55e"
+      }
+   ]
+}

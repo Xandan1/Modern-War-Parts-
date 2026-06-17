@@ -1,0 +1,347 @@
+{
+   "blockList" : [
+      {
+         "asg" : "$CONTENT_DATA/Objects/Textures/blk_metal2_asg.tga",
+         "color" : "4C6FE3",
+         "dif" : "$CONTENT_DATA/Objects/Textures/blk_metal2_dif.tga",
+         "name" : "Metal Block LVL 1",
+         "nor" : "$CONTENT_DATA/Objects/Textures/blk_metal2_nor.tga",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 4
+         },
+         "tiling" : 4,
+         "uuid" : "82898540-3898-4d5b-84e1-49c70997371e"
+      },
+      {
+         "asg" : "$CONTENT_DATA/Objects/Textures/blk_metal2_asg.tga",
+         "color" : "0E8031",
+         "dif" : "$CONTENT_DATA/Objects/Textures/blk_metal2_dif.tga",
+         "name" : "Metal Block LVL 2",
+         "nor" : "$CONTENT_DATA/Objects/Textures/blk_metal2_nor.tga",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 5,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "tiling" : 4,
+         "uuid" : "e76797da-7592-413a-ad6e-797e0d6cda9c"
+      },
+      {
+         "asg" : "$CONTENT_DATA/Objects/Textures/blk_metal2_asg.tga",
+         "color" : "577D07",
+         "dif" : "$CONTENT_DATA/Objects/Textures/blk_metal2_dif.tga",
+         "name" : "Metal Block LVL 3",
+         "nor" : "$CONTENT_DATA/Objects/Textures/blk_metal2_nor.tga",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 5,
+            "durability" : 3,
+            "friction" : 4
+         },
+         "tiling" : 4,
+         "uuid" : "f034c992-a1bf-427e-862a-89e3d8e5c87f"
+      },
+      {
+         "asg" : "$CONTENT_DATA/Objects/Textures/blk_metal2_asg.tga",
+         "color" : "375000",
+         "dif" : "$CONTENT_DATA/Objects/Textures/blk_metal2_dif.tga",
+         "name" : "Metal Block LVL 4",
+         "nor" : "$CONTENT_DATA/Objects/Textures/blk_metal2_nor.tga",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 5,
+            "durability" : 4,
+            "friction" : 4
+         },
+         "tiling" : 4,
+         "uuid" : "417ca837-02b9-44e4-91d8-9971d12b1b64"
+      },
+      {
+         "asg" : "$CONTENT_DATA/Objects/Textures/blk_metal2_asg.tga",
+         "color" : "817C00",
+         "dif" : "$CONTENT_DATA/Objects/Textures/blk_metal2_dif.tga",
+         "name" : "Metal Block LVL 5",
+         "nor" : "$CONTENT_DATA/Objects/Textures/blk_metal2_nor.tga",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 5,
+            "durability" : 5,
+            "friction" : 4
+         },
+         "tiling" : 4,
+         "uuid" : "132962ea-8920-4b96-9dc1-2fb48968ea27"
+      },
+      {
+         "asg" : "$CONTENT_DATA/Objects/Textures/blk_metal2_asg.tga",
+         "color" : "E2DB13",
+         "dif" : "$CONTENT_DATA/Objects/Textures/blk_metal2_dif.tga",
+         "name" : "Metal Block LVL 6",
+         "nor" : "$CONTENT_DATA/Objects/Textures/blk_metal2_nor.tga",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 5,
+            "durability" : 6,
+            "friction" : 4
+         },
+         "tiling" : 4,
+         "uuid" : "8209711e-8fca-4912-a767-6b271d15ddc8"
+      },
+      {
+         "asg" : "$CONTENT_DATA/Objects/Textures/blk_metal2_asg.tga",
+         "color" : "DF7F00",
+         "dif" : "$CONTENT_DATA/Objects/Textures/blk_metal2_dif.tga",
+         "name" : "Metal Block LVL 7",
+         "nor" : "$CONTENT_DATA/Objects/Textures/blk_metal2_nor.tga",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 5,
+            "durability" : 7,
+            "friction" : 4
+         },
+         "tiling" : 4,
+         "uuid" : "eba7ca11-7633-457e-b5d3-d0ee2e073dcc"
+      },
+      {
+         "asg" : "$CONTENT_DATA/Objects/Textures/blk_metal2_asg.tga",
+         "color" : "D02525",
+         "dif" : "$CONTENT_DATA/Objects/Textures/blk_metal2_dif.tga",
+         "name" : "Metal Block LVL 8",
+         "nor" : "$CONTENT_DATA/Objects/Textures/blk_metal2_nor.tga",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 5,
+            "durability" : 8,
+            "friction" : 4
+         },
+         "tiling" : 4,
+         "uuid" : "60610599-dd5c-4551-9fcd-28ee69e543ca"
+      },
+      {
+         "asg" : "$CONTENT_DATA/Objects/Textures/blk_metal2_asg.tga",
+         "color" : "7C0000",
+         "dif" : "$CONTENT_DATA/Objects/Textures/blk_metal2_dif.tga",
+         "name" : "Metal Block LVL 9",
+         "nor" : "$CONTENT_DATA/Objects/Textures/blk_metal2_nor.tga",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 5,
+            "durability" : 9,
+            "friction" : 4
+         },
+         "tiling" : 4,
+         "uuid" : "83a0b2d4-dbdb-464d-9f1d-e49b6839fd13"
+      },
+      {
+         "asg" : "$CONTENT_DATA/Objects/Textures/blk_metal2_asg.tga",
+         "color" : "808080",
+         "dif" : "$CONTENT_DATA/Objects/Textures/blk_metal2_dif.tga",
+         "name" : "Metal Block LVL 9 Old",
+         "nor" : "$CONTENT_DATA/Objects/Textures/blk_metal2_nor.tga",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 5,
+            "durability" : 9,
+            "friction" : 4
+         },
+         "showInInventory" : false,
+         "tiling" : 4,
+         "uuid" : "76cc8542-5218-4cab-897c-efe3ab3b98ab"
+      }
+   ],
+   "wedgeList" : [
+      {
+         "blockUuid" : "82898540-3898-4d5b-84e1-49c70997371e",
+         "color" : "4C6FE3",
+         "frameSize" : 0.0,
+         "material" : "DifAsgNor",
+         "name" : "Metal Wedge Block LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 4
+         },
+         "textureList" : [
+            "$GAME_DATA/Objects/Textures/Blocks/blk_wedge_border_dif.tga",
+            "$GAME_DATA/Objects/Textures/Blocks/blk_wedge_border_metal_asg.tga",
+            "$GAME_DATA/Objects/Textures/Blocks/blk_wedge_border_nor.tga"
+         ],
+         "uuid" : "b0cade1b-f40f-4f49-b24f-886b21b2b0c6"
+      },
+      {
+         "blockUuid" : "e76797da-7592-413a-ad6e-797e0d6cda9c",
+         "color" : "0E8031",
+         "frameSize" : 0.0,
+         "material" : "DifAsgNor",
+         "name" : "Metal Wedge Block LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 5,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "textureList" : [
+            "$GAME_DATA/Objects/Textures/Blocks/blk_wedge_border_dif.tga",
+            "$GAME_DATA/Objects/Textures/Blocks/blk_wedge_border_metal_asg.tga",
+            "$GAME_DATA/Objects/Textures/Blocks/blk_wedge_border_nor.tga"
+         ],
+         "uuid" : "9c879d83-d8d2-489f-a8e9-f5bec0bb52ce"
+      },
+      {
+         "blockUuid" : "f034c992-a1bf-427e-862a-89e3d8e5c87f",
+         "color" : "577D07",
+         "frameSize" : 0.0,
+         "material" : "DifAsgNor",
+         "name" : "Metal Wedge Block LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 5,
+            "durability" : 3,
+            "friction" : 4
+         },
+         "textureList" : [
+            "$GAME_DATA/Objects/Textures/Blocks/blk_wedge_border_dif.tga",
+            "$GAME_DATA/Objects/Textures/Blocks/blk_wedge_border_metal_asg.tga",
+            "$GAME_DATA/Objects/Textures/Blocks/blk_wedge_border_nor.tga"
+         ],
+         "uuid" : "3be12664-ceeb-4577-b301-66d3b0fcfdbb"
+      },
+      {
+         "blockUuid" : "417ca837-02b9-44e4-91d8-9971d12b1b64",
+         "color" : "375000",
+         "frameSize" : 0.0,
+         "material" : "DifAsgNor",
+         "name" : "Metal Wedge Block LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 5,
+            "durability" : 4,
+            "friction" : 4
+         },
+         "textureList" : [
+            "$GAME_DATA/Objects/Textures/Blocks/blk_wedge_border_dif.tga",
+            "$GAME_DATA/Objects/Textures/Blocks/blk_wedge_border_metal_asg.tga",
+            "$GAME_DATA/Objects/Textures/Blocks/blk_wedge_border_nor.tga"
+         ],
+         "uuid" : "514da129-b0c2-4b59-9142-f88605e8ec10"
+      },
+      {
+         "blockUuid" : "132962ea-8920-4b96-9dc1-2fb48968ea27",
+         "color" : "817C00",
+         "frameSize" : 0.0,
+         "material" : "DifAsgNor",
+         "name" : "Metal Wedge Block LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 5,
+            "durability" : 5,
+            "friction" : 4
+         },
+         "textureList" : [
+            "$GAME_DATA/Objects/Textures/Blocks/blk_wedge_border_dif.tga",
+            "$GAME_DATA/Objects/Textures/Blocks/blk_wedge_border_metal_asg.tga",
+            "$GAME_DATA/Objects/Textures/Blocks/blk_wedge_border_nor.tga"
+         ],
+         "uuid" : "4e6b8819-1452-4d7c-8dcd-21ab716113f3"
+      },
+      {
+         "blockUuid" : "8209711e-8fca-4912-a767-6b271d15ddc8",
+         "color" : "E2DB13",
+         "frameSize" : 0.0,
+         "material" : "DifAsgNor",
+         "name" : "Metal Wedge Block LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 5,
+            "durability" : 6,
+            "friction" : 4
+         },
+         "textureList" : [
+            "$GAME_DATA/Objects/Textures/Blocks/blk_wedge_border_dif.tga",
+            "$GAME_DATA/Objects/Textures/Blocks/blk_wedge_border_metal_asg.tga",
+            "$GAME_DATA/Objects/Textures/Blocks/blk_wedge_border_nor.tga"
+         ],
+         "uuid" : "58c4f26f-d53c-4930-8c15-8532c02392cf"
+      },
+      {
+         "blockUuid" : "eba7ca11-7633-457e-b5d3-d0ee2e073dcc",
+         "color" : "DF7F00",
+         "frameSize" : 0.0,
+         "material" : "DifAsgNor",
+         "name" : "Metal Wedge Block LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 5,
+            "durability" : 7,
+            "friction" : 4
+         },
+         "textureList" : [
+            "$GAME_DATA/Objects/Textures/Blocks/blk_wedge_border_dif.tga",
+            "$GAME_DATA/Objects/Textures/Blocks/blk_wedge_border_metal_asg.tga",
+            "$GAME_DATA/Objects/Textures/Blocks/blk_wedge_border_nor.tga"
+         ],
+         "uuid" : "64d99ff3-3663-4f4d-86c5-b2473e03f68c"
+      },
+      {
+         "blockUuid" : "60610599-dd5c-4551-9fcd-28ee69e543ca",
+         "color" : "D02525",
+         "frameSize" : 0.0,
+         "material" : "DifAsgNor",
+         "name" : "Metal Wedge Block LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 5,
+            "durability" : 8,
+            "friction" : 4
+         },
+         "textureList" : [
+            "$GAME_DATA/Objects/Textures/Blocks/blk_wedge_border_dif.tga",
+            "$GAME_DATA/Objects/Textures/Blocks/blk_wedge_border_metal_asg.tga",
+            "$GAME_DATA/Objects/Textures/Blocks/blk_wedge_border_nor.tga"
+         ],
+         "uuid" : "ebf6f53d-ed73-46c0-92f6-6f2d402b6e23"
+      },
+      {
+         "blockUuid" : "83a0b2d4-dbdb-464d-9f1d-e49b6839fd13",
+         "color" : "7C0000",
+         "frameSize" : 0.0,
+         "material" : "DifAsgNor",
+         "name" : "Metal Wedge Block LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 5,
+            "durability" : 9,
+            "friction" : 4
+         },
+         "textureList" : [
+            "$GAME_DATA/Objects/Textures/Blocks/blk_wedge_border_dif.tga",
+            "$GAME_DATA/Objects/Textures/Blocks/blk_wedge_border_metal_asg.tga",
+            "$GAME_DATA/Objects/Textures/Blocks/blk_wedge_border_nor.tga"
+         ],
+         "uuid" : "3f3d608c-c411-4093-a602-18e16ecd27cf"
+      }
+   ]
+}

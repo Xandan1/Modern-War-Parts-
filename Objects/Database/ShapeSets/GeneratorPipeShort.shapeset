@@ -1,0 +1,193 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 1,
+            "diameter" : 1,
+            "margin" : 0.040
+         },
+         "name" : "Generator Pipe Short LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeShort.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y+Y",
+         "uuid" : "80b106a7-bc81-4bb0-8687-9500459809de"
+      },
+      {
+         "color" : "0E8031",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 1,
+            "diameter" : 1,
+            "margin" : 0.040
+         },
+         "name" : "Generator Pipe Short LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeShort.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y+Y",
+         "uuid" : "f7e0cae3-66b0-4448-a738-42788c254abd"
+      },
+      {
+         "color" : "577D07",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 1,
+            "diameter" : 1,
+            "margin" : 0.040
+         },
+         "name" : "Generator Pipe Short LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeShort.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y+Y",
+         "uuid" : "68d75535-f139-46b5-bf59-9a70b2bef1ad"
+      },
+      {
+         "color" : "375000",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 1,
+            "diameter" : 1,
+            "margin" : 0.040
+         },
+         "name" : "Generator Pipe Short LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 4,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeShort.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y+Y",
+         "uuid" : "abb2ad62-74a1-4328-9ec8-ecc64a3a5e5f"
+      },
+      {
+         "color" : "817C00",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 1,
+            "diameter" : 1,
+            "margin" : 0.040
+         },
+         "name" : "Generator Pipe Short LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 5,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeShort.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y+Y",
+         "uuid" : "417c740e-bc21-4f2a-8e89-8444c7d8ee5a"
+      },
+      {
+         "color" : "E2DB13",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 1,
+            "diameter" : 1,
+            "margin" : 0.040
+         },
+         "name" : "Generator Pipe Short LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 6,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeShort.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y+Y",
+         "uuid" : "a91f0266-e375-4399-9f58-1007cc091532"
+      },
+      {
+         "color" : "DF7F00",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 1,
+            "diameter" : 1,
+            "margin" : 0.040
+         },
+         "name" : "Generator Pipe Short LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 7,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeShort.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y+Y",
+         "uuid" : "fe5bd28c-dd8a-4d4c-86ef-4aee2758e959"
+      },
+      {
+         "color" : "D02525",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 1,
+            "diameter" : 1,
+            "margin" : 0.040
+         },
+         "name" : "Generator Pipe Short LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 8,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeShort.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y+Y",
+         "uuid" : "ebd6bff9-63d5-4517-9ab6-b156a9ffc83c"
+      },
+      {
+         "color" : "7C0000",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 1,
+            "diameter" : 1,
+            "margin" : 0.040
+         },
+         "name" : "Generator Pipe Short LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 9,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeShort.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y+Y",
+         "uuid" : "bb12d9fc-09ac-4db7-9e9d-26480af389db"
+      }
+   ]
+}

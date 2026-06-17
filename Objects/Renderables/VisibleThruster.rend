@@ -1,0 +1,17 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$CONTENT_DATA/Objects/Mesh/1x1_thruster_lod1.fbx",
+         "subMeshList" : [
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$SURVIVAL_DATA/Objects/Textures/interactive/obj_interactive_thruster_05_dif.tga",
+                  "$SURVIVAL_DATA/Objects/Textures/interactive/obj_interactive_thruster_05_asg.tga",
+                  "$SURVIVAL_DATA/Objects/Textures/interactive/obj_interactive_thruster_05_nor.tga"
+               ]
+            }
+         ]
+      }
+   ]
+}

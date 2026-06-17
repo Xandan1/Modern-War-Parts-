@@ -1,0 +1,193 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/BewareSignCol.obj",
+            "x" : 3,
+            "y" : 2,
+            "z" : 1
+         },
+         "name" : "Caution Sign LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/CautionSign.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "e51e8378-1507-4078-8647-7573e477aae0"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/BewareSignCol.obj",
+            "x" : 3,
+            "y" : 2,
+            "z" : 1
+         },
+         "name" : "Caution Sign LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/CautionSign.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "75e7ab7e-62bf-4d98-a68b-e232c812a95b"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/BewareSignCol.obj",
+            "x" : 3,
+            "y" : 2,
+            "z" : 1
+         },
+         "name" : "Caution Sign LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 3,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/CautionSign.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "7291c155-8c2b-4f92-922c-ae653c0eda86"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/BewareSignCol.obj",
+            "x" : 3,
+            "y" : 2,
+            "z" : 1
+         },
+         "name" : "Caution Sign LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 4,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/CautionSign.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "9791b6f9-106c-4d8c-8c7d-627d362503a2"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/BewareSignCol.obj",
+            "x" : 3,
+            "y" : 2,
+            "z" : 1
+         },
+         "name" : "Caution Sign LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 5,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/CautionSign.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "260838e3-93c4-44f8-825c-d1297d70fa02"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/BewareSignCol.obj",
+            "x" : 3,
+            "y" : 2,
+            "z" : 1
+         },
+         "name" : "Caution Sign LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 6,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/CautionSign.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "4ebb92db-0b07-45d0-890e-0a1f3837fb3f"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/BewareSignCol.obj",
+            "x" : 3,
+            "y" : 2,
+            "z" : 1
+         },
+         "name" : "Caution Sign LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 7,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/CautionSign.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "807a5b53-54dc-4632-a63b-94e6fda9e51f"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/BewareSignCol.obj",
+            "x" : 3,
+            "y" : 2,
+            "z" : 1
+         },
+         "name" : "Caution Sign LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 8,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/CautionSign.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "c320e6db-c935-464e-a051-741d23c4e750"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/BewareSignCol.obj",
+            "x" : 3,
+            "y" : 2,
+            "z" : 1
+         },
+         "name" : "Caution Sign LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 9,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/CautionSign.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "a80afcb5-8b9f-4ce0-b521-548c90796619"
+      }
+   ]
+}

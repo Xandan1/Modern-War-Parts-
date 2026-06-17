@@ -1,0 +1,202 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/StandSupportCol.obj",
+            "margin" : 0.0,
+            "x" : 3,
+            "y" : 1,
+            "z" : 3
+         },
+         "name" : "Stand Support LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/StandSupport.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y+Y",
+         "uuid" : "b1bb6ee8-3e5e-411f-885d-33fd538ca819"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/StandSupportCol.obj",
+            "margin" : 0.0,
+            "x" : 3,
+            "y" : 1,
+            "z" : 3
+         },
+         "name" : "Stand Support LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 5,
+            "durability" : 2,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/StandSupport.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y+Y",
+         "uuid" : "4c3618ea-8df3-41e6-9efa-6d1b9e49bb8d"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/StandSupportCol.obj",
+            "margin" : 0.0,
+            "x" : 3,
+            "y" : 1,
+            "z" : 3
+         },
+         "name" : "Stand Support LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 5,
+            "durability" : 3,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/StandSupport.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y+Y",
+         "uuid" : "a65e5968-c7b8-4899-b76b-9e6460339393"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/StandSupportCol.obj",
+            "margin" : 0.0,
+            "x" : 3,
+            "y" : 1,
+            "z" : 3
+         },
+         "name" : "Stand Support LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 5,
+            "durability" : 4,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/StandSupport.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y+Y",
+         "uuid" : "3c529dc9-0252-4e80-aecd-3f1f43cb809f"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/StandSupportCol.obj",
+            "margin" : 0.0,
+            "x" : 3,
+            "y" : 1,
+            "z" : 3
+         },
+         "name" : "Stand Support LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 5,
+            "durability" : 5,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/StandSupport.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y+Y",
+         "uuid" : "acad105b-c937-4bdc-899c-70ecc9d19366"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/StandSupportCol.obj",
+            "margin" : 0.0,
+            "x" : 3,
+            "y" : 1,
+            "z" : 3
+         },
+         "name" : "Stand Support LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 5,
+            "durability" : 6,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/StandSupport.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y+Y",
+         "uuid" : "3485a921-62be-4264-b316-f4e1d85b91d2"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/StandSupportCol.obj",
+            "margin" : 0.0,
+            "x" : 3,
+            "y" : 1,
+            "z" : 3
+         },
+         "name" : "Stand Support LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 5,
+            "durability" : 7,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/StandSupport.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y+Y",
+         "uuid" : "ae5bf2dc-f64c-466a-95e2-1db1019ee5d8"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/StandSupportCol.obj",
+            "margin" : 0.0,
+            "x" : 3,
+            "y" : 1,
+            "z" : 3
+         },
+         "name" : "Stand Support LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 5,
+            "durability" : 8,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/StandSupport.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y+Y",
+         "uuid" : "c175f211-114d-47d7-80f9-546e1223f664"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/StandSupportCol.obj",
+            "margin" : 0.0,
+            "x" : 3,
+            "y" : 1,
+            "z" : 3
+         },
+         "name" : "Stand Support LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 5,
+            "durability" : 9,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/StandSupport.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y+Y",
+         "uuid" : "ddce90af-2200-479d-8e87-f3361e822f16"
+      }
+   ]
+}

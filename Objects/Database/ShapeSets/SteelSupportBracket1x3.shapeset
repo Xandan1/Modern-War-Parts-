@@ -1,0 +1,211 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "name" : "Steel Support Bracket 1x3 LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x3.rend",
+         "rotationSet" : "PropYZ",
+         "slant" : {
+            "back" : "-Z",
+            "bottom" : "-Y",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 3
+         },
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "9fdeab51-5772-432c-8f90-1dd82bde91ff"
+      },
+      {
+         "color" : "0E8031",
+         "name" : "Steel Support Bracket 1x3 LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x3.rend",
+         "rotationSet" : "PropYZ",
+         "slant" : {
+            "back" : "-Z",
+            "bottom" : "-Y",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 3
+         },
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "06eee5df-47bd-477c-a3ea-0b9f5698057e"
+      },
+      {
+         "color" : "577D07",
+         "name" : "Steel Support Bracket 1x3 LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x3.rend",
+         "rotationSet" : "PropYZ",
+         "slant" : {
+            "back" : "-Z",
+            "bottom" : "-Y",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 3
+         },
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "1c165e66-5af5-46b2-b166-f3359164e7e2"
+      },
+      {
+         "color" : "375000",
+         "name" : "Steel Support Bracket 1x3 LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 4,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x3.rend",
+         "rotationSet" : "PropYZ",
+         "slant" : {
+            "back" : "-Z",
+            "bottom" : "-Y",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 3
+         },
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "1df11bd6-4fbb-49a2-a0b0-c18921631525"
+      },
+      {
+         "color" : "817C00",
+         "name" : "Steel Support Bracket 1x3 LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 5,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x3.rend",
+         "rotationSet" : "PropYZ",
+         "slant" : {
+            "back" : "-Z",
+            "bottom" : "-Y",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 3
+         },
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "a6351e40-60a3-4b7d-9fb1-7bddb08e5326"
+      },
+      {
+         "color" : "E2DB13",
+         "name" : "Steel Support Bracket 1x3 LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 6,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x3.rend",
+         "rotationSet" : "PropYZ",
+         "slant" : {
+            "back" : "-Z",
+            "bottom" : "-Y",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 3
+         },
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "b1002112-824f-4965-bc11-2dc6e83083ee"
+      },
+      {
+         "color" : "DF7F00",
+         "name" : "Steel Support Bracket 1x3 LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 7,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x3.rend",
+         "rotationSet" : "PropYZ",
+         "slant" : {
+            "back" : "-Z",
+            "bottom" : "-Y",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 3
+         },
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "ba4bff8d-55a8-4ff9-8db3-e5fe377f541a"
+      },
+      {
+         "color" : "D02525",
+         "name" : "Steel Support Bracket 1x3 LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 8,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x3.rend",
+         "rotationSet" : "PropYZ",
+         "slant" : {
+            "back" : "-Z",
+            "bottom" : "-Y",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 3
+         },
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "ed74d72b-cd8e-4990-9c66-699763942cc6"
+      },
+      {
+         "color" : "7C0000",
+         "name" : "Steel Support Bracket 1x3 LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 9,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x3.rend",
+         "rotationSet" : "PropYZ",
+         "slant" : {
+            "back" : "-Z",
+            "bottom" : "-Y",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 3
+         },
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "6ee6493f-801a-480f-a1a0-a9c6a3a00182"
+      }
+   ]
+}

@@ -1,0 +1,27 @@
+Copyright (c) 2026 [Xandan]
+
+ENGLISH VERSION:
+All rights reserved. 
+
+Permission is hereby granted to download, install, and use this modification (the "Software") solely for personal, non-commercial gameplay purposes. 
+
+Strictly Prohibited:
+1. Modification, alteration, or tampering with the Software's code, scripts, models, or assets.
+2. Re-uploading, redistributing, or mirroring the Software (or any of its parts) to any public or private platforms, including but not limited to Steam Workshop, GitHub, and third-party websites, without the express written permission of the copyright holder.
+3. Using any assets, models, or scripts from this Software in other modifications or projects.
+
+The Software is provided "as is", without warranty of any kind. The authors shall not be liable for any damage, loss of game progress, or broken in-game creations resulting from updates or changes to the Software.
+
+--------------------------------------------------
+
+РУССКАЯ ВЕРСИЯ:
+Все права защищены.
+
+Пользователям предоставляется разрешение на скачивание, установку и использование данной модификации (далее — "Программное обеспечение") исключительно в личных, некоммерческих игровых целях.
+
+Категорически запрещается:
+1. Модификация, изменение или вмешательство в код, скрипты, модели или ассеты Программного обеспечения.
+2. Повторная загрузка, распространение или дублирование Программного обеспечения (или любой его части) на любых публичных или частных платформах, включая, помимо прочего, Steam Workshop, GitHub и сторонние веб-сайты, без предварительного письменного согласия правообладателя.
+3. Использование любых ассетов, моделей или скриптов из данного Программного обеспечения в других модификациях или проектах.
+
+Программное обеспечение предоставляется по принципу "как есть", без каких-либо гарантий. Авторы не несут ответственности за любой ущерб, потерю игрового прогресса или поломку внутриигровых построек, вызванную обновлениями или изменениями в Программном обеспечении.

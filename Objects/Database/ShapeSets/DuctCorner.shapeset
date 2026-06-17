@@ -1,0 +1,193 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_fittings_ductbend.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Duct Corner LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/DuctCorner.rend",
+         "rotationSet" : "PropYX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "9424f76b-3679-49b1-b4b5-5237f6d13d48"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_fittings_ductbend.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Duct Corner LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 2,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/DuctCorner.rend",
+         "rotationSet" : "PropYX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "5297ada4-9b80-4fe2-9846-24cf0be98cf1"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_fittings_ductbend.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Duct Corner LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 2,
+            "durability" : 3,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/DuctCorner.rend",
+         "rotationSet" : "PropYX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "f566df34-d3a2-4ecf-859c-0c2ea48e01e7"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_fittings_ductbend.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Duct Corner LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 2,
+            "durability" : 4,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/DuctCorner.rend",
+         "rotationSet" : "PropYX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "98be4923-43ec-4f97-9685-74c93e88ff8e"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_fittings_ductbend.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Duct Corner LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 2,
+            "durability" : 5,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/DuctCorner.rend",
+         "rotationSet" : "PropYX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "0dc662f7-6937-48c6-9a0c-282267098f80"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_fittings_ductbend.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Duct Corner LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 2,
+            "durability" : 6,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/DuctCorner.rend",
+         "rotationSet" : "PropYX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "508dc20b-1d57-47b3-a022-18756d0d862e"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_fittings_ductbend.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Duct Corner LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 2,
+            "durability" : 7,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/DuctCorner.rend",
+         "rotationSet" : "PropYX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "b62dd97f-9003-480d-af0e-60612e46646b"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_fittings_ductbend.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Duct Corner LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 2,
+            "durability" : 8,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/DuctCorner.rend",
+         "rotationSet" : "PropYX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "ec5a7562-9827-4bf1-97c1-f2019f422321"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_fittings_ductbend.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Duct Corner LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 2,
+            "durability" : 9,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/DuctCorner.rend",
+         "rotationSet" : "PropYX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "6bc6c43e-722b-41e3-9834-7d02d57203e4"
+      }
+   ]
+}

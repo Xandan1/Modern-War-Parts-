@@ -1,0 +1,202 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "name" : "Standing Sign 1x3 LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/StandingSign.rend",
+         "rotationSet" : "PropYZXNegX",
+         "slant" : {
+            "back" : "-Z",
+            "bottom" : "-Y",
+            "x" : 2,
+            "y" : 3,
+            "z" : 1
+         },
+         "sticky" : "-Y+X-X-Z",
+         "uuid" : "e94917f5-3c37-4dae-a5d4-adf155238e71"
+      },
+      {
+         "color" : "0E8031",
+         "name" : "Standing Sign 1x3 LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 2,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/StandingSign.rend",
+         "rotationSet" : "PropYZXNegX",
+         "slant" : {
+            "back" : "-Z",
+            "bottom" : "-Y",
+            "x" : 2,
+            "y" : 3,
+            "z" : 1
+         },
+         "sticky" : "-Y+X-X-Z",
+         "uuid" : "7b5c29ef-9402-4ad5-a229-b9b86f813348"
+      },
+      {
+         "color" : "577D07",
+         "name" : "Standing Sign 1x3 LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 2,
+            "durability" : 3,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/StandingSign.rend",
+         "rotationSet" : "PropYZXNegX",
+         "slant" : {
+            "back" : "-Z",
+            "bottom" : "-Y",
+            "x" : 2,
+            "y" : 3,
+            "z" : 1
+         },
+         "sticky" : "-Y+X-X-Z",
+         "uuid" : "464cf9a7-c82c-427d-baf6-1932bdc66861"
+      },
+      {
+         "color" : "375000",
+         "name" : "Standing Sign 1x3 LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 2,
+            "durability" : 4,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/StandingSign.rend",
+         "rotationSet" : "PropYZXNegX",
+         "slant" : {
+            "back" : "-Z",
+            "bottom" : "-Y",
+            "x" : 2,
+            "y" : 3,
+            "z" : 1
+         },
+         "sticky" : "-Y+X-X-Z",
+         "uuid" : "28109df8-6341-47f2-8127-7d77516be04a"
+      },
+      {
+         "color" : "817C00",
+         "name" : "Standing Sign 1x3 LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 2,
+            "durability" : 5,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/StandingSign.rend",
+         "rotationSet" : "PropYZXNegX",
+         "slant" : {
+            "back" : "-Z",
+            "bottom" : "-Y",
+            "x" : 2,
+            "y" : 3,
+            "z" : 1
+         },
+         "sticky" : "-Y+X-X-Z",
+         "uuid" : "3719eef0-d78b-46ac-93ee-08a00b908fc7"
+      },
+      {
+         "color" : "E2DB13",
+         "name" : "Standing Sign 1x3 LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 2,
+            "durability" : 6,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/StandingSign.rend",
+         "rotationSet" : "PropYZXNegX",
+         "slant" : {
+            "back" : "-Z",
+            "bottom" : "-Y",
+            "x" : 2,
+            "y" : 3,
+            "z" : 1
+         },
+         "sticky" : "-Y+X-X-Z",
+         "uuid" : "20b77c3f-0db6-455f-bc8c-a205e25e52e5"
+      },
+      {
+         "color" : "DF7F00",
+         "name" : "Standing Sign 1x3 LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 2,
+            "durability" : 7,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/StandingSign.rend",
+         "rotationSet" : "PropYZXNegX",
+         "slant" : {
+            "back" : "-Z",
+            "bottom" : "-Y",
+            "x" : 2,
+            "y" : 3,
+            "z" : 1
+         },
+         "sticky" : "-Y+X-X-Z",
+         "uuid" : "276cba9b-8996-4dd3-9c77-33934764e5b1"
+      },
+      {
+         "color" : "D02525",
+         "name" : "Standing Sign 1x3 LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 2,
+            "durability" : 8,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/StandingSign.rend",
+         "rotationSet" : "PropYZXNegX",
+         "slant" : {
+            "back" : "-Z",
+            "bottom" : "-Y",
+            "x" : 2,
+            "y" : 3,
+            "z" : 1
+         },
+         "sticky" : "-Y+X-X-Z",
+         "uuid" : "493d0924-cf00-4d05-af6e-64cbb920dc7a"
+      },
+      {
+         "color" : "7C0000",
+         "name" : "Standing Sign 1x3 LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 2,
+            "durability" : 9,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/StandingSign.rend",
+         "rotationSet" : "PropYZXNegX",
+         "slant" : {
+            "back" : "-Z",
+            "bottom" : "-Y",
+            "x" : 2,
+            "y" : 3,
+            "z" : 1
+         },
+         "sticky" : "-Y+X-X-Z",
+         "uuid" : "9a2d40a2-2ef1-49da-854d-3fa96c5732e4"
+      }
+   ]
+}

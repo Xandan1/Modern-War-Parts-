@@ -1,0 +1,8 @@
+<MyGUI type="Layout" version="3.2.0">
+	<Widget type="TextBox" align="Stretch" skin="TextBox" name="Text" position_real="0 0 1 1">
+		<Property key="NeedKey" value="false" />
+		<Property key="NeedMouse" value="false" />
+		<Property key="FontName" value="SM_HotbarBinding" />
+		<Property key="TextAlign" value="HCenter Bottom" />
+	</Widget>
+</MyGUI>

@@ -1,0 +1,202 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/DoNotEnterSignCol.obj",
+            "x" : 3,
+            "y" : 3,
+            "z" : 1
+         },
+         "name" : "Do Not Enter Sign LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/DoNotEnterSign.rend",
+         "rotationSet" : "PropZ",
+         "showInInventory" : false,
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "7ed22220-e2a5-43c6-be94-dfc390fa42af"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/DoNotEnterSignCol.obj",
+            "x" : 3,
+            "y" : 3,
+            "z" : 1
+         },
+         "name" : "Do Not Enter Sign LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/DoNotEnterSign.rend",
+         "rotationSet" : "PropZ",
+         "showInInventory" : false,
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "b3e0488e-b74b-4eb3-b29d-f537ebce7dc0"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/DoNotEnterSignCol.obj",
+            "x" : 3,
+            "y" : 3,
+            "z" : 1
+         },
+         "name" : "Do Not Enter Sign LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 3,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/DoNotEnterSign.rend",
+         "rotationSet" : "PropZ",
+         "showInInventory" : false,
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "f279799e-fe6e-4335-a893-2322b621ad6d"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/DoNotEnterSignCol.obj",
+            "x" : 3,
+            "y" : 3,
+            "z" : 1
+         },
+         "name" : "Do Not Enter Sign LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 4,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/DoNotEnterSign.rend",
+         "rotationSet" : "PropZ",
+         "showInInventory" : false,
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "4f329b21-910c-490b-8ac7-29a972f0e616"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/DoNotEnterSignCol.obj",
+            "x" : 3,
+            "y" : 3,
+            "z" : 1
+         },
+         "name" : "Do Not Enter Sign LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 5,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/DoNotEnterSign.rend",
+         "rotationSet" : "PropZ",
+         "showInInventory" : false,
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "38d3e9fb-52e1-4dbb-8299-dd8984ec7085"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/DoNotEnterSignCol.obj",
+            "x" : 3,
+            "y" : 3,
+            "z" : 1
+         },
+         "name" : "Do Not Enter Sign LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 6,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/DoNotEnterSign.rend",
+         "rotationSet" : "PropZ",
+         "showInInventory" : false,
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "3d75f343-307d-4744-a65a-4d92cccac412"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/DoNotEnterSignCol.obj",
+            "x" : 3,
+            "y" : 3,
+            "z" : 1
+         },
+         "name" : "Do Not Enter Sign LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 7,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/DoNotEnterSign.rend",
+         "rotationSet" : "PropZ",
+         "showInInventory" : false,
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "85908087-af22-46c2-80f1-87fa2f3b4238"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/DoNotEnterSignCol.obj",
+            "x" : 3,
+            "y" : 3,
+            "z" : 1
+         },
+         "name" : "Do Not Enter Sign LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 8,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/DoNotEnterSign.rend",
+         "rotationSet" : "PropZ",
+         "showInInventory" : false,
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "8ec17956-b640-4157-ae0c-61fa45883aa1"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/DoNotEnterSignCol.obj",
+            "x" : 3,
+            "y" : 3,
+            "z" : 1
+         },
+         "name" : "Do Not Enter Sign LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 9,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/DoNotEnterSign.rend",
+         "rotationSet" : "PropZ",
+         "showInInventory" : false,
+         "sticky" : "-Z+Y-Y+X-X",
+         "uuid" : "6bb73bbc-fa75-4094-9e73-2f26a42bb96e"
+      }
+   ]
+}

@@ -1,0 +1,30 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$CONTENT_DATA/Objects/Mesh/StandingSign.fbx",
+         "subMeshList" : [
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/StandingSignDif.tga",
+                  "$SURVIVAL_DATA/Objects/Textures/building/obj_building_slippery_asg.tga",
+                  "$SURVIVAL_DATA/Objects/Textures/building/obj_building_slippery_nor.tga"
+               ]
+            }
+         ]
+      },
+      {
+         "mesh" : "$CONTENT_DATA/Objects/Mesh/StandingSignLod1.fbx",
+         "subMeshList" : [
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/StandingSignDif.tga",
+                  "$SURVIVAL_DATA/Objects/Textures/building/obj_building_slippery_asg.tga",
+                  "$SURVIVAL_DATA/Objects/Textures/building/obj_building_slippery_nor.tga"
+               ]
+            }
+         ]
+      }
+   ]
+}

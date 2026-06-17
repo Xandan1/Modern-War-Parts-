@@ -1,0 +1,202 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_2wayb_pipe.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Bend LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SmallPipeBend.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "+X-Y",
+         "uuid" : "f1343a63-0e46-44bf-9d07-4f938ccb0a10"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_2wayb_pipe.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Bend LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 2,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SmallPipeBend.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "+X-Y",
+         "uuid" : "547fdcb3-9ae7-47e5-9352-e5944f33b1da"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_2wayb_pipe.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Bend LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 3,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SmallPipeBend.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "+X-Y",
+         "uuid" : "467c90d9-6fb9-4dc5-b201-be231bf27093"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_2wayb_pipe.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Bend LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 4,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SmallPipeBend.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "+X-Y",
+         "uuid" : "43c8a10c-e9fb-454f-b880-5051023ea2f6"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_2wayb_pipe.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Bend LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 5,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SmallPipeBend.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "+X-Y",
+         "uuid" : "7b45c696-a4b6-411a-88cd-ab391f123f04"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_2wayb_pipe.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Bend LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 6,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SmallPipeBend.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "+X-Y",
+         "uuid" : "1803f13f-5b98-443f-a581-b843dd0f09bc"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_2wayb_pipe.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Bend LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 7,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SmallPipeBend.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "+X-Y",
+         "uuid" : "c68a6dce-fdd2-43b4-893c-a40a448f6f19"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_2wayb_pipe.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Bend LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 8,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SmallPipeBend.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "+X-Y",
+         "uuid" : "fb877cb8-c201-4671-a874-9ac81b95d2b2"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_2wayb_pipe.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Bend LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 9,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SmallPipeBend.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "+X-Y",
+         "uuid" : "756e2851-0bfc-4b41-89d4-6ee384d995ce"
+      }
+   ]
+}

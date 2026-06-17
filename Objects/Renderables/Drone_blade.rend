@@ -1,0 +1,33 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$CONTENT_DATA/Objects/Mesh/Drone_blade.fbx",
+         "subMeshList" : [
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/Nothing/Gray_dif.tga",
+                  "$CONTENT_DATA/Objects/Textures/Nothing/Nothing_asg.tga",
+                  "$CONTENT_DATA/Objects/Textures/Nothing/Nothing_nor.tga"
+               ]
+            },
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/textures/Nothing/Black_dif.tga",
+                  "$CONTENT_DATA/Objects/Textures/Nothing/Nothing2_asg.tga",
+                  "$CONTENT_DATA/Objects/Textures/Nothing/Nothing_nor.tga"
+               ]
+            },
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$SURVIVAL_DATA/Objects/Textures/industrial/obj_industrial_broholder_dif.tga",
+                  "$SURVIVAL_DATA/Objects/Textures/industrial/obj_industrial_broholder_asg.tga",
+                  "$SURVIVAL_DATA/Objects/Textures/industrial/obj_industrial_broholder_nor.tga"
+               ]
+            }
+         ]
+      }
+   ]
+}

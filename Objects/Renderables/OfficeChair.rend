@@ -1,0 +1,18 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$SURVIVAL_DATA/Objects/Mesh/building/obj_office_officechair.fbx",
+         "subMeshList" : [
+            {
+               "material" : "DifAsgNorAo",
+               "textureList" : [
+                  "$SURVIVAL_DATA/Objects/Textures/building/obj_office_officechair_dif.tga",
+                  "$SURVIVAL_DATA/Objects/Textures/building/obj_office_officechair_asg.tga",
+                  "$SURVIVAL_DATA/Objects/Textures/building/obj_office_officechair_nor.tga",
+                  "$SURVIVAL_DATA/Objects/Textures/building/obj_office_officechair_ao.tga"
+               ]
+            }
+         ]
+      }
+   ]
+}

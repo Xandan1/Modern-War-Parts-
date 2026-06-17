@@ -1,0 +1,193 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_6way_pipe.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Six Way LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SmallPipeSixWay.rend",
+         "rotationSet" : "PropXmm",
+         "uuid" : "263e82ba-73b7-4121-9764-79911aa3aa32"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_6way_pipe.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Six Way LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 2,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SmallPipeSixWay.rend",
+         "rotationSet" : "PropXmm",
+         "uuid" : "c046bccd-3bde-4ac7-bcb7-470b22500f1d"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_6way_pipe.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Six Way LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 3,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SmallPipeSixWay.rend",
+         "rotationSet" : "PropXmm",
+         "uuid" : "3647cb7a-c30e-48a2-a1e6-e94ada441cab"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_6way_pipe.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Six Way LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 4,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SmallPipeSixWay.rend",
+         "rotationSet" : "PropXmm",
+         "uuid" : "5b9fc929-5389-487c-ba62-85ecf5b03ae7"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_6way_pipe.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Six Way LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 5,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SmallPipeSixWay.rend",
+         "rotationSet" : "PropXmm",
+         "uuid" : "23050575-5a3d-46eb-acc2-7de82a37ed73"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_6way_pipe.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Six Way LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 6,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SmallPipeSixWay.rend",
+         "rotationSet" : "PropXmm",
+         "uuid" : "b35926b1-a6ce-48d8-9ba3-afe5415fffb4"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_6way_pipe.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Six Way LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 7,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SmallPipeSixWay.rend",
+         "rotationSet" : "PropXmm",
+         "uuid" : "eb67a2b9-094e-483b-8d79-b7859735c169"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_6way_pipe.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Six Way LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 8,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SmallPipeSixWay.rend",
+         "rotationSet" : "PropXmm",
+         "uuid" : "fb2d3fa4-1f83-449e-b3ee-04fa8a117dbe"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_6way_pipe.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Six Way LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 9,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SmallPipeSixWay.rend",
+         "rotationSet" : "PropXmm",
+         "uuid" : "28a746b6-ae66-445e-9e89-fc4f00a615df"
+      }
+   ]
+}

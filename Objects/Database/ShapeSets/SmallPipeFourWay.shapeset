@@ -1,0 +1,202 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_4way_pipe.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Four Way LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SmallPipeFourWay.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-X+X-Z+Z",
+         "uuid" : "c22f7c4e-00dd-4b9f-89bf-f5fa96430eb8"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_4way_pipe.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Four Way LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 2,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SmallPipeFourWay.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-X+X-Z+Z",
+         "uuid" : "3755986c-c77c-4d38-af9e-a0410f506531"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_4way_pipe.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Four Way LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 3,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SmallPipeFourWay.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-X+X-Z+Z",
+         "uuid" : "51005652-c790-411a-b2f7-e265f221df96"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_4way_pipe.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Four Way LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 4,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SmallPipeFourWay.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-X+X-Z+Z",
+         "uuid" : "7ae8747f-418f-4b81-ac1b-f284180c0aab"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_4way_pipe.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Four Way LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 5,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SmallPipeFourWay.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-X+X-Z+Z",
+         "uuid" : "89ac8731-151b-4737-b050-8b4150225eed"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_4way_pipe.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Four Way LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 6,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SmallPipeFourWay.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-X+X-Z+Z",
+         "uuid" : "d05109fe-3706-475a-a7af-bd86716ee776"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_4way_pipe.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Four Way LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 7,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SmallPipeFourWay.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-X+X-Z+Z",
+         "uuid" : "30dfe009-e972-4d18-ae40-95cf3871cd76"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_4way_pipe.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Four Way LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 8,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SmallPipeFourWay.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-X+X-Z+Z",
+         "uuid" : "e6cbb999-897e-4bee-b0fe-93dd9dd12957"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_4way_pipe.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Four Way LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 9,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SmallPipeFourWay.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-X+X-Z+Z",
+         "uuid" : "45cb5f1b-cc70-4025-a283-e61a9c33fe70"
+      }
+   ]
+}

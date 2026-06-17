@@ -1,0 +1,18 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$CONTENT_DATA/Objects/Mesh/Plate.fbx",
+         "subMeshList" : [
+            {
+               "material" : "Visualization",
+               "textureList" : [
+                  "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_dif.tga",
+                  "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_asg.tga",
+                  "$CONTENT_DATA/Objects/Textures/NothingNor.tga",
+                  "$GAME_DATA/Objects/Textures/industrial/obj_industrial_beamshelf_ao.tga"
+               ]
+            }
+         ]
+      }
+   ]
+}

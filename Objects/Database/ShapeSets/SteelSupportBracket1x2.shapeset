@@ -1,0 +1,202 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_bigrampthinsmall.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Steel Support Bracket 1x2 LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x2.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "e4bdab9d-412c-4f46-92d1-b07cc92db7ff"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_bigrampthinsmall.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Steel Support Bracket 1x2 LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x2.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "176d8159-3209-48c4-bfd6-f7cc16daebb8"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_bigrampthinsmall.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Steel Support Bracket 1x2 LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x2.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "5fd5f97f-cdbc-4fad-83a2-dd64d45737d3"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_bigrampthinsmall.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Steel Support Bracket 1x2 LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 4,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x2.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "de20a563-0e2a-4811-9025-4a52e8dd1151"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_bigrampthinsmall.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Steel Support Bracket 1x2 LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 5,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x2.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "cc45fb2f-e006-4357-872f-e928c6766821"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_bigrampthinsmall.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Steel Support Bracket 1x2 LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 6,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x2.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "f5852971-c8b5-41a9-b33f-79c0660a37d7"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_bigrampthinsmall.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Steel Support Bracket 1x2 LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 7,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x2.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "c2e8063b-4899-4094-93a8-421bcad3604b"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_bigrampthinsmall.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Steel Support Bracket 1x2 LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 8,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x2.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "5f5ab468-a72b-4f8e-b3f9-4dfcc5f30140"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_bigrampthinsmall.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Steel Support Bracket 1x2 LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 4,
+            "durability" : 9,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SteelSupportBracket1x2.rend",
+         "rotationSet" : "PropYZ",
+         "sticky" : "-Y+Y-Z-X+X",
+         "uuid" : "d8d90298-4da2-4d2a-904d-907cb0ee12d2"
+      }
+   ]
+}

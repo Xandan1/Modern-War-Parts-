@@ -1,0 +1,1486 @@
+{
+   "partList" : [
+      {
+         "color" : "cb0a00",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_2way_pipe.obj",
+            "margin" : 0.250,
+            "x" : 2,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Bomb",
+         "physicsMaterial" : "Metal",
+         "previewRotation" : [ 0, 0, 1, 1, 0, 0, 0, 1, 0 ],
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 10,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/VisibleCube.rend",
+         "rotationSet" : "PropFull",
+         "scripted" : {
+            "classname" : "Explosive",
+            "data" : {
+               "destructionLevel" : 3,
+               "destructionRadius" : 1.0,
+               "effectActivate" : "PropaneTank - ActivateSmall",
+               "effectExplosion" : "PropaneTank - ExplosionSmall",
+               "impulseMagnitude" : 100.0,
+               "impulseRadius" : 5.0
+            },
+            "filename" : "$GAME_DATA/Scripts/game/Explosive.lua"
+         },
+         "showInInventory" : false,
+         "sticky" : "+Y-Y+Z-Z+X-X",
+         "uuid" : "d3c906c8-e18e-4fdc-b86b-e2028bd31749"
+      },
+      {
+         "color" : "cb0a00",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_2way_pipe.obj",
+            "margin" : 0.250,
+            "x" : 2,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Inv.Block LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 10,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/VisibleCube.rend",
+         "rotationSet" : "PropFull",
+         "showInInventory" : false,
+         "sticky" : "+Y-Y+Z-Z+X-X",
+         "uuid" : "ab2f8525-eaa8-482c-aac6-a366bbd6da90"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_2way_pipe.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Bomb For Drone",
+         "physicsMaterial" : "Metal",
+         "previewRotation" : [ 0, 0, 1, 1, 0, 0, 0, 1, 0 ],
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 1,
+            "durability" : 10,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/VisibleCube.rend",
+         "rotationSet" : "PropFull",
+         "scripted" : {
+            "classname" : "Explosive",
+            "data" : {
+               "ExplodeLevel" : 3,
+               "ExplodeRadius" : 4.0,
+               "ImpulseMagnitude" : 1.0,
+               "ImpulseRadius" : 0.10
+            },
+            "filename" : "$GAME_DATA/Scripts/game/Explosive.lua"
+         },
+         "showInInventory" : false,
+         "sticky" : "+Y-Y+Z-Z+X-X",
+         "uuid" : "2b69d996-e142-4cb5-949a-185bbc87c3c7"
+      },
+      {
+         "color" : "F06767",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_decor_screw01.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Screw Bomb",
+         "physicsMaterial" : "Metal",
+         "previewRotation" : [ 0, 0, 1, 1, 0, 0, 0, 1, 0 ],
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 2,
+            "durability" : 10,
+            "friction" : 6
+         },
+         "renderable" : "$GAME_DATA/Objects/Renderable/decor/obj_decor_screw01.rend",
+         "rotationSet" : "PropY",
+         "scripted" : {
+            "classname" : "Explosive",
+            "data" : {
+               "destructionLevel" : 10,
+               "destructionRadius" : 1,
+               "effectActivate" : "PropaneTank - ActivateSmall",
+               "effectExplosion" : "PropaneTank - ExplosionSmall",
+               "impulseMagnitude" : 100.0,
+               "impulseRadius" : 1.250
+            },
+            "filename" : "$GAME_DATA/Scripts/game/Explosive.lua"
+         },
+         "showInInventory" : false,
+         "sticky" : "+Y-Y+Z-Z+X-X",
+         "uuid" : "32df2391-071c-4ad1-9e70-289800b26eaf"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "cb0a00",
+         "name" : "Weak Bomb",
+         "physicsMaterial" : "Mechanical",
+         "previewRotation" : [ 0, 0, 1, 1, 0, 0, 0, 1, 0 ],
+         "ratings" : {
+            "buoyancy" : 7,
+            "density" : 4,
+            "durability" : 10,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/VisibleCube.rend",
+         "rotationSet" : "PropYZ",
+         "scripted" : {
+            "classname" : "Explosive",
+            "data" : {
+               "destructionLevel" : 3,
+               "destructionRadius" : 0.250,
+               "effectActivate" : "PropaneTank - ActivateSmall",
+               "effectExplosion" : "PropaneTank - ExplosionSmall",
+               "impulseMagnitude" : 0.0,
+               "impulseRadius" : 1.250
+            },
+            "filename" : "$GAME_DATA/Scripts/game/Explosive.lua"
+         },
+         "showInInventory" : false,
+         "sticky" : "+Y-Y+Z-Z+X-X",
+         "uuid" : "f77c74d7-d1f6-4bd8-ae35-0b535909aa90"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "C36512",
+         "name" : "Plate",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 3,
+            "friction" : 6
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "mesh" : "$CONTENT_DATA/Objects/Mesh/Plate.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgAo",
+                        "textureList" : [
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_dif.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_asg.tga",
+                           "",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_industrial_beamshelf_ao.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropYZ",
+         "showInInventory" : false,
+         "sticky" : "+Y-Y+Z-Z+X-X",
+         "uuid" : "a2104fcd-3bf7-47f6-87c1-13d6d7f4f278"
+      },
+      {
+         "color" : "222222",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_packingtablesupport.obj",
+            "x" : 1,
+            "y" : 5,
+            "z" : 1
+         },
+         "name" : "Helicopter Blade",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 0,
+            "durability" : 1,
+            "friction" : 6
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "mesh" : "$SURVIVAL_DATA/Objects/Mesh/warehouse/obj_warehouse_packingtablesupport.mesh",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNor",
+                        "textureList" : [
+                           "$CONTENT_DATA/Objects/Textures/Nothing/Black_dif.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/warehouse/obj_warehouse_packingtablesupport_asg.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/warehouse/obj_warehouse_packingtablesupport_nor.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropYZX",
+         "showInInventory" : false,
+         "sticky" : "+Y-Y-Z+X-X",
+         "uuid" : "417baf2c-e109-4b6c-ad36-493f516ab2d5"
+      },
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_long_pipe.obj",
+            "margin" : 0.250,
+            "x" : 4,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Long lvl 1",
+         "physicsMaterial" : "Metal",
+         "previewRotation" : [ 0, 0, -1, 1, 0, 0, 0, 1, 0 ],
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 3
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "includes" : [ "POSITION", "UV0", "UV1", "NORMAL", "TANGENTS" ],
+                  "mesh" : "$GAME_DATA/Objects/Mesh/fittings/small_long_pipe.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNorAo",
+                        "textureList" : [
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_dif.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_asg.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_nor.tga",
+                           "$GAME_DATA/Objects/Textures/fittings/obj_fittings_small_pipe_ao.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropXmm",
+         "showInInventory" : false,
+         "sticky" : "-X+X",
+         "uuid" : "c40a7362-1537-433c-a1cb-ebc788976e15"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_long_pipe.obj",
+            "margin" : 0.250,
+            "x" : 4,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Long lvl 3",
+         "physicsMaterial" : "Metal",
+         "previewRotation" : [ 0, 0, -1, 1, 0, 0, 0, 1, 0 ],
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 3,
+            "friction" : 3
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "includes" : [ "POSITION", "UV0", "UV1", "NORMAL", "TANGENTS" ],
+                  "mesh" : "$GAME_DATA/Objects/Mesh/fittings/small_long_pipe.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNorAo",
+                        "textureList" : [
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_dif.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_asg.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_nor.tga",
+                           "$GAME_DATA/Objects/Textures/fittings/obj_fittings_small_pipe_ao.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropXmm",
+         "showInInventory" : false,
+         "sticky" : "-X+X",
+         "uuid" : "241d79a5-2e5e-4f40-95ea-3d4b9c7ea95d"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_long_pipe.obj",
+            "margin" : 0.250,
+            "x" : 4,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Long lvl 4",
+         "physicsMaterial" : "Metal",
+         "previewRotation" : [ 0, 0, -1, 1, 0, 0, 0, 1, 0 ],
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 4,
+            "friction" : 3
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "includes" : [ "POSITION", "UV0", "UV1", "NORMAL", "TANGENTS" ],
+                  "mesh" : "$GAME_DATA/Objects/Mesh/fittings/small_long_pipe.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNorAo",
+                        "textureList" : [
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_dif.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_asg.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_nor.tga",
+                           "$GAME_DATA/Objects/Textures/fittings/obj_fittings_small_pipe_ao.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropXmm",
+         "showInInventory" : false,
+         "sticky" : "-X+X",
+         "uuid" : "a222e7b3-9f6d-4317-8384-15efeeef1a33"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_long_pipe.obj",
+            "margin" : 0.250,
+            "x" : 4,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Long lvl 6",
+         "physicsMaterial" : "Metal",
+         "previewRotation" : [ 0, 0, -1, 1, 0, 0, 0, 1, 0 ],
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 6,
+            "friction" : 3
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "includes" : [ "POSITION", "UV0", "UV1", "NORMAL", "TANGENTS" ],
+                  "mesh" : "$GAME_DATA/Objects/Mesh/fittings/small_long_pipe.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNorAo",
+                        "textureList" : [
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_dif.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_asg.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_nor.tga",
+                           "$GAME_DATA/Objects/Textures/fittings/obj_fittings_small_pipe_ao.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropXmm",
+         "showInInventory" : false,
+         "sticky" : "-X+X",
+         "uuid" : "5af6f439-1848-4a83-b492-e4f1ff33cb4e"
+      },
+      {
+         "color" : "EEEEEE",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/small_long_pipe.obj",
+            "margin" : 0.250,
+            "x" : 4,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Small Pipe Long lvl 9",
+         "physicsMaterial" : "Metal",
+         "previewRotation" : [ 0, 0, -1, 1, 0, 0, 0, 1, 0 ],
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 2,
+            "durability" : 9,
+            "friction" : 3
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "includes" : [ "POSITION", "UV0", "UV1", "NORMAL", "TANGENTS" ],
+                  "mesh" : "$GAME_DATA/Objects/Mesh/fittings/small_long_pipe.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNorAo",
+                        "textureList" : [
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_dif.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_asg.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_nor.tga",
+                           "$GAME_DATA/Objects/Textures/fittings/obj_fittings_small_pipe_ao.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropXmm",
+         "showInInventory" : false,
+         "sticky" : "-X+X",
+         "uuid" : "e6d43046-0bbe-4078-afea-dd550dd5be0d"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "005952",
+         "name" : "Open Sign",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 2,
+            "durability" : 3,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/VisibleCube.rend",
+         "rotationSet" : "PropY",
+         "showInInventory" : false,
+         "sticky" : "+Y-Y+X-X",
+         "uuid" : "8daa0684-ed0d-4fa5-a23c-8ea944169e26"
+      },
+      {
+         "color" : "4C6FE3",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 3,
+            "diameter" : 1,
+            "margin" : 0.040
+         },
+         "name" : "Generator Pipe Long lvl 1",
+         "physicsMaterial" : "Plastic",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 5
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "includes" : [ "POSITION", "UV0", "UV1", "NORMAL", "TANGENTS" ],
+                  "mesh" : "$SURVIVAL_DATA/Objects/Mesh/fittings/obj_fittings_generatorpipelong.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNorAo",
+                        "textureList" : [
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_dif.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_asg.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_nor.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/fittings/obj_fittings_generatorpipe_ao.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropY",
+         "showInInventory" : false,
+         "sticky" : "-Y+Y",
+         "uuid" : "64ae42da-dc97-4e3f-8592-8514ba4a28fc"
+      },
+      {
+         "color" : "577D07",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 3,
+            "diameter" : 1,
+            "margin" : 0.040
+         },
+         "name" : "Generator Pipe Long lvl 3",
+         "physicsMaterial" : "Plastic",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "includes" : [ "POSITION", "UV0", "UV1", "NORMAL", "TANGENTS" ],
+                  "mesh" : "$SURVIVAL_DATA/Objects/Mesh/fittings/obj_fittings_generatorpipelong.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNorAo",
+                        "textureList" : [
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_dif.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_asg.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_nor.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/fittings/obj_fittings_generatorpipe_ao.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropY",
+         "showInInventory" : false,
+         "sticky" : "-Y+Y",
+         "uuid" : "d3650413-06fc-4bc9-9c30-2bfd75864cb4"
+      },
+      {
+         "color" : "E2DB13",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 3,
+            "diameter" : 1,
+            "margin" : 0.040
+         },
+         "name" : "Generator Pipe Long lvl 4",
+         "physicsMaterial" : "Plastic",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 4,
+            "friction" : 5
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "includes" : [ "POSITION", "UV0", "UV1", "NORMAL", "TANGENTS" ],
+                  "mesh" : "$SURVIVAL_DATA/Objects/Mesh/fittings/obj_fittings_generatorpipelong.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNorAo",
+                        "textureList" : [
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_dif.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_asg.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_nor.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/fittings/obj_fittings_generatorpipe_ao.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropY",
+         "showInInventory" : false,
+         "sticky" : "-Y+Y",
+         "uuid" : "35733a01-6d1b-4532-af68-a7f07c44069c"
+      },
+      {
+         "color" : "D02525",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 3,
+            "diameter" : 1,
+            "margin" : 0.040
+         },
+         "name" : "Generator Pipe Long lvl 6",
+         "physicsMaterial" : "Plastic",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 6,
+            "friction" : 5
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "includes" : [ "POSITION", "UV0", "UV1", "NORMAL", "TANGENTS" ],
+                  "mesh" : "$SURVIVAL_DATA/Objects/Mesh/fittings/obj_fittings_generatorpipelong.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNorAo",
+                        "textureList" : [
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_dif.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_asg.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_nor.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/fittings/obj_fittings_generatorpipe_ao.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropY",
+         "showInInventory" : false,
+         "sticky" : "-Y+Y",
+         "uuid" : "bf08a1b0-8be9-4161-b1a8-1278fd1f62a3"
+      },
+      {
+         "color" : "EEEEEE",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 3,
+            "diameter" : 1,
+            "margin" : 0.040
+         },
+         "name" : "Generator Pipe Long lvl 9",
+         "physicsMaterial" : "Plastic",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 9,
+            "friction" : 5
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "includes" : [ "POSITION", "UV0", "UV1", "NORMAL", "TANGENTS" ],
+                  "mesh" : "$SURVIVAL_DATA/Objects/Mesh/fittings/obj_fittings_generatorpipelong.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNorAo",
+                        "textureList" : [
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_dif.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_asg.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_nor.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/fittings/obj_fittings_generatorpipe_ao.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropY",
+         "showInInventory" : false,
+         "sticky" : "-Y+Y",
+         "uuid" : "2bde64af-d498-4fbe-9710-22f8949dc035"
+      },
+      {
+         "color" : "6f6fe3",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_interactive_switch.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "lever" : {},
+         "name" : "Invisible Switch",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/InvisibleSwitch.rend",
+         "rotationSet" : "PropY",
+         "showInInventory" : false,
+         "sticky" : "-Y",
+         "uuid" : "04098c4f-c231-4e41-ac13-851d74e11775"
+      },
+      {
+         "button" : {},
+         "color" : "6f6fe3",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_interactive_button.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Invisible Button",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/InvisibleButton.rend",
+         "rotationSet" : "PropY",
+         "showInInventory" : false,
+         "sticky" : "-Y",
+         "uuid" : "77ccaab2-3adf-45a8-becb-6e4f92276205"
+      },
+      {
+         "color" : "323000",
+         "flammable" : false,
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/T-90M_gun.obj",
+            "margin" : 0.10,
+            "x" : 1,
+            "y" : 2,
+            "z" : 18
+         },
+         "name" : "T-90M_gun",
+         "physicsMaterial" : "Plastic",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 10,
+            "friction" : 3
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "mesh" : "$CONTENT_DATA/Objects/Mesh/T-90M_gun.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNorAo",
+                        "textureList" : [
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_dif.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_asg.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_nor.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/fittings/obj_fittings_generatorpipe_ao.tga"
+                        ]
+                     },
+                     {
+                        "material" : "DifAsgNorAo",
+                        "textureList" : [
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_dif.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_asg.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_nor.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_industrial_stairwedge_ao.tga"
+                        ]
+                     },
+                     {
+                        "material" : "DifAsgNor",
+                        "textureList" : [
+                           "$CONTENT_DATA/Objects/Textures/Pipes_dif.tga",
+                           "$GAME_DATA/Objects/Textures/fittings/obj_fittings_pipes_asg.tga",
+                           "$GAME_DATA/Objects/Textures/fittings/obj_fittings_pipes_nor.tga"
+                        ]
+                     },
+                     {
+                        "material" : "DifAsgNor",
+                        "textureList" : [
+                           "$GAME_DATA/Objects/Textures/decor/obj_decor_screws_dif.tga",
+                           "$GAME_DATA/Objects/Textures/decor/obj_decor_screws_asg.tga",
+                           "$GAME_DATA/Objects/Textures/decor/obj_decor_screws_nor.tga"
+                        ]
+                     },
+                     {
+                        "material" : "DifAsgNor",
+                        "textureList" : [
+                           "$SURVIVAL_DATA/Objects/Textures/fittings/obj_fittings_pipesbig2_dif.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/fittings/obj_fittings_pipesbig2_asg.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/fittings/obj_fittings_pipesbig2_nor.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropZ",
+         "showInInventory" : false,
+         "sticky" : "-Z",
+         "uuid" : "282147f1-ee41-457c-9c74-10ba5d52305e"
+      },
+      {
+         "box" : {
+            "x" : 2,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "8c9c3f",
+         "name" : "Office Chair 1x2 Collision LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 3,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/OfficeChair.rend",
+         "rotationSet" : "PropY",
+         "showInInventory" : false,
+         "steering" : {
+            "bones" : [
+               {
+                  "name" : "Hips",
+                  "offset" : {
+                     "x" : 0.0,
+                     "y" : 0.80,
+                     "z" : 0.50
+                  }
+               },
+               {
+                  "freeRotation" : true,
+                  "name" : "LeftForeArm",
+                  "offset" : {
+                     "x" : 1.0,
+                     "y" : 1.50,
+                     "z" : 1.50
+                  }
+               },
+               {
+                  "freeRotation" : true,
+                  "name" : "RightForeArm",
+                  "offset" : {
+                     "x" : -1.0,
+                     "y" : 1.50,
+                     "z" : 1.50
+                  }
+               }
+            ],
+            "enterAudio" : "Seat seated",
+            "exitAudio" : "Seat unseated",
+            "ragdollFile" : "$CONTENT_DATA/Character/SeatRagdoll.json"
+         },
+         "sticky" : "-Y-Z",
+         "uuid" : "c690623e-2f9e-4ac6-a9f6-885000e65d55"
+      },
+      {
+         "color" : "c36512",
+         "name" : "Wedge 1x1 OP LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 4,
+            "durability" : 9,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge1x1.rend",
+         "restrictions" : {
+            "buildable" : true,
+            "connectable" : false,
+            "convertibleToDynamic" : false,
+            "destructable" : false,
+            "erasable" : true,
+            "liftable" : false,
+            "paintable" : true,
+            "usable" : true
+         },
+         "rotationSet" : "PropYX",
+         "showInInventory" : false,
+         "slant" : {
+            "back" : "-Z",
+            "bottom" : "-Y",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "fe6900c1-d79a-418a-9508-17c5a083b91b"
+      },
+      {
+         "color" : "c36512",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_bigrampthinsmall.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 1x2 OP LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 9,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge1x2.rend",
+         "restrictions" : {
+            "buildable" : true,
+            "connectable" : false,
+            "convertibleToDynamic" : false,
+            "destructable" : false,
+            "erasable" : true,
+            "liftable" : false,
+            "paintable" : true,
+            "usable" : true
+         },
+         "rotationSet" : "PropYZXNegX",
+         "showInInventory" : false,
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "c1963b97-f3c2-4deb-838b-389ffbca495d"
+      },
+      {
+         "color" : "c36512",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_packingtablesupport.obj",
+            "x" : 1,
+            "y" : 5,
+            "z" : 1
+         },
+         "name" : "Packing Table OP LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 9,
+            "friction" : 6
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "mesh" : "$SURVIVAL_DATA/Objects/Mesh/warehouse/obj_warehouse_packingtablesupport.mesh",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNor",
+                        "textureList" : [
+                           "$SURVIVAL_DATA/Objects/Textures/warehouse/obj_warehouse_packingtablesupport_dif.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/warehouse/obj_warehouse_packingtablesupport_asg.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/warehouse/obj_warehouse_packingtablesupport_nor.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "restrictions" : {
+            "buildable" : true,
+            "connectable" : false,
+            "convertibleToDynamic" : false,
+            "destructable" : false,
+            "erasable" : true,
+            "liftable" : false,
+            "paintable" : true,
+            "usable" : true
+         },
+         "rotationSet" : "PropZY",
+         "showInInventory" : false,
+         "sticky" : "+Y-Y-Z+X-X",
+         "uuid" : "7d9d2d26-df2a-4908-bd37-98572f5e8beb"
+      },
+      {
+         "color" : "7f7f7f",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 1,
+            "diameter" : 7,
+            "margin" : 0.040
+         },
+         "name" : "Giant Pipe Bracer LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "mesh" : "$SURVIVAL_DATA/Objects/Mesh/fittings/obj_fittings_7x1.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNor",
+                        "textureList" : [
+                           "$SURVIVAL_DATA/Objects/Textures/fittings/obj_fittings_7x8_dif.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/fittings/obj_fittings_7x8_asg.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/fittings/obj_fittings_7x8_nor.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropY",
+         "showInInventory" : false,
+         "sticky" : "-Y+Y",
+         "uuid" : "e8bb8d39-ae28-46e6-baf8-ba88663dda82"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 6
+         },
+         "color" : "7f7f7f",
+         "name" : "Staircase Long Railing LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "includes" : [ "POSITION", "UV0", "UV1", "NORMAL", "TANGENTS" ],
+                  "mesh" : "$GAME_DATA/Objects/Mesh/industrial/obj_industrial_platformfencelong.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNorAo",
+                        "textureList" : [
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_dif.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_asg.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_nor.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_industrial_platformfencelong_ao.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropZ",
+         "showInInventory" : false,
+         "sticky" : "-Z+Z",
+         "uuid" : "dbbd00ad-488b-4f69-9100-7b9649a565ab"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 3
+         },
+         "color" : "7f7f7f",
+         "name" : "Staircase Short Railing LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "includes" : [ "POSITION", "UV0", "UV1", "NORMAL", "TANGENTS" ],
+                  "mesh" : "$GAME_DATA/Objects/Mesh/industrial/obj_industrial_platformfenceshort.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNorAo",
+                        "textureList" : [
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_dif.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_asg.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_nor.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_industrial_platformfencelong_ao.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropZ",
+         "showInInventory" : false,
+         "sticky" : "-Z+Z",
+         "uuid" : "6ae983be-4616-4d28-ba44-4dca5132b10a"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 2,
+            "z" : 1
+         },
+         "color" : "7f7f7f",
+         "name" : "Staircase Baluster LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "includes" : [ "POSITION", "UV0", "UV1", "NORMAL", "TANGENTS" ],
+                  "mesh" : "$GAME_DATA/Objects/Mesh/industrial/obj_industrial_platformfencepole.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNorAo",
+                        "textureList" : [
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_dif.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_asg.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_nor.tga",
+                           "$GAME_DATA/Objects/Textures/industrial/obj_industrial_platformfencelong_ao.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropY",
+         "showInInventory" : false,
+         "sticky" : "-Y+Y",
+         "uuid" : "8636687e-3c82-4f8b-bf4b-389e592f597b"
+      },
+      {
+         "color" : "7f7f7f",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_container6.obj",
+            "x" : 1,
+            "y" : 2,
+            "z" : 1
+         },
+         "name" : "Metal Storage Handle LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "mesh" : "$SURVIVAL_DATA/Objects/Mesh/warehouse/obj_warehouse_container6.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNor",
+                        "textureList" : [
+                           "$SURVIVAL_DATA/Objects/Textures/warehouse/obj_warehouse_container_dif.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/warehouse/obj_warehouse_container_asg.tga",
+                           "$SURVIVAL_DATA/Objects/Textures/warehouse/obj_warehouse_container_nor.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropYNegYZNegX",
+         "showInInventory" : false,
+         "sticky" : "All",
+         "uuid" : "7d89afd2-8ca6-41ed-a103-23de157979cb"
+      },
+      {
+         "color" : "675f51",
+         "cylinder" : {
+            "axis" : "Z",
+            "depth" : 1,
+            "diameter" : 5,
+            "margin" : 0.50
+         },
+         "name" : "11 Wheel 2x5 With Hole LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 10,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/BigWheelWithHole.rend",
+         "rotationSet" : "PropNegZ",
+         "showInInventory" : false,
+         "sticky" : "+Z",
+         "uuid" : "f33afc22-2044-43dd-81c7-c81bebb37c34"
+      },
+      {
+         "color" : "675f51",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/MiddleWheelCol.obj",
+            "margin" : 0.10,
+            "x" : 5,
+            "y" : 5,
+            "z" : 1
+         },
+         "name" : "11 Wheel 1x4  Long LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 10,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/MiddleWheel.rend",
+         "rotationSet" : "PropZ",
+         "showInInventory" : false,
+         "sticky" : "-Z+Z",
+         "uuid" : "0ce7add9-4e8d-4989-aa38-846a84cf079c"
+      },
+      {
+         "color" : "675f51",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/SmallWheelWithHoleCol.obj",
+            "margin" : 0.0,
+            "x" : 3,
+            "y" : 3,
+            "z" : 1
+         },
+         "name" : "11 Wheel 1x3 With Hole LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 10,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SmallWheelWithHole.rend",
+         "rotationSet" : "PropNegZ",
+         "showInInventory" : false,
+         "sticky" : "+Z",
+         "uuid" : "e076d313-800f-408d-9b8e-b54efd61f3b8"
+      },
+      {
+         "color" : "675f51",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/MiddleWheelWithHoleCol.obj",
+            "margin" : 0.10,
+            "x" : 5,
+            "y" : 5,
+            "z" : 1
+         },
+         "name" : "11 Wheel 1x4  Long With Hole LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 10,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/MiddleWheelWithHole.rend",
+         "rotationSet" : "PropNegZ",
+         "showInInventory" : false,
+         "sticky" : "+Z",
+         "uuid" : "ef398e72-280e-4eab-8b5b-d24d638d7321"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "button" : {},
+         "color" : "002E1A",
+         "name" : "MG4 Button",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 2,
+            "friction" : 3
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "mesh" : "$MOD_DATA/Objects/Mesh/mg42_anim.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "SkelAnimDifAsgNor",
+                        "textureList" : [
+                           "$MOD_DATA/Objects/Textures/tekstura_horizontal_dif.png",
+                           "$MOD_DATA/Objects/Textures/tekstura_horizontal_asg.png",
+                           "$MOD_DATA/Objects/Textures/nonor_nor.tga"
+                        ]
+                     },
+                     {
+                        "custom" : {
+                           "uv0" : {
+                              "u" : 0.010,
+                              "v" : 0.010
+                           }
+                        },
+                        "material" : "SkelUVAnimDifAsgNor",
+                        "textureList" : [
+                           "$MOD_DATA/Objects/Textures/tekstura_horizontal_dif.png",
+                           "$MOD_DATA/Objects/Textures/tekstura_horizontal_asg.png",
+                           "$MOD_DATA/Objects/Textures/nonor_nor.tga"
+                        ]
+                     },
+                     {
+                        "material" : "SkelAnimDifAsgNor",
+                        "textureList" : [
+                           "$MOD_DATA/Objects/Textures/tekstura_horizontal_dif.png",
+                           "$MOD_DATA/Objects/Textures/tekstura_horizontal_asg.png",
+                           "$MOD_DATA/Objects/Textures/nonor_nor.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropFull",
+         "showInInventory" : false,
+         "sticky" : "+X-X+Z-Z+Y-Y",
+         "uuid" : "b19a9ce9-37c8-47a1-9711-3f13e2a0168a"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "8c9c3f",
+         "name" : "11 Office Chair 1x1 Collision NS LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 3,
+            "durability" : 1,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/OfficeChair.rend",
+         "rotationSet" : "PropY",
+         "showInInventory" : false,
+         "sticky" : "-Y-Z",
+         "uuid" : "5156e390-a357-4df4-9f14-71b139511b91"
+      },
+      {
+         "color" : "0f2e91",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/Thruster1x1Col.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "11 Invisible Thruster 1x1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 2,
+            "durability" : 2,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/InvisibleThruster1x1.rend",
+         "rotationSet" : "PropZ",
+         "showInInventory" : false,
+         "sticky" : "-Z+X-X+Y-Y",
+         "thruster" : {
+            "effect" : "false",
+            "levels" : [
+               {
+                  "averageForce" : 150.0,
+                  "forceVariation" : 0.0
+               },
+               {
+                  "averageForce" : 200.0,
+                  "forceVariation" : 0.0
+               },
+               {
+                  "averageForce" : 250.0,
+                  "forceVariation" : 0.0
+               },
+               {
+                  "averageForce" : 300.0,
+                  "forceVariation" : 0.0
+               },
+               {
+                  "averageForce" : 350.0,
+                  "forceVariation" : 0.0
+               },
+               {
+                  "averageForce" : 400.0,
+                  "forceVariation" : 0.0
+               },
+               {
+                  "averageForce" : 450.0,
+                  "forceVariation" : 0.0
+               }
+            ]
+         },
+         "uuid" : "d8686bef-ce6f-4cf3-8753-c0906ccc8554"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "0f2e91",
+         "logic" : {},
+         "name" : "11 Invisible Logicgate",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 3,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/InvisibleLogicgate.rend",
+         "rotationSet" : "PropYZ",
+         "showInInventory" : false,
+         "uuid" : "9acdbecd-1310-47f5-8a99-c7837c7ee2cf"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 2,
+            "z" : 1
+         },
+         "color" : "0f2e91",
+         "density" : 250,
+         "name" : "11 Invisible Timer",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 3,
+            "durability" : 3,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/InvisibleController.rend",
+         "rotationSet" : "PropYZ",
+         "showInInventory" : false,
+         "timer" : {},
+         "uuid" : "c8172008-8a20-11e7-bb31-be2e44b06b34"
+      },
+      {
+         "box" : {
+            "x" : 2,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "0f2e91",
+         "density" : 250,
+         "name" : "11 Invisible Controller ",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 3,
+            "durability" : 3,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/InvisibleController.rend",
+         "rotationSet" : "PropYZ",
+         "showInInventory" : false,
+         "timedjoint" : {},
+         "uuid" : "c8171130-8a20-11e7-bb31-be2e44b06b34"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "577D07",
+         "name" : "11 Invisible Part LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 3,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/InvisibleNum.Three.rend",
+         "rotationSet" : "PropYZ",
+         "showInInventory" : false,
+         "uuid" : "b914cec4-6426-443c-9ed5-d8389b23053d"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "7C0000",
+         "name" : "11Invisible Part LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 2,
+            "durability" : 9,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/InvisibleNum.Nine.rend",
+         "rotationSet" : "PropYZ",
+         "showInInventory" : false,
+         "uuid" : "cedf7eb8-e509-491f-8286-df18c0316f5f"
+      }
+   ]
+}

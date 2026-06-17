@@ -1,0 +1,551 @@
+{
+   "partList" : [
+      {
+         "color" : "675f51",
+         "cylinder" : {
+            "axis" : "Z",
+            "depth" : 1,
+            "diameter" : 1
+         },
+         "name" : "Wheel 1x1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 5,
+            "durability" : 2,
+            "friction" : 10
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wheal 1x1.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Z",
+         "uuid" : "ed870204-5758-465f-af4c-f2540472a3a8"
+      },
+      {
+         "color" : "675f51",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/Wheel1.5x1Col.obj",
+            "x" : 3,
+            "y" : 3,
+            "z" : 1
+         },
+         "name" : "Wheel 1x1.5 Author: Romytrix",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 10,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wheel 1.5x1.rend",
+         "restitution" : 0.10,
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Z",
+         "uuid" : "d3d92457-2bb1-414a-9e4b-9c9ce79788ac"
+      },
+      {
+         "color" : "4c6fe3",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/Wheel1.5x1Col.obj",
+            "x" : 3,
+            "y" : 3,
+            "z" : 1
+         },
+         "name" : "Aviation Wheel 1x1.5 Author: Romytrix",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 2
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wheel 1.5x1.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Z",
+         "uuid" : "a76f76fa-02bf-4a12-9b8f-473b9f28175e"
+      },
+      {
+         "color" : "675f51",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/Wheel2x05exp_col4.obj",
+            "x" : 3,
+            "y" : 3,
+            "z" : 1
+         },
+         "name" : "Wheel 1x2x0.5 v1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 10.0,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "mesh" : "$MOD_DATA/Objects/Mesh/Wheel2x05.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsg",
+                        "textureList" : [
+                           "$GAME_DATA/Objects/Textures/vehicle/obj_vehicle_smallwheel_dif.tga",
+                           "$GAME_DATA/Objects/Textures/vehicle/obj_vehicle_smallwheel_asg.tga",
+                           "$GAME_DATA/Objects/Textures/vehicle/obj_vehicle_smallwheel_nor.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropZ",
+         "stackSize" : 1,
+         "sticky" : "-Z+Z",
+         "uuid" : "d503f3df-cdce-48ec-9fd2-2604d216e2bf"
+      },
+      {
+         "color" : "675f51",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/Wheel2x05exp_col4.obj",
+            "x" : 3,
+            "y" : 3,
+            "z" : 1
+         },
+         "name" : "Wheel 1x2x0.5 v2 Author: Alesha90",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 10.0,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wheel 1x2 v2.rend",
+         "rotationSet" : "PropZ",
+         "stackSize" : 1,
+         "sticky" : "-Z+Z",
+         "uuid" : "145a21cb-b1a9-49c1-8a8d-4cea3851c0a9"
+      },
+      {
+         "color" : "675f51",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/TinyWheelCol.obj",
+            "margin" : 0.10,
+            "x" : 3,
+            "y" : 3,
+            "z" : 1
+         },
+         "name" : "Wheel 1x2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 10,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/TinyWheel.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Z",
+         "uuid" : "fb08a9fc-ba0b-43c0-b1ed-acb38f4d28ca"
+      },
+      {
+         "color" : "4c6fe3",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/TinyWheelCol.obj",
+            "margin" : 0.10,
+            "x" : 3,
+            "y" : 3,
+            "z" : 1
+         },
+         "name" : "Aviation Wheel 1x2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 2
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/TinyWheel.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Z",
+         "uuid" : "ae5eb4c2-a00e-4461-a6d3-1d928a6c08fd"
+      },
+      {
+         "color" : "675f51",
+         "cylinder" : {
+            "axis" : "Z",
+            "depth" : 1,
+            "diameter" : 3,
+            "margin" : 0.50
+         },
+         "name" : "Wheel 1x2.5 Col. 1x3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 10,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "mesh" : "$CONTENT_DATA/Objects/Mesh/Lower_track_wheel.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsgNor",
+                        "textureList" : [
+                           "$GAME_DATA/Objects/Textures/vehicle/obj_vehicle_smallwheel_dif.tga",
+                           "$GAME_DATA/Objects/Textures/vehicle/obj_vehicle_smallwheel_asg.tga",
+                           "$GAME_DATA/Objects/Textures/vehicle/obj_vehicle_smallwheel_nor.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Z",
+         "uuid" : "124fcae5-4f62-496e-891d-73ecec6cfddb"
+      },
+      {
+         "color" : "675f51",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/Wheel3x05_col4.obj",
+            "x" : 3,
+            "y" : 3,
+            "z" : 1
+         },
+         "name" : "Wheel 1x3x0.5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 10.0,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : {
+            "lodList" : [
+               {
+                  "mesh" : "$MOD_DATA/Objects/Mesh/Wheel3x05ver6.fbx",
+                  "subMeshList" : [
+                     {
+                        "material" : "DifAsg",
+                        "textureList" : [
+                           "$GAME_DATA/Objects/Textures/vehicle/obj_vehicle_smallwheel_dif.tga",
+                           "$GAME_DATA/Objects/Textures/vehicle/obj_vehicle_smallwheel_asg.tga",
+                           "$GAME_DATA/Objects/Textures/vehicle/obj_vehicle_smallwheel_nor.tga"
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         "rotationSet" : "PropZ",
+         "stackSize" : 1,
+         "sticky" : "-Z+Z",
+         "uuid" : "95a8afc3-35c5-41e8-be10-f4b4d7c78a5b"
+      },
+      {
+         "color" : "675f51",
+         "cylinder" : {
+            "axis" : "Z",
+            "depth" : 1,
+            "diameter" : 3,
+            "margin" : 0.50
+         },
+         "name" : "Wheel 1x3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 10,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$GAME_DATA/Objects/Renderable/vehicle/obj_vehicle_smallwheel.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Z",
+         "uuid" : "8cf37796-ead2-4e96-ae8d-9ae7bce89cc2"
+      },
+      {
+         "color" : "675f51",
+         "cylinder" : {
+            "axis" : "Z",
+            "depth" : 1,
+            "diameter" : 3,
+            "margin" : 0.50
+         },
+         "name" : "MotoWheel 1x3 Author: Alesha90",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 10.0,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wheel Moto.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Z",
+         "uuid" : "2708fa95-71fa-4464-9e23-4d7f2c3e8487"
+      },
+      {
+         "color" : "4c6fe3",
+         "cylinder" : {
+            "axis" : "Z",
+            "depth" : 1,
+            "diameter" : 3,
+            "margin" : 0.50
+         },
+         "name" : "Aviation Wheel 1x3 Author: Alesha90",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 2
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wheel Moto.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Z",
+         "uuid" : "9e630e35-a689-472d-9060-48d67e6af13b"
+      },
+      {
+         "color" : "675f51",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/SmallWheelWithHoleCol.obj",
+            "margin" : 0.0,
+            "x" : 3,
+            "y" : 3,
+            "z" : 1
+         },
+         "name" : "Wheel 1x3 With Hole",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 10,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SmallWheelWithHole.rend",
+         "rotationSet" : "PropNegZ",
+         "sticky" : "+Z",
+         "uuid" : "cb26a5a9-80e7-4818-96a1-96ead756894f"
+      },
+      {
+         "color" : "675f51",
+         "cylinder" : {
+            "axis" : "Z",
+            "depth" : 1,
+            "diameter" : 3,
+            "margin" : 0.50
+         },
+         "name" : "Wheel 1x3 Double",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 10,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/SmallWheelDouble.rend",
+         "rotationSet" : "PropZNegZ",
+         "sticky" : "+Z-Z",
+         "uuid" : "c36fa6c2-a268-4279-985f-2f6362c21297"
+      },
+      {
+         "color" : "675f51",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/Wheel 3.5x0.5Col.obj",
+            "margin" : 0.10,
+            "x" : 5,
+            "y" : 5,
+            "z" : 1
+         },
+         "name" : "Wheel 1x3.5x0.5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 10.0,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wheel 3.5x0.5.rend",
+         "rotationSet" : "PropZ",
+         "stackSize" : 1,
+         "sticky" : "-Z+Z",
+         "uuid" : "5710488c-42c7-4075-b07c-b9edde46c5bc"
+      },
+      {
+         "color" : "675f51",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/Wheel3.5x1Col.obj",
+            "margin" : 0.10,
+            "x" : 5,
+            "y" : 5,
+            "z" : 1
+         },
+         "name" : "Wheel 1x3.5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 10,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wheel 3.5x1.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Z",
+         "uuid" : "e3c83924-eb31-4f13-b78a-737d100854f6"
+      },
+      {
+         "color" : "675f51",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/Wheel3.5x1Col.obj",
+            "margin" : 0.10,
+            "x" : 5,
+            "y" : 5,
+            "z" : 1
+         },
+         "name" : "Wheel 2x3.5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 10,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wheel 3.5x2.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Z",
+         "uuid" : "21fd82ad-4281-4362-80e1-844805f9634c"
+      },
+      {
+         "color" : "675f51",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/MiddleWheelCol.obj",
+            "margin" : 0.10,
+            "x" : 5,
+            "y" : 5,
+            "z" : 1
+         },
+         "name" : "Wheel 1x4 Long",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 10,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/MiddleWheel.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Z",
+         "uuid" : "c829000d-4d97-4622-89f6-7b41b483b272"
+      },
+      {
+         "color" : "675f51",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/MiddleWheelWithHoleCol.obj",
+            "margin" : 0.10,
+            "x" : 5,
+            "y" : 5,
+            "z" : 1
+         },
+         "name" : "Wheel 1x4 Long With Hole",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 10,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/MiddleWheelWithHole.rend",
+         "rotationSet" : "PropNegZ",
+         "sticky" : "+Z",
+         "uuid" : "df69d22b-3584-471f-9a5c-85f929badd61"
+      },
+      {
+         "color" : "675f51",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/MiddleWheelCol.obj",
+            "margin" : 0.10,
+            "x" : 5,
+            "y" : 5,
+            "z" : 1
+         },
+         "name" : "Wheel 1x4 v1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 10,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/MiddleNarrowWheel.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Z",
+         "uuid" : "c33eb68c-8028-4b37-ba91-0c0a8be317ce"
+      },
+      {
+         "color" : "675f51",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/MiddleWheelWithHoleCol.obj",
+            "margin" : 0.10,
+            "x" : 5,
+            "y" : 5,
+            "z" : 1
+         },
+         "name" : "Wheel 1x4 v1 With Hole",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 10,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/MiddleNarrowWheelWithHole.rend",
+         "rotationSet" : "PropNegZ",
+         "sticky" : "+Z",
+         "uuid" : "b59aaa9c-5acd-4c89-8590-4ce0a4d65ee3"
+      },
+      {
+         "color" : "675f51",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/MiddleWheelCol.obj",
+            "margin" : 0.10,
+            "x" : 5,
+            "y" : 5,
+            "z" : 1
+         },
+         "name" : "Wheel 1x4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 10,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/MiddleNarrowWheel2.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Z",
+         "uuid" : "6646f0ef-2fa2-4bef-895b-5dbe0f6c5448"
+      },
+      {
+         "color" : "4c6fe3",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/MiddleWheelCol.obj",
+            "margin" : 0.10,
+            "x" : 5,
+            "y" : 5,
+            "z" : 1
+         },
+         "name" : "Aviation Wheel 1x4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 2
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/MiddleNarrowWheel2.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-Z+Z",
+         "uuid" : "aeef651a-081c-4697-9250-75fe2e0c2506"
+      }
+   ]
+}

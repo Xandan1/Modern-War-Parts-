@@ -1,0 +1,17 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$CONTENT_DATA/Objects/Mesh/Ramp_col_right.fbx",
+         "subMeshList" : [
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/Bigramp.tga",
+                  "$SURVIVAL_DATA/Objects/Textures/warehouse/obj_warehouse_bigramp_asg.tga",
+                  "$SURVIVAL_DATA/Objects/Textures/warehouse/obj_warehouse_bigramp_nor.tga"
+               ]
+            }
+         ]
+      }
+   ]
+}

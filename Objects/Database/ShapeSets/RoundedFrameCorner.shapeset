@@ -1,0 +1,202 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_vehicle_wheelhousecorner.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Rounded Frame Corner LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/RoundedFrameCorner.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y-X-Z",
+         "uuid" : "c5a9949e-d13c-4e89-adb7-c7e1de30028b"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_vehicle_wheelhousecorner.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Rounded Frame Corner LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 5,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/RoundedFrameCorner.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y-X-Z",
+         "uuid" : "8b055b07-9116-406a-ba21-0d47e2db7861"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_vehicle_wheelhousecorner.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Rounded Frame Corner LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 5,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/RoundedFrameCorner.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y-X-Z",
+         "uuid" : "24142898-ae0f-440e-a05e-d219c2a07790"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_vehicle_wheelhousecorner.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Rounded Frame Corner LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 5,
+            "durability" : 4,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/RoundedFrameCorner.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y-X-Z",
+         "uuid" : "1a2c00c9-f104-44d1-bc7b-5ea0956b3cfa"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_vehicle_wheelhousecorner.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Rounded Frame Corner LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 5,
+            "durability" : 5,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/RoundedFrameCorner.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y-X-Z",
+         "uuid" : "2f6e3a43-fa7e-4f19-9286-174118b0e06a"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_vehicle_wheelhousecorner.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Rounded Frame Corner LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 5,
+            "durability" : 6,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/RoundedFrameCorner.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y-X-Z",
+         "uuid" : "e6c70a94-4017-452b-8138-811246906805"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_vehicle_wheelhousecorner.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Rounded Frame Corner LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 5,
+            "durability" : 7,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/RoundedFrameCorner.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y-X-Z",
+         "uuid" : "3eb348c0-d654-48a3-a88b-b3b747d3b85a"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_vehicle_wheelhousecorner.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Rounded Frame Corner LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 5,
+            "durability" : 8,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/RoundedFrameCorner.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y-X-Z",
+         "uuid" : "ac9ed235-7170-4501-8f7f-18978cac4a7e"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_vehicle_wheelhousecorner.obj",
+            "margin" : 0.250,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Rounded Frame Corner LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 5,
+            "durability" : 9,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/RoundedFrameCorner.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y-X-Z",
+         "uuid" : "46d39f71-ff29-4360-8bf6-39143b2f66e3"
+      }
+   ]
+}

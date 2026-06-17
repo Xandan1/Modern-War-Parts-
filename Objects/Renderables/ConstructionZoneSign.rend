@@ -1,0 +1,17 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$GAME_DATA/Objects/Mesh/decor/obj_decor_sign02.mesh",
+         "subMeshList" : [
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/SignDif.tga",
+                  "$CONTENT_DATA/Objects/Textures/SignAsg.tga",
+                  "$CONTENT_DATA/Objects/Textures/SignNor.tga"
+               ]
+            }
+         ]
+      }
+   ]
+}

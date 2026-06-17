@@ -1,0 +1,193 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_fittings_pipebigsplit.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Pipe Join LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PipeJoin.rend",
+         "rotationSet" : "PropYZm",
+         "sticky" : "-Y+Y-Z",
+         "uuid" : "ba69bdad-f9bc-425c-a607-1db1b09d3f84"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_fittings_pipebigsplit.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Pipe Join LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 2,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PipeJoin.rend",
+         "rotationSet" : "PropYZm",
+         "sticky" : "-Y+Y-Z",
+         "uuid" : "7047704a-a367-41a4-980c-e9d770265cf1"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_fittings_pipebigsplit.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Pipe Join LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 3,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PipeJoin.rend",
+         "rotationSet" : "PropYZm",
+         "sticky" : "-Y+Y-Z",
+         "uuid" : "3b9696cf-27d8-4b26-ac5b-0719a7766523"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_fittings_pipebigsplit.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Pipe Join LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 4,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PipeJoin.rend",
+         "rotationSet" : "PropYZm",
+         "sticky" : "-Y+Y-Z",
+         "uuid" : "8615488b-0bfa-4c8e-a9d4-4007f824bff9"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_fittings_pipebigsplit.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Pipe Join LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 5,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PipeJoin.rend",
+         "rotationSet" : "PropYZm",
+         "sticky" : "-Y+Y-Z",
+         "uuid" : "40874638-cd28-4b4e-a549-74fab26bdd5d"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_fittings_pipebigsplit.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Pipe Join LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 6,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PipeJoin.rend",
+         "rotationSet" : "PropYZm",
+         "sticky" : "-Y+Y-Z",
+         "uuid" : "ffbfd6dc-d62c-4435-93c2-6f8b735ccfac"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_fittings_pipebigsplit.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Pipe Join LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 7,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PipeJoin.rend",
+         "rotationSet" : "PropYZm",
+         "sticky" : "-Y+Y-Z",
+         "uuid" : "32e5f419-3b00-49ba-8f60-391270782a40"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_fittings_pipebigsplit.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Pipe Join LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 8,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PipeJoin.rend",
+         "rotationSet" : "PropYZm",
+         "sticky" : "-Y+Y-Z",
+         "uuid" : "b7ec70ce-aa6e-4088-bf2d-ed794df80e53"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_fittings_pipebigsplit.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Pipe Join LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 9,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PipeJoin.rend",
+         "rotationSet" : "PropYZm",
+         "sticky" : "-Y+Y-Z",
+         "uuid" : "141f8bd8-0f45-4527-a4f5-9439908cc4ef"
+      }
+   ]
+}

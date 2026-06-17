@@ -1,0 +1,13 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$CONTENT_DATA/Objects/Mesh/Thruster1x1.fbx",
+         "subMeshList" : [
+            {
+               "material" : "Visualization",
+               "textureList" : []
+            }
+         ]
+      }
+   ]
+}

@@ -1,0 +1,17 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$GAME_DATA/Objects/Mesh/decor/obj_decor_pillow.mesh",
+         "subMeshList" : [
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/SandbagDif.tga",
+                  "$CONTENT_DATA/Objects/Textures/SandbagAsg.tga",
+                  "$CONTENT_DATA/Objects/Textures/SandbagNor.tga"
+               ]
+            }
+         ]
+      }
+   ]
+}

@@ -1,0 +1,25 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$CONTENT_DATA/Objects/Mesh/Com_tower.fbx",
+         "subMeshList" : [
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$GAME_DATA/Objects/Textures/Blocks/blk_metal01_dif.tga",
+                  "$GAME_DATA/Objects/Textures/Blocks/blk_metal01_asg.tga",
+                  "$GAME_DATA/Objects/Textures/Blocks/blk_metal01_nor.tga"
+               ]
+            },
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/Blue_dif.tga",
+                  "$CONTENT_DATA/Objects/Textures/Nothing_asg.tga",
+                  "$GAME_DATA/Textures/Materialtextures/normal_nor.tga"
+               ]
+            }
+         ]
+      }
+   ]
+}

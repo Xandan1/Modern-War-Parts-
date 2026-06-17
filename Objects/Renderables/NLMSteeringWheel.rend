@@ -1,0 +1,16 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$CONTENT_DATA/Objects/Mesh/NLMSteeringWheel.obj",
+         "subMeshList" : [
+            {
+               "material" : "DifAsg",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/NLMSteeringWheelDif.png",
+                  "$CONTENT_DATA/Objects/Textures/NLMSteeringWheelAsg.png"
+               ]
+            }
+         ]
+      }
+   ]
+}

@@ -1,0 +1,34 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$CONTENT_DATA/Objects/Mesh/Contact1.fbx",
+         "subMeshList" : [
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/GrayDif.tga",
+                  "$SURVIVAL_DATA/Objects/Textures/industrial/obj_industrial_broholder_asg.tga",
+                  "$SURVIVAL_DATA/Objects/Textures/industrial/obj_industrial_broholder_nor.tga"
+               ]
+            },
+            {
+               "material" : "DifAsgNorAo",
+               "textureList" : [
+                  "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_dif.tga",
+                  "$GAME_DATA/Objects/Textures/industrial/obj_atlas_generic_asg.tga",
+                  "$CONTENT_DATA/Objects/Textures/NothingNor.tga",
+                  "$GAME_DATA/Objects/Textures/fittings/obj_fittings_ducts_ao.tga"
+               ]
+            },
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/SignDif.tga",
+                  "$CONTENT_DATA/Objects/Textures/SignAsg.tga",
+                  "$CONTENT_DATA/Objects/Textures/SignNor.tga"
+               ]
+            }
+         ]
+      }
+   ]
+}

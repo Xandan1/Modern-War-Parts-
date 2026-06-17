@@ -1,0 +1,193 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_fittings_pipebend.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Pipe Bend LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PipeBend.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y-Z",
+         "uuid" : "f626510e-f3e2-40da-af74-d30eedb409bd"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_fittings_pipebend.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Pipe Bend LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 2,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PipeBend.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y-Z",
+         "uuid" : "2bc448cd-7762-4f6b-8da1-b02d2941f32a"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_fittings_pipebend.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Pipe Bend LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 3,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PipeBend.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y-Z",
+         "uuid" : "d28c0e3c-99c7-495f-8662-c5a86e7f5ef1"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_fittings_pipebend.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Pipe Bend LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 4,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PipeBend.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y-Z",
+         "uuid" : "27046c82-2f14-4608-82ef-4db92125ebea"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_fittings_pipebend.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Pipe Bend LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 5,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PipeBend.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y-Z",
+         "uuid" : "5fd5855c-4c7e-4981-820e-b4519516cf4a"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_fittings_pipebend.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Pipe Bend LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 6,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PipeBend.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y-Z",
+         "uuid" : "af82fe44-0f92-4b5e-a1f7-7a17b8b77408"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_fittings_pipebend.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Pipe Bend LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 7,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PipeBend.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y-Z",
+         "uuid" : "0ac21060-da6d-43c8-be4b-6efc54e90af8"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_fittings_pipebend.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Pipe Bend LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 8,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PipeBend.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y-Z",
+         "uuid" : "b2c72875-74a2-40d2-b5b0-eca1cff9b48d"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$GAME_DATA/Objects/Collision/obj_fittings_pipebend.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Pipe Bend LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 9,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PipeBend.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y-Z",
+         "uuid" : "0835c1bb-33cb-4eb0-b488-43c697a2deeb"
+      }
+   ]
+}

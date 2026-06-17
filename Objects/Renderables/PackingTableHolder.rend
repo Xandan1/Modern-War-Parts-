@@ -1,0 +1,17 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$SURVIVAL_DATA/Objects/Mesh/warehouse/obj_warehouse_packingtablesupport.mesh",
+         "subMeshList" : [
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/PackingTableDif.tga",
+                  "$CONTENT_DATA/Objects/Textures/PackingTableAsg.tga",
+                  "$CONTENT_DATA/Objects/Textures/PackingTableNor.tga"
+               ]
+            }
+         ]
+      }
+   ]
+}

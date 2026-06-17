@@ -1,0 +1,193 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 1,
+            "diameter" : 1,
+            "margin" : 0.040
+         },
+         "name" : "Pipe Short LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PipeShort.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y+Y",
+         "uuid" : "f979c9ae-81a2-4a64-aaca-1ca48c3bba91"
+      },
+      {
+         "color" : "0E8031",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 1,
+            "diameter" : 1,
+            "margin" : 0.040
+         },
+         "name" : "Pipe Short LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 2,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PipeShort.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y+Y",
+         "uuid" : "2eeab0a2-927f-409b-8e3f-399e901f36ff"
+      },
+      {
+         "color" : "577D07",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 1,
+            "diameter" : 1,
+            "margin" : 0.040
+         },
+         "name" : "Pipe Short LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 3,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PipeShort.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y+Y",
+         "uuid" : "915d450b-6eda-447b-bb12-bda120709c6a"
+      },
+      {
+         "color" : "375000",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 1,
+            "diameter" : 1,
+            "margin" : 0.040
+         },
+         "name" : "Pipe Short LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 4,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PipeShort.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y+Y",
+         "uuid" : "12eb5918-59e4-452c-beda-b8d11b31c459"
+      },
+      {
+         "color" : "817C00",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 1,
+            "diameter" : 1,
+            "margin" : 0.040
+         },
+         "name" : "Pipe Short LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 5,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PipeShort.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y+Y",
+         "uuid" : "6fe84a6a-376d-4c40-b385-f29b017c474d"
+      },
+      {
+         "color" : "E2DB13",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 1,
+            "diameter" : 1,
+            "margin" : 0.040
+         },
+         "name" : "Pipe Short LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 6,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PipeShort.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y+Y",
+         "uuid" : "9f1fa65a-0857-42ee-b14f-2c5bf3445786"
+      },
+      {
+         "color" : "DF7F00",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 1,
+            "diameter" : 1,
+            "margin" : 0.040
+         },
+         "name" : "Pipe Short LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 7,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PipeShort.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y+Y",
+         "uuid" : "3a25b803-137a-4214-88c5-cd3d37ed1677"
+      },
+      {
+         "color" : "D02525",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 1,
+            "diameter" : 1,
+            "margin" : 0.040
+         },
+         "name" : "Pipe Short LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 8,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PipeShort.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y+Y",
+         "uuid" : "44d05dab-f65a-4941-99e4-3c4c27b5e7d6"
+      },
+      {
+         "color" : "7C0000",
+         "cylinder" : {
+            "axis" : "Y",
+            "depth" : 1,
+            "diameter" : 1,
+            "margin" : 0.040
+         },
+         "name" : "Pipe Short LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 9,
+            "friction" : 3
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PipeShort.rend",
+         "rotationSet" : "PropY",
+         "sticky" : "-Y+Y",
+         "uuid" : "9dd7c7a4-f291-4a53-b30d-52abce010155"
+      }
+   ]
+}

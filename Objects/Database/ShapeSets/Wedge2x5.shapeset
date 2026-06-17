@@ -1,0 +1,202 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_bigrampsmall.obj",
+            "margin" : 0.0010,
+            "x" : 5,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 2x5 LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge2x5.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "d81180ee-2763-4f9e-8034-d1d705f6dbb7"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_bigrampsmall.obj",
+            "margin" : 0.0010,
+            "x" : 5,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 2x5 LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 2,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge2x5.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "b8fa7d2c-b0e8-4cbc-a1c8-0848d811ffb9"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_bigrampsmall.obj",
+            "margin" : 0.0010,
+            "x" : 5,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 2x5 LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 3,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge2x5.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "e0aa7e23-4af9-4fa3-96e5-17d39fbe0d21"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_bigrampsmall.obj",
+            "margin" : 0.0010,
+            "x" : 5,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 2x5 LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 4,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge2x5.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "2ffcc830-782e-4a6f-b4df-f0de3a5c8d34"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_bigrampsmall.obj",
+            "margin" : 0.0010,
+            "x" : 5,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 2x5 LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 5,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge2x5.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "6cf1efde-c7af-4a34-a493-e8298d067351"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_bigrampsmall.obj",
+            "margin" : 0.0010,
+            "x" : 5,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 2x5 LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 6,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge2x5.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "7985998c-da92-4133-84dc-705c480a050a"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_bigrampsmall.obj",
+            "margin" : 0.0010,
+            "x" : 5,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 2x5 LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 7,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge2x5.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "838e2a04-74d5-4043-8ce7-b8ed3b69df77"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_bigrampsmall.obj",
+            "margin" : 0.0010,
+            "x" : 5,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 2x5 LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 8,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge2x5.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "a06ab9d6-f4be-43c6-aa4c-8676fc0dd599"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$SURVIVAL_DATA/Objects/Collision/obj_warehouse_bigrampsmall.obj",
+            "margin" : 0.0010,
+            "x" : 5,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Wedge 2x5 LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 1,
+            "density" : 6,
+            "durability" : 9,
+            "friction" : 7
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Wedge2x5.rend",
+         "rotationSet" : "PropYZXNegX",
+         "sticky" : "-X+X-Y-Z",
+         "uuid" : "ff50866f-fb1e-4bec-9400-7dca04daa113"
+      }
+   ]
+}

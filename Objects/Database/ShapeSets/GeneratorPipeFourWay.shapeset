@@ -1,0 +1,184 @@
+{
+   "partList" : [
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "4C6FE3",
+         "name" : "Generator Pipe Four Way lvl 1",
+         "physicsMaterial" : "Plastic",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeFourWay.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-X+X-Z+Z",
+         "uuid" : "daa3f280-ebbe-42fb-8833-59abec112ead"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "0E8031",
+         "name" : "Generator Pipe Four Way lvl 2",
+         "physicsMaterial" : "Plastic",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 1,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeFourWay.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-X+X-Z+Z",
+         "uuid" : "37b65340-2ea9-46c8-af0b-71650bd66b8b"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "577D07",
+         "name" : "Generator Pipe Four Way lvl 3",
+         "physicsMaterial" : "Plastic",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeFourWay.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-X+X-Z+Z",
+         "uuid" : "7c4c8cc9-d4cb-4517-b01e-ab2d75828057"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "375000",
+         "name" : "Generator Pipe Four Way lvl 4",
+         "physicsMaterial" : "Plastic",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 4,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeFourWay.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-X+X-Z+Z",
+         "uuid" : "fd0714d2-314f-4c5e-a84a-09d3b553ad8a"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "817C00",
+         "name" : "Generator Pipe Four Way lvl 5",
+         "physicsMaterial" : "Plastic",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 5,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeFourWay.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-X+X-Z+Z",
+         "uuid" : "77d85875-547f-4e7a-9447-be3a5a2e40f0"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "E2DB13",
+         "name" : "Generator Pipe Four Way lvl 6",
+         "physicsMaterial" : "Plastic",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 6,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeFourWay.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-X+X-Z+Z",
+         "uuid" : "df1d3d5b-43f1-4153-80f0-361bc72e24c9"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "DF7F00",
+         "name" : "Generator Pipe Four Way lvl 7",
+         "physicsMaterial" : "Plastic",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 7,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeFourWay.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-X+X-Z+Z",
+         "uuid" : "bb50931b-1490-4114-bb17-1bb0edf07fb5"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "D02525",
+         "name" : "Generator Pipe Four Way lvl 8",
+         "physicsMaterial" : "Plastic",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 8,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeFourWay.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-X+X-Z+Z",
+         "uuid" : "24c1df25-4277-419c-94a8-e1fdf995bae6"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "7C0000",
+         "name" : "Generator Pipe Four Way lvl 9",
+         "physicsMaterial" : "Plastic",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 3,
+            "durability" : 9,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/GeneratorPipeFourWay.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-X+X-Z+Z",
+         "uuid" : "089e30b1-476b-45d3-bea6-72f4eb4ee1cf"
+      }
+   ]
+}

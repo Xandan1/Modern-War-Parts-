@@ -1,0 +1,193 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicencePlateCurveCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate Curve 1x1 LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlateCurve1x1.rend",
+         "rotationSet" : "PropYX",
+         "sticky" : "-Y+Z-X",
+         "uuid" : "a0095ad5-d050-4597-ac4c-a9cb7c3771f4"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicencePlateCurveCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate Curve 1x1 LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 2,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlateCurve1x1.rend",
+         "rotationSet" : "PropYX",
+         "sticky" : "-Y+Z-X",
+         "uuid" : "993b5dff-7694-4a47-bb40-239032044b97"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicencePlateCurveCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate Curve 1x1 LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 3,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlateCurve1x1.rend",
+         "rotationSet" : "PropYX",
+         "sticky" : "-Y+Z-X",
+         "uuid" : "390dd6bb-4f19-4b27-b04c-f14f2f766baa"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicencePlateCurveCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate Curve 1x1 LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 4,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlateCurve1x1.rend",
+         "rotationSet" : "PropYX",
+         "sticky" : "-Y+Z-X",
+         "uuid" : "f8bdac62-4e6b-4d12-8662-a7ef46941318"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicencePlateCurveCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate Curve 1x1 LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 5,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlateCurve1x1.rend",
+         "rotationSet" : "PropYX",
+         "sticky" : "-Y+Z-X",
+         "uuid" : "500ffb50-eb24-4d1a-824b-f171c601107f"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicencePlateCurveCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate Curve 1x1 LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 6,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlateCurve1x1.rend",
+         "rotationSet" : "PropYX",
+         "sticky" : "-Y+Z-X",
+         "uuid" : "6aea4f15-82f2-42e3-b3e5-ac281501caf0"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicencePlateCurveCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate Curve 1x1 LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 7,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlateCurve1x1.rend",
+         "rotationSet" : "PropYX",
+         "sticky" : "-Y+Z-X",
+         "uuid" : "3c9e37f5-50a3-4ef5-b847-9e1c24d26272"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicencePlateCurveCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate Curve 1x1 LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 8,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlateCurve1x1.rend",
+         "rotationSet" : "PropYX",
+         "sticky" : "-Y+Z-X",
+         "uuid" : "fcc0a124-6dbe-4b6b-b4f5-c5373f73f7dc"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/LicencePlateCurveCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate Curve 1x1 LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 5,
+            "density" : 4,
+            "durability" : 9,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/LicensePlateCurve1x1.rend",
+         "rotationSet" : "PropYX",
+         "sticky" : "-Y+Z-X",
+         "uuid" : "22951c15-1c96-4b00-8ac8-739eef356cc2"
+      }
+   ]
+}

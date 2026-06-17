@@ -1,0 +1,202 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WarehouseSpotlightCol.obj",
+            "x" : 2,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Warehouse Spotlight LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WarehouseSpotlight.rend",
+         "rotationSet" : "PropZ",
+         "showInInventory" : false,
+         "sticky" : "-X+X+Y-Z",
+         "uuid" : "3cfe08eb-a963-44fd-b964-ec692f3ab191"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WarehouseSpotlightCol.obj",
+            "x" : 2,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Warehouse Spotlight LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 2,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WarehouseSpotlight.rend",
+         "rotationSet" : "PropZ",
+         "showInInventory" : false,
+         "sticky" : "-X+X+Y-Z",
+         "uuid" : "459f223d-af76-4d76-8bd1-72639c4d3b80"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WarehouseSpotlightCol.obj",
+            "x" : 2,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Warehouse Spotlight LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 2,
+            "durability" : 3,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WarehouseSpotlight.rend",
+         "rotationSet" : "PropZ",
+         "showInInventory" : false,
+         "sticky" : "-X+X+Y-Z",
+         "uuid" : "9a5a58ad-f388-4a30-8deb-6f725a878ab5"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WarehouseSpotlightCol.obj",
+            "x" : 2,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Warehouse Spotlight LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 2,
+            "durability" : 4,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WarehouseSpotlight.rend",
+         "rotationSet" : "PropZ",
+         "showInInventory" : false,
+         "sticky" : "-X+X+Y-Z",
+         "uuid" : "939af0d9-088b-4a06-ae19-572056f6eeb6"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WarehouseSpotlightCol.obj",
+            "x" : 2,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Warehouse Spotlight LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 2,
+            "durability" : 5,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WarehouseSpotlight.rend",
+         "rotationSet" : "PropZ",
+         "showInInventory" : false,
+         "sticky" : "-X+X+Y-Z",
+         "uuid" : "66b9521a-a636-4ab7-b5ad-cb60067c85f8"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WarehouseSpotlightCol.obj",
+            "x" : 2,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Warehouse Spotlight LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 2,
+            "durability" : 6,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WarehouseSpotlight.rend",
+         "rotationSet" : "PropZ",
+         "showInInventory" : false,
+         "sticky" : "-X+X+Y-Z",
+         "uuid" : "97b3e4df-f207-4329-8b2d-19f53356fc32"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WarehouseSpotlightCol.obj",
+            "x" : 2,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Warehouse Spotlight LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 2,
+            "durability" : 7,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WarehouseSpotlight.rend",
+         "rotationSet" : "PropZ",
+         "showInInventory" : false,
+         "sticky" : "-X+X+Y-Z",
+         "uuid" : "c31290f2-4d89-4b46-b90c-3441d1b01d05"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WarehouseSpotlightCol.obj",
+            "x" : 2,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Warehouse Spotlight LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 2,
+            "durability" : 8,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WarehouseSpotlight.rend",
+         "rotationSet" : "PropZ",
+         "showInInventory" : false,
+         "sticky" : "-X+X+Y-Z",
+         "uuid" : "2824d643-2910-482f-b80a-86a82b992ebf"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WarehouseSpotlightCol.obj",
+            "x" : 2,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Warehouse Spotlight LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 2,
+            "durability" : 9,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WarehouseSpotlight.rend",
+         "rotationSet" : "PropZ",
+         "showInInventory" : false,
+         "sticky" : "-X+X+Y-Z",
+         "uuid" : "2d871bde-0b45-429f-a992-6e627d91ba5f"
+      }
+   ]
+}

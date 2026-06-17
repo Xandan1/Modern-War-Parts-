@@ -1,0 +1,17 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$CONTENT_DATA/Objects/Mesh/Antenna.fbx",
+         "subMeshList" : [
+            {
+               "material" : "Dif",
+               "textureList" : []
+            },
+            {
+               "material" : "Dif",
+               "textureList" : [ "$CONTENT_DATA/Objects/Textures/BlackDif.tga" ]
+            }
+         ]
+      }
+   ]
+}

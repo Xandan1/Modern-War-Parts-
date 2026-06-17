@@ -1,0 +1,193 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WarehouseSpotlightCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Warehouse Spotlight 1x1 LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WarehouseSpotlight1x1.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-X+X+Y-Z",
+         "uuid" : "ad99d7c1-5797-416b-a1cc-23f7b0593674"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WarehouseSpotlightCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Warehouse Spotlight 1x1 LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 2,
+            "durability" : 2,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WarehouseSpotlight1x1.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-X+X+Y-Z",
+         "uuid" : "77a0721c-0d1c-4def-bd6f-f6119538c785"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WarehouseSpotlightCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Warehouse Spotlight 1x1 LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 2,
+            "durability" : 3,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WarehouseSpotlight1x1.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-X+X+Y-Z",
+         "uuid" : "0751aa98-9d92-4164-a827-47df832028f1"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WarehouseSpotlightCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Warehouse Spotlight 1x1 LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 2,
+            "durability" : 4,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WarehouseSpotlight1x1.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-X+X+Y-Z",
+         "uuid" : "a4f7ee16-5b8c-4850-ba48-ca704f2149cc"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WarehouseSpotlightCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Warehouse Spotlight 1x1 LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 2,
+            "durability" : 5,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WarehouseSpotlight1x1.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-X+X+Y-Z",
+         "uuid" : "1f1281d3-bdfd-420c-8381-665761276626"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WarehouseSpotlightCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Warehouse Spotlight 1x1 LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 2,
+            "durability" : 6,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WarehouseSpotlight1x1.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-X+X+Y-Z",
+         "uuid" : "9c52b48b-552b-4ceb-9ddd-b28e06be80bf"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WarehouseSpotlightCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Warehouse Spotlight 1x1 LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 2,
+            "durability" : 7,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WarehouseSpotlight1x1.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-X+X+Y-Z",
+         "uuid" : "51bcf34a-c1e5-400d-bf7f-e3dc6921fbfc"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WarehouseSpotlightCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Warehouse Spotlight 1x1 LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 2,
+            "durability" : 8,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WarehouseSpotlight1x1.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-X+X+Y-Z",
+         "uuid" : "3cd61b23-cbc0-4128-9288-6fe558585a03"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WarehouseSpotlightCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Warehouse Spotlight 1x1 LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 4,
+            "density" : 2,
+            "durability" : 9,
+            "friction" : 4
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WarehouseSpotlight1x1.rend",
+         "rotationSet" : "PropZ",
+         "sticky" : "-X+X+Y-Z",
+         "uuid" : "a13afa3b-980c-4885-b4f2-d4d0c9f533db"
+      }
+   ]
+}

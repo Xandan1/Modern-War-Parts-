@@ -1,0 +1,1066 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/AngularWedgeCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Angular Wedge LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/AngularWedge.rend",
+         "rotationSet" : "PropYZX",
+         "sticky" : "+X-Y-Z",
+         "uuid" : "05b6c617-de55-4f7f-b157-b51b62450e2d"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/AngularWedgeCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Angular Wedge LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 4,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/AngularWedge.rend",
+         "rotationSet" : "PropYZX",
+         "sticky" : "+X-Y-Z",
+         "uuid" : "bf254d6e-d19e-4632-8ab6-33bed418fe95"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/AngularWedgeCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Angular Wedge LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 4,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/AngularWedge.rend",
+         "rotationSet" : "PropYZX",
+         "sticky" : "+X-Y-Z",
+         "uuid" : "7ad60eea-2698-4c9d-a761-83d210afa613"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/AngularWedgeCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Angular Wedge LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 4,
+            "durability" : 4,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/AngularWedge.rend",
+         "rotationSet" : "PropYZX",
+         "sticky" : "+X-Y-Z",
+         "uuid" : "74eea17c-e407-4d71-a557-5a7dfff36e10"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/AngularWedgeCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Angular Wedge LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 4,
+            "durability" : 5,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/AngularWedge.rend",
+         "rotationSet" : "PropYZX",
+         "sticky" : "+X-Y-Z",
+         "uuid" : "e2f67e88-4bde-4d48-b1a5-65fe26707047"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/AngularWedgeCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Angular Wedge LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 4,
+            "durability" : 6,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/AngularWedge.rend",
+         "rotationSet" : "PropYZX",
+         "sticky" : "+X-Y-Z",
+         "uuid" : "5e9d972b-c49a-4b21-a269-41f87d5ee00d"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/AngularWedgeCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Angular Wedge LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 4,
+            "durability" : 7,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/AngularWedge.rend",
+         "rotationSet" : "PropYZX",
+         "sticky" : "+X-Y-Z",
+         "uuid" : "127290c1-fe3c-4953-b1cc-0a3e5a4fc29e"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/AngularWedgeCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Angular Wedge LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 4,
+            "durability" : 8,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/AngularWedge.rend",
+         "rotationSet" : "PropYZX",
+         "sticky" : "+X-Y-Z",
+         "uuid" : "6124cb37-b1e4-4564-bec1-c59b7536ca75"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/AngularWedgeCol.obj",
+            "margin" : 0.0010,
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "Angular Wedge LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 4,
+            "durability" : 9,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/AngularWedge.rend",
+         "rotationSet" : "PropYZX",
+         "sticky" : "+X-Y-Z",
+         "uuid" : "39ec87f8-fab2-4cd0-b953-21982eb51698"
+      },
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "margin" : 0.0,
+            "pointList" : [
+               {
+                  "x" : -1.0,
+                  "y" : 1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               }
+            ],
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Angular Wedge 1x2 L LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 4,
+            "durability" : 1,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Angular Wedge 1x2 L.rend",
+         "rotationSet" : "T_-X-Y-Z",
+         "sticky" : "-X-Y-Z",
+         "uuid" : "c15f0e9b-b2d8-4c73-be24-1c430fcbf8da"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "margin" : 0.0,
+            "pointList" : [
+               {
+                  "x" : -1.0,
+                  "y" : 1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               }
+            ],
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Angular Wedge 1x2 L LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 4,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Angular Wedge 1x2 L.rend",
+         "rotationSet" : "T_-X-Y-Z",
+         "sticky" : "-X-Y-Z",
+         "uuid" : "01c7eec0-707b-4a72-8703-bdf449d82498"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "margin" : 0.0,
+            "pointList" : [
+               {
+                  "x" : -1.0,
+                  "y" : 1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               }
+            ],
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Angular Wedge 1x2 L LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 4,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Angular Wedge 1x2 L.rend",
+         "rotationSet" : "T_-X-Y-Z",
+         "sticky" : "-X-Y-Z",
+         "uuid" : "d69145f5-5476-4b8f-b1ad-bdfd3886b9f2"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "margin" : 0.0,
+            "pointList" : [
+               {
+                  "x" : -1.0,
+                  "y" : 1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               }
+            ],
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Angular Wedge 1x2 L LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 4,
+            "durability" : 4,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Angular Wedge 1x2 L.rend",
+         "rotationSet" : "T_-X-Y-Z",
+         "sticky" : "-X-Y-Z",
+         "uuid" : "275c0432-b6ad-444d-a61f-1531935bf04b"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "margin" : 0.0,
+            "pointList" : [
+               {
+                  "x" : -1.0,
+                  "y" : 1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               }
+            ],
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Angular Wedge 1x2 L LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 4,
+            "durability" : 5,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Angular Wedge 1x2 L.rend",
+         "rotationSet" : "T_-X-Y-Z",
+         "sticky" : "-X-Y-Z",
+         "uuid" : "c56a434c-75a2-4051-9eeb-b4a10827a7fb"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "margin" : 0.0,
+            "pointList" : [
+               {
+                  "x" : -1.0,
+                  "y" : 1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               }
+            ],
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Angular Wedge 1x2 L LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 4,
+            "durability" : 6,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Angular Wedge 1x2 L.rend",
+         "rotationSet" : "T_-X-Y-Z",
+         "sticky" : "-X-Y-Z",
+         "uuid" : "e4efc73b-3ccd-45eb-bf5f-42c3819f7fa7"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "margin" : 0.0,
+            "pointList" : [
+               {
+                  "x" : -1.0,
+                  "y" : 1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               }
+            ],
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Angular Wedge 1x2 L LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 4,
+            "durability" : 7,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Angular Wedge 1x2 L.rend",
+         "rotationSet" : "T_-X-Y-Z",
+         "sticky" : "-X-Y-Z",
+         "uuid" : "b88681b9-ddae-410f-a59c-195f3c474507"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "margin" : 0.0,
+            "pointList" : [
+               {
+                  "x" : -1.0,
+                  "y" : 1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               }
+            ],
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Angular Wedge 1x2 L LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 4,
+            "durability" : 8,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Angular Wedge 1x2 L.rend",
+         "rotationSet" : "T_-X-Y-Z",
+         "sticky" : "-X-Y-Z",
+         "uuid" : "87dbf28e-dd86-40b3-acfe-268a8203df1a"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "margin" : 0.0,
+            "pointList" : [
+               {
+                  "x" : -1.0,
+                  "y" : 1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               }
+            ],
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Angular Wedge 1x2 L LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 4,
+            "durability" : 9,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Angular Wedge 1x2 L.rend",
+         "rotationSet" : "T_-X-Y-Z",
+         "sticky" : "-X-Y-Z",
+         "uuid" : "b34fc938-6f19-4305-bf1a-aaf4a227c861"
+      },
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "margin" : 0.0,
+            "pointList" : [
+               {
+                  "x" : 1.0,
+                  "y" : 1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               }
+            ],
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Angular Wedge 1x2 R LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 4,
+            "durability" : 1,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Angular Wedge 1x2 R.rend",
+         "rotationSet" : "T_+X-Y-Z",
+         "sticky" : "+X-Y-Z",
+         "uuid" : "424ef0c3-9dbe-450b-acd7-32ff2a02d836"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "margin" : 0.0,
+            "pointList" : [
+               {
+                  "x" : 1.0,
+                  "y" : 1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               }
+            ],
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Angular Wedge 1x2 R LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 4,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Angular Wedge 1x2 R.rend",
+         "rotationSet" : "T_+X-Y-Z",
+         "sticky" : "+X-Y-Z",
+         "uuid" : "2be19516-01e8-4ddf-96f2-6fbd52b40b55"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "margin" : 0.0,
+            "pointList" : [
+               {
+                  "x" : 1.0,
+                  "y" : 1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               }
+            ],
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Angular Wedge 1x2 R LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 4,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Angular Wedge 1x2 R.rend",
+         "rotationSet" : "T_+X-Y-Z",
+         "sticky" : "+X-Y-Z",
+         "uuid" : "cbd65d82-0170-401d-98dd-35b2932f1514"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "margin" : 0.0,
+            "pointList" : [
+               {
+                  "x" : 1.0,
+                  "y" : 1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               }
+            ],
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Angular Wedge 1x2 R LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 4,
+            "durability" : 4,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Angular Wedge 1x2 R.rend",
+         "rotationSet" : "T_+X-Y-Z",
+         "sticky" : "+X-Y-Z",
+         "uuid" : "2223e409-227b-4068-aa28-f15d0d8be015"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "margin" : 0.0,
+            "pointList" : [
+               {
+                  "x" : 1.0,
+                  "y" : 1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               }
+            ],
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Angular Wedge 1x2 R LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 4,
+            "durability" : 5,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Angular Wedge 1x2 R.rend",
+         "rotationSet" : "T_+X-Y-Z",
+         "sticky" : "+X-Y-Z",
+         "uuid" : "1fcf4946-5be2-44ed-8186-d0dc54fef440"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "margin" : 0.0,
+            "pointList" : [
+               {
+                  "x" : 1.0,
+                  "y" : 1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               }
+            ],
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Angular Wedge 1x2 R LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 4,
+            "durability" : 6,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Angular Wedge 1x2 R.rend",
+         "rotationSet" : "T_+X-Y-Z",
+         "sticky" : "+X-Y-Z",
+         "uuid" : "3a21ec42-060b-4202-a1bb-c57b0e6dc193"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "margin" : 0.0,
+            "pointList" : [
+               {
+                  "x" : 1.0,
+                  "y" : 1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               }
+            ],
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Angular Wedge 1x2 R LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 4,
+            "durability" : 7,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Angular Wedge 1x2 R.rend",
+         "rotationSet" : "T_+X-Y-Z",
+         "sticky" : "+X-Y-Z",
+         "uuid" : "8319d87d-7587-4baf-92a9-6176724a9acd"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "margin" : 0.0,
+            "pointList" : [
+               {
+                  "x" : 1.0,
+                  "y" : 1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               }
+            ],
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Angular Wedge 1x2 R LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 4,
+            "durability" : 8,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Angular Wedge 1x2 R.rend",
+         "rotationSet" : "T_+X-Y-Z",
+         "sticky" : "+X-Y-Z",
+         "uuid" : "41f529bc-aec5-44f2-8c70-5aa04da20ec9"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "margin" : 0.0,
+            "pointList" : [
+               {
+                  "x" : 1.0,
+                  "y" : 1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : 1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : 1.0
+               },
+               {
+                  "x" : -1.0,
+                  "y" : -1.0,
+                  "z" : -1.0
+               }
+            ],
+            "x" : 1,
+            "y" : 1,
+            "z" : 2
+         },
+         "name" : "Angular Wedge 1x2 R LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 2,
+            "density" : 4,
+            "durability" : 9,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/Angular Wedge 1x2 R.rend",
+         "rotationSet" : "T_+X-Y-Z",
+         "sticky" : "+X-Y-Z",
+         "uuid" : "0498674a-847f-443e-9b7f-d157f337c0e1"
+      }
+   ]
+}

@@ -1,0 +1,193 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/PackingTableHolderCol.obj",
+            "x" : 1,
+            "y" : 5,
+            "z" : 1
+         },
+         "name" : "Packing Table Holder LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PackingTableHolder.rend",
+         "rotationSet" : "PropZY",
+         "sticky" : "+Y-Y-Z+X-X",
+         "uuid" : "cc65651a-d692-4608-b7de-b04eff94db1f"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/PackingTableHolderCol.obj",
+            "x" : 1,
+            "y" : 5,
+            "z" : 1
+         },
+         "name" : "Packing Table Holder LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 2,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PackingTableHolder.rend",
+         "rotationSet" : "PropZY",
+         "sticky" : "+Y-Y-Z+X-X",
+         "uuid" : "7c746af5-8cc2-4ccd-a823-64baf792e781"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/PackingTableHolderCol.obj",
+            "x" : 1,
+            "y" : 5,
+            "z" : 1
+         },
+         "name" : "Packing Table Holder LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 3,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PackingTableHolder.rend",
+         "rotationSet" : "PropZY",
+         "sticky" : "+Y-Y-Z+X-X",
+         "uuid" : "b57f923f-8b86-4256-bc2d-1ee9de150937"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/PackingTableHolderCol.obj",
+            "x" : 1,
+            "y" : 5,
+            "z" : 1
+         },
+         "name" : "Packing Table Holder LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 4,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PackingTableHolder.rend",
+         "rotationSet" : "PropZY",
+         "sticky" : "+Y-Y-Z+X-X",
+         "uuid" : "e3b6b922-41f3-4293-ae8b-56deaacc2e9c"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/PackingTableHolderCol.obj",
+            "x" : 1,
+            "y" : 5,
+            "z" : 1
+         },
+         "name" : "Packing Table Holder LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 5,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PackingTableHolder.rend",
+         "rotationSet" : "PropZY",
+         "sticky" : "+Y-Y-Z+X-X",
+         "uuid" : "05e0fbee-fe58-4c3c-a9ff-6739973f48c0"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/PackingTableHolderCol.obj",
+            "x" : 1,
+            "y" : 5,
+            "z" : 1
+         },
+         "name" : "Packing Table Holder LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 6,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PackingTableHolder.rend",
+         "rotationSet" : "PropZY",
+         "sticky" : "+Y-Y-Z+X-X",
+         "uuid" : "833f8e4b-9d56-4036-94b0-4f8081a8b9c2"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/PackingTableHolderCol.obj",
+            "x" : 1,
+            "y" : 5,
+            "z" : 1
+         },
+         "name" : "Packing Table Holder LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 7,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PackingTableHolder.rend",
+         "rotationSet" : "PropZY",
+         "sticky" : "+Y-Y-Z+X-X",
+         "uuid" : "25190b15-4a88-4541-99f9-5cd624c621f7"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/PackingTableHolderCol.obj",
+            "x" : 1,
+            "y" : 5,
+            "z" : 1
+         },
+         "name" : "Packing Table Holder LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 8,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PackingTableHolder.rend",
+         "rotationSet" : "PropZY",
+         "sticky" : "+Y-Y-Z+X-X",
+         "uuid" : "a3a52814-d22e-4366-82cb-e6cb6b5b1699"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/PackingTableHolderCol.obj",
+            "x" : 1,
+            "y" : 5,
+            "z" : 1
+         },
+         "name" : "Packing Table Holder LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 3,
+            "density" : 4,
+            "durability" : 9,
+            "friction" : 6
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/PackingTableHolder.rend",
+         "rotationSet" : "PropZY",
+         "sticky" : "+Y-Y-Z+X-X",
+         "uuid" : "7d180352-5d8b-42e7-a6cd-2eab99aec387"
+      }
+   ]
+}

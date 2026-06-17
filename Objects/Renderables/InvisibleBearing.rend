@@ -1,0 +1,17 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$GAME_DATA/Objects/Mesh/interactive/obj_interactive_bearing.fbx",
+         "subMeshList" : [
+            {
+               "material" : "Visualization",
+               "textureList" : [
+                  "$GAME_DATA/Objects/Textures/interactive/obj_interactive_bearing_dif.tga",
+                  "$GAME_DATA/Objects/Textures/interactive/obj_interactive_bearing_asg.tga",
+                  "$GAME_DATA/Objects/Textures/interactive/obj_interactive_bearing_nor.tga"
+               ]
+            }
+         ]
+      }
+   ]
+}

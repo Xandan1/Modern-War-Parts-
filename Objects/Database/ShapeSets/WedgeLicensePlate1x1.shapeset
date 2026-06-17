@@ -1,0 +1,382 @@
+{
+   "partList" : [
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WedgeLicensePlate1x1LeftCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 Left LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WedgeLicensePlate1x1Left.rend",
+         "rotationSet" : "PropZX",
+         "sticky" : "-Z+Y+X",
+         "uuid" : "a61c9114-4c23-4eec-9239-3acbc97a44d8"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WedgeLicensePlate1x1LeftCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 Left LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 4,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WedgeLicensePlate1x1Left.rend",
+         "rotationSet" : "PropZX",
+         "sticky" : "-Z+Y+X",
+         "uuid" : "fe817fa4-ee0e-4e7b-bfd7-aef4b9d92502"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WedgeLicensePlate1x1LeftCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 Left LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 4,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WedgeLicensePlate1x1Left.rend",
+         "rotationSet" : "PropZX",
+         "sticky" : "-Z+Y+X",
+         "uuid" : "6a0c126b-7073-4920-8e2c-5615a1df1250"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WedgeLicensePlate1x1LeftCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 Left LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 4,
+            "durability" : 4,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WedgeLicensePlate1x1Left.rend",
+         "rotationSet" : "PropZX",
+         "sticky" : "-Z+Y+X",
+         "uuid" : "895e76df-bab2-4f1a-94c7-10e833294674"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WedgeLicensePlate1x1LeftCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 Left LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 4,
+            "durability" : 5,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WedgeLicensePlate1x1Left.rend",
+         "rotationSet" : "PropZX",
+         "sticky" : "-Z+Y+X",
+         "uuid" : "58cb2b82-01cb-4794-af36-b6d0cf03bfe8"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WedgeLicensePlate1x1LeftCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 Left LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 4,
+            "durability" : 6,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WedgeLicensePlate1x1Left.rend",
+         "rotationSet" : "PropZX",
+         "sticky" : "-Z+Y+X",
+         "uuid" : "821825c7-4567-4e2a-a9f0-49642ed37a8b"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WedgeLicensePlate1x1LeftCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 Left LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 4,
+            "durability" : 7,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WedgeLicensePlate1x1Left.rend",
+         "rotationSet" : "PropZX",
+         "sticky" : "-Z+Y+X",
+         "uuid" : "e3bce1b1-e081-46b3-8e6d-231513bbac4c"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WedgeLicensePlate1x1LeftCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 Left LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 4,
+            "durability" : 8,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WedgeLicensePlate1x1Left.rend",
+         "rotationSet" : "PropZX",
+         "sticky" : "-Z+Y+X",
+         "uuid" : "a42c3f74-11ad-4caa-910d-f07fd5d2759e"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WedgeLicensePlate1x1LeftCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 Left LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 4,
+            "durability" : 9,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WedgeLicensePlate1x1Left.rend",
+         "rotationSet" : "PropZX",
+         "sticky" : "-Z+Y+X",
+         "uuid" : "2a54b183-9515-4163-b92c-2ddc87110155"
+      },
+      {
+         "color" : "4C6FE3",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WedgeLicensePlate1x1RightCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 Right LVL 1",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 1,
+            "durability" : 1,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WedgeLicensePlate1x1Right.rend",
+         "rotationSet" : "PropZX",
+         "sticky" : "-Z+Y-X",
+         "uuid" : "271ae382-6dba-4f25-a984-c706d14a3d11"
+      },
+      {
+         "color" : "0E8031",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WedgeLicensePlate1x1RightCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 Right LVL 2",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 4,
+            "durability" : 2,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WedgeLicensePlate1x1Right.rend",
+         "rotationSet" : "PropZX",
+         "sticky" : "-Z+Y-X",
+         "uuid" : "39beb5e7-aa12-4516-b21e-612d4675fcab"
+      },
+      {
+         "color" : "577D07",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WedgeLicensePlate1x1RightCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 Right LVL 3",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 4,
+            "durability" : 3,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WedgeLicensePlate1x1Right.rend",
+         "rotationSet" : "PropZX",
+         "sticky" : "-Z+Y-X",
+         "uuid" : "3a25f9cd-1f6d-43d9-aada-139c36db3f28"
+      },
+      {
+         "color" : "375000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WedgeLicensePlate1x1RightCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 Right LVL 4",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 4,
+            "durability" : 4,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WedgeLicensePlate1x1Right.rend",
+         "rotationSet" : "PropZX",
+         "sticky" : "-Z+Y-X",
+         "uuid" : "481d0055-5b1a-499b-b45e-31df2c598cb2"
+      },
+      {
+         "color" : "817C00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WedgeLicensePlate1x1RightCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 Right LVL 5",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 4,
+            "durability" : 5,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WedgeLicensePlate1x1Right.rend",
+         "rotationSet" : "PropZX",
+         "sticky" : "-Z+Y-X",
+         "uuid" : "011f49f4-fc11-41e7-a973-39ba80692c88"
+      },
+      {
+         "color" : "E2DB13",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WedgeLicensePlate1x1RightCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 Right LVL 6",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 4,
+            "durability" : 6,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WedgeLicensePlate1x1Right.rend",
+         "rotationSet" : "PropZX",
+         "sticky" : "-Z+Y-X",
+         "uuid" : "d542adfc-d9c8-48bc-b172-c7384c9c4a2e"
+      },
+      {
+         "color" : "DF7F00",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WedgeLicensePlate1x1RightCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 Right LVL 7",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 4,
+            "durability" : 7,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WedgeLicensePlate1x1Right.rend",
+         "rotationSet" : "PropZX",
+         "sticky" : "-Z+Y-X",
+         "uuid" : "d224fe96-ddb7-4576-b025-4a3c6e70dd68"
+      },
+      {
+         "color" : "D02525",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WedgeLicensePlate1x1RightCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 Right LVL 8",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 4,
+            "durability" : 8,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WedgeLicensePlate1x1Right.rend",
+         "rotationSet" : "PropZX",
+         "sticky" : "-Z+Y-X",
+         "uuid" : "3d134357-6694-4cc8-a223-48cac14e5b87"
+      },
+      {
+         "color" : "7C0000",
+         "hull" : {
+            "col" : "$CONTENT_DATA/Objects/Collision/WedgeLicensePlate1x1RightCol.obj",
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "name" : "License Plate 1x1 Right LVL 9",
+         "physicsMaterial" : "Metal",
+         "ratings" : {
+            "buoyancy" : 6,
+            "density" : 4,
+            "durability" : 9,
+            "friction" : 5
+         },
+         "renderable" : "$CONTENT_DATA/Objects/Renderables/WedgeLicensePlate1x1Right.rend",
+         "rotationSet" : "PropZX",
+         "sticky" : "-Z+Y-X",
+         "uuid" : "1394f418-4006-423d-8159-0cf3341b78f9"
+      }
+   ]
+}

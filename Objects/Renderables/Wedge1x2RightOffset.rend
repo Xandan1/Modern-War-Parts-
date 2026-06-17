@@ -1,0 +1,21 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$CONTENT_DATA/Objects/Mesh/Wedge1x2RightOffset.fbx",
+         "subMeshList" : [
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/WedgeDif.tga",
+                  "$SURVIVAL_DATA/Objects/Textures/warehouse/obj_warehouse_bigramp_asg.tga",
+                  "$SURVIVAL_DATA/Objects/Textures/warehouse/obj_warehouse_bigramp_nor.tga"
+               ]
+            },
+            {
+               "material" : "Visualization",
+               "textureList" : []
+            }
+         ]
+      }
+   ]
+}

@@ -1,0 +1,73 @@
+{
+   "lodList" : [
+      {
+         "mesh" : "$CONTENT_DATA/Objects/Mesh/Vehicle/L3_33_CC.obj",
+         "subMeshList" : [
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/Vehicle/it_l3_cc_track_n_s.jpg",
+                  "$CONTENT_DATA/Objects/Textures/blk_metal2_asg.tga",
+                  "$CONTENT_DATA/Objects/Textures/Nothing_nor.tga"
+               ]
+            },
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/Vehicle/l3_cc_body_c_it_camo_desert_yellow.jpg",
+                  "$CONTENT_DATA/Objects/Textures/blk_metal2_asg.tga",
+                  "$CONTENT_DATA/Objects/Textures/Nothing_nor.tga"
+               ]
+            },
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/Vehicle/l3_cc_body_c_it_camo_desert_yellow.jpg",
+                  "$CONTENT_DATA/Objects/Textures/blk_metal2_asg.tga",
+                  "$CONTENT_DATA/Objects/Textures/Nothing_nor.tga"
+               ]
+            },
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/Vehicle/l3_cc_body_c_it_camo_desert_yellow.jpg",
+                  "$CONTENT_DATA/Objects/Textures/blk_metal2_asg.tga",
+                  "$CONTENT_DATA/Objects/Textures/Nothing_nor.tga"
+               ]
+            },
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/Vehicle/l3_cc_body_c_it_camo_desert_yellow.jpg",
+                  "$CONTENT_DATA/Objects/Textures/blk_metal2_asg.tga",
+                  "$CONTENT_DATA/Objects/Textures/Nothing_nor.tga"
+               ]
+            },
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/Vehicle/it_l3_cc_track_n_s.jpg",
+                  "$CONTENT_DATA/Objects/Textures/blk_metal2_asg.tga",
+                  "$CONTENT_DATA/Objects/Textures/Vehicle/it_l3_cc_track_c_a.png"
+               ]
+            },
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/Vehicle/l3_cc_body_c_it_camo_desert_yellow.jpg",
+                  "$CONTENT_DATA/Objects/Textures/blk_metal2_asg.tga",
+                  "$CONTENT_DATA/Objects/Textures/Nothing_nor.tga"
+               ]
+            },
+            {
+               "material" : "DifAsgNor",
+               "textureList" : [
+                  "$CONTENT_DATA/Objects/Textures/Vehicle/l3_cc_body_c_it_camo_desert_yellow.jpg",
+                  "$CONTENT_DATA/Objects/Textures/blk_metal2_asg.tga",
+                  "$CONTENT_DATA/Objects/Textures/Nothing_nor.tga"
+               ]
+            }
+         ]
+      }
+   ]
+}
